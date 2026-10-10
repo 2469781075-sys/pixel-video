@@ -1,0 +1,63 @@
+{
+  "review_status": "awaiting_user_review",
+  "output_type": "static_keyframes",
+  "style": "掌机 RPG A",
+  "shots": [
+    {
+      "file": "01-classroom.png",
+      "title": "教室全景",
+      "size": [
+        1672,
+        941
+      ],
+      "camera": "高角度全景",
+      "window_state": "closed",
+      "sentence_id": 2,
+      "text": "主播高中的教室是狭窄逼仄的。",
+      "start_seconds": 3.11,
+      "end_seconds": 6.01
+    },
+    {
+      "file": "02-classmates.png",
+      "title": "同学近景",
+      "size": [
+        1672,
+        941
+      ],
+      "camera": "高角度近景",
+      "window_state": "closed",
+      "sentence_id": 7,
+      "text": "他们围成了一个个小小世界，讲述着我听不懂的历史。",
+      "start_seconds": 39.9,
+      "end_seconds": 44.46
+    },
+    {
+      "file": "03-first-person-opening.png",
+      "title": "第一人称开窗",
+      "size": [
+        1672,
+        941
+      ],
+      "camera": "第一人称，双手推动窗扇",
+      "window_state": "partly_open",
+      "sentence_id": 13,
+      "text": "但是，说不清道不明，趁着同桌不在，挟着自怜和愿望，我总是开了。",
+      "start_seconds": 66.94,
+      "end_seconds": 74.8
+    },
+    {
+      "file": "04-after-opening.png",
+      "title": "开窗后的视野",
+      "size": [
+        1672,
+        941
+      ],
+      "camera": "第一人称，双手放下、视野打开",
+      "window_state": "open",
+      "sentence_id": 14,
+      "text": "意识蹒跚着爬上窗扣，肢体却得到了勇气的奖赏，我缓缓支走那两片玻璃，天地之间唤起一片清澈的凉，教室里面映满了雨水和露水的影子，终是把我们都接成一片了。",
+      "start_seconds": 75.05,
+      "end_seconds": 90.69
+    }
+  ]
+}
