@@ -1,0 +1,58 @@
+{
+  "status": "passed",
+  "remotion": "4.0.534",
+  "video": {
+    "path": "/workspace/video-tools/remotion/output/runtime-check.mp4",
+    "duration_seconds": 5.013,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "fps": 24,
+    "frames": 120,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "color_space": "bt709",
+    "file_bytes": 612911,
+    "repository_path": "tools/remotion/runtime-check.mp4"
+  },
+  "audio": {
+    "codec": "aac",
+    "channels": 2,
+    "sample_rate": 48000,
+    "mambo_source_correlation": 0.994279,
+    "decoder_alignment_ms": 34.542,
+    "aligned_source_gain": 0.978344,
+    "speech_rms": 0.099409,
+    "peak_below_clipping": true
+  },
+  "motion": {
+    "fixed_plate_mean_absolute_difference": 0.019841,
+    "local_motion_mean_absolute_difference": 7.065657
+  },
+  "full_decode": "passed",
+  "studio_http_and_composition_bundle": "passed",
+  "interactive_browser_ui": "not_exercised",
+  "separate_new_task_restoration": "not_tested",
+  "community_skills": {
+    "pixel-art-studio": {
+      "status": "passed",
+      "source_commit": "f8c246635c4621a6c2b427833149afdc3dc3c719",
+      "native_dimensions": [
+        32,
+        32
+      ],
+      "gif_frames": 4,
+      "spritesheet_export": "passed",
+      "editable_project_export": "passed"
+    },
+    "ffmpeg-skill": {
+      "source_commit": "1f7e7e3ad1c30cb39fe9032abb5b39cca8e63376",
+      "probe": "passed",
+      "look": "passed",
+      "other_optional_tools": "not_exercised"
+    }
+  },
+  "install_script_reuse": "passed, combined Mambo and Remotion script",
+  "runtime_tools_archive_integrity": "passed"
+}

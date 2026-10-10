@@ -1,0 +1,4 @@
+interface:
+  display_name: "FFmpeg 声画制作与检查"
+  short_description: "使用本地工具处理声画、原文字幕、响度并检查实际成片与代表帧"
+  default_prompt: "使用 $ffmpeg-skill 检查这部像素视频的声画规格、曼波音轨、原文字幕和代表帧。"

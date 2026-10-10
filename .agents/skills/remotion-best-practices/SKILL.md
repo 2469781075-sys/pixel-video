@@ -21,4 +21,6 @@ description: 官方 Remotion 视频技能参考包，指导 React 视频的逐�
 
 以实际安装的 Remotion 版本为准，使用项目锁文件与相应版本文档；本参考包包含较新的 API，不假定其他项目已安装这些功能。下载技能参考文件不等于安装 Remotion、React 或浏览器渲染环境。
 
+本云环境已另行安装 Remotion 4.0.534、React 和系统 Chromium，实际导出检查已通过。运行目录是 `/workspace/video-tools/remotion`；安装、启动、验证与可恢复工具包见 [运行环境说明](../../../docs/remotion-runtime.md)。
+
 制作本仓库像素短片时，先遵循 [项目制作规范](../pixel-video-production/SKILL.md)。复用用户指定的曼波音轨；配音示例中的 ElevenLabs 服务只是上游示例。用户明确要求成片时，完成实际导出；仅要图片检查时交付静帧。在没有可访问浏览器的云环境，用实际导出的静帧检查画面。

@@ -1,0 +1,4 @@
+interface:
+  display_name: "像素美术与精灵动画"
+  short_description: "参考社区像素技法，检查人体比例、稳定落地及逐帧动作导出"
+  default_prompt: "使用 $pixel-art-studio 检查人物像素比例和动作关键帧，保持现有掌机 RPG 画风。"

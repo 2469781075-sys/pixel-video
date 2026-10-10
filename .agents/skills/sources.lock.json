@@ -644,6 +644,450 @@
           "reason": "Unmodified upstream entry point retained."
         }
       ]
+    },
+    {
+      "name": "pixel-art-studio",
+      "repository": "https://github.com/Gamezxz/pixel-art-studio",
+      "commit": "f8c246635c4621a6c2b427833149afdc3dc3c719",
+      "upstream_path": ".",
+      "installed_path": ".agents/skills/pixel-art-studio",
+      "license_note": "MIT; upstream LICENSE retained.",
+      "upstream_files": [
+        {
+          "path": "LICENSE",
+          "sha256": "02356246e8a18ae2afe5d156ad52b6d5c6fce527ba86bddbcd7d588097af391a"
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "3aea3d2fb63a1027ce0cd3f7e8c857e07897c58662536a71489ce19eba0d9296"
+        },
+        {
+          "path": "examples/slime-build.py",
+          "sha256": "0d0e9621c735f3cf0db857dc128aa032f81d951da2a37aea75a1a989fdea23f1"
+        },
+        {
+          "path": "references/animation.md",
+          "sha256": "977c4370e1930829ef44c0241fbc9dcb76f3ef22f8e1d90545c5c762e2324bfd"
+        },
+        {
+          "path": "references/cleanup.md",
+          "sha256": "9d8156fa603d18dad2cc89fa2ab280a96b258c52508e073536e2d649e1e86fd0"
+        },
+        {
+          "path": "references/export.md",
+          "sha256": "0d054ef3375c39159ff062b15d63951d25ed653844c69f846a551bb5c3a9fc5d"
+        },
+        {
+          "path": "references/learned/001-chibi-jrpg-cast.md",
+          "sha256": "a87b23fa06c56f65207f2a4ecd64ca40449695b5bcb820d1c3862088ab34845f"
+        },
+        {
+          "path": "references/learned/002-dynamic-attack-canvas.md",
+          "sha256": "ae8a574ffd8289e65f881d6fd9b1c59e12e2935f0fd220128de0dc55440b4a01"
+        },
+        {
+          "path": "references/learned/003-dramatic-chibi-swordsman.md",
+          "sha256": "f13db44624bcd0ca5d866b1e75820a2a070e097233b0bfd9a53a92490adf6be2"
+        },
+        {
+          "path": "references/learned/004-tactical-chibi-layered-cloth.md",
+          "sha256": "336c1427dcb9380186adc28ca1f247c41efed6f5f8abe330f5443a018a146204"
+        },
+        {
+          "path": "references/learned/005-tall-tactical-job-sprites.md",
+          "sha256": "31db71900386846ffbd166d425f5de52aa2695d9ebcac8dc2379783c4cfe08da"
+        },
+        {
+          "path": "references/learned/INDEX.md",
+          "sha256": "633c9ca1b2abbaa3087176a2b89cb018e89f10a7107bb3fa9a5e5e87f63bc0a2"
+        },
+        {
+          "path": "references/learned/TEMPLATE.md",
+          "sha256": "1fdf7e9bfaccad7af6081b1b67305bbda73412b3d93659299bf09852a88fd141"
+        },
+        {
+          "path": "references/lpc.md",
+          "sha256": "7c66682750583e1d11fe6dedc17bec382db8eb3e7584fa415932c9a08ca4e81f"
+        },
+        {
+          "path": "references/palettes.md",
+          "sha256": "eb714644acc92eaaed8901eecf78956071e04fc545569623194e462e7dd48567"
+        },
+        {
+          "path": "references/patterns.md",
+          "sha256": "44199c368ad74f98c9bb7565b104953c89861c2c17c49dd400095f358875179d"
+        },
+        {
+          "path": "references/sharp_edges.md",
+          "sha256": "e1b625cec328c744a721d5672489fb2367afdf0bb5086a5de2c9594a570e2c32"
+        },
+        {
+          "path": "references/techniques.md",
+          "sha256": "46fdb7dba9be36b2c5dd66742dda89148f6d178429d4619152ae42003a4d17f0"
+        },
+        {
+          "path": "references/validations.md",
+          "sha256": "d31b5826fcdb0125ceec6683067377db1543a366883557b789cc50cfaf75d0c3"
+        },
+        {
+          "path": "scripts/lpc.py",
+          "sha256": "b063394c929f5e0bae4c528556c319184a41c3f584a8e1823813e599a0246673"
+        },
+        {
+          "path": "scripts/pixelpipe.py",
+          "sha256": "282f7f67ef5c742f84f1bbf38f5bda3b29aead6eae2acdbc92f6de1410d5760c"
+        },
+        {
+          "path": "scripts/pixelstudio.py",
+          "sha256": "537c49c3674619e1388bcef18589351173790e189149ba6d9f55d7322b78a508"
+        },
+        {
+          "path": "scripts/study.py",
+          "sha256": "8ca647f80bcbf12f4d103ae62e81e48b9669371eb7ece65111d62e6dfbe02d38"
+        }
+      ],
+      "local_changes": [
+        {
+          "path": "SKILL.md",
+          "reason": "Scope use to this project and retain the upstream entry point in UPSTREAM-SKILL.md."
+        },
+        {
+          "path": "agents/openai.yaml",
+          "reason": "Chinese discovery metadata added."
+        },
+        {
+          "path": "UPSTREAM-SKILL.md",
+          "reason": "Unmodified upstream entry point retained."
+        }
+      ]
+    },
+    {
+      "name": "ffmpeg-skill",
+      "repository": "https://github.com/kajisho5/ffmpeg-skill",
+      "commit": "1f7e7e3ad1c30cb39fe9032abb5b39cca8e63376",
+      "upstream_path": ".",
+      "installed_path": ".agents/skills/ffmpeg-skill",
+      "license_note": "MIT; upstream LICENSE retained.",
+      "upstream_files": [
+        {
+          "path": "LICENSE",
+          "sha256": "7522b29e4d6e90f2a8fab15f07d224b1064c70692a872be9996ac1a88cf474e9"
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "0c55c511da002038b5f49941f53ee1b395e1eb9ccdd528659c6b68dff495c8b2"
+        },
+        {
+          "path": "docs/contract.md",
+          "sha256": "55eec91a8dca030a82eb1714aa7bc32fd651659e722a093fe2ea8ae5e70e28e4"
+        },
+        {
+          "path": "references/ci-platform-pitfalls.md",
+          "sha256": "0bc318f80ce82e410ad67d4ba678ab70c80a5576ecad95d63d6f355c9a4d2b22"
+        },
+        {
+          "path": "references/devices.md",
+          "sha256": "7c2133aa6b6c0067b71c7634cd2663c6015c9a2343d1032bad4888e232588c05"
+        },
+        {
+          "path": "references/gotchas.md",
+          "sha256": "ff3bf8bc26bb186dd60c6bb8fab9f50e3cbf69347ad99add417d4b95f6da29a9"
+        },
+        {
+          "path": "references/process-pitfalls.md",
+          "sha256": "431c3f7bd34f416be9848a4b5033bbc15f309874bd19bb3b5c3c4d2b7dfc9b2a"
+        },
+        {
+          "path": "references/scripts.md",
+          "sha256": "acf2818a5e89a7afc644293f038fcb6c316b3cc5612ac6aca2efc33a57b3cd05"
+        },
+        {
+          "path": "scripts/_ass_overlay.py",
+          "sha256": "eca5bbe97ce74c65f073b72a651452230afc51a6dd1d9691bc3e9fd46185d4aa"
+        },
+        {
+          "path": "scripts/_common/__init__.py",
+          "sha256": "49104dd5e2d2149fab5664ad7a7a7f559161954db335b0da243cbaee4729db96"
+        },
+        {
+          "path": "scripts/_common/asr.py",
+          "sha256": "cb8c99196066d4befb3e9d1a5cafbbb7ada57046254c5f85b51e3f27212d97eb"
+        },
+        {
+          "path": "scripts/_common/color.py",
+          "sha256": "e5d18fb93b081bc6b3b0961eb8d9f5d577401e5f2335480485f1d9e31353e2d8"
+        },
+        {
+          "path": "scripts/_common/decision.py",
+          "sha256": "8023b1cfc299f97152be5d0399111815958dfc6dda15abda3ab7bb91766f7278"
+        },
+        {
+          "path": "scripts/_common/drawtext.py",
+          "sha256": "82b719f7836fb428463ea04067ca9e0e627bd428175180c784c02cedcf088093"
+        },
+        {
+          "path": "scripts/_common/emit.py",
+          "sha256": "29e0566554235f282e0205b4fe41a81289ee8a29b74b3df2d332b76e773ae201"
+        },
+        {
+          "path": "scripts/_common/emoji.py",
+          "sha256": "8db4f6f4eca49990b879f127606ba2795048a7bac9ac86637127cdf6087fd726"
+        },
+        {
+          "path": "scripts/_common/fonts.py",
+          "sha256": "98fa5b367438c5c95dd2ad30ae7b81980582acad050d6702b890930f675a0aa1"
+        },
+        {
+          "path": "scripts/_common/probe.py",
+          "sha256": "d25963c24d36716c08138c052086513e7195e6fa3dd84d9febb15d71ca9d0862"
+        },
+        {
+          "path": "scripts/_common/runner.py",
+          "sha256": "4e95b004d9a7675a1641d2c44b060261780fb2949d4c25d0fa6614208fdc97ff"
+        },
+        {
+          "path": "scripts/_common/text.py",
+          "sha256": "aae381f89cac2c510abec8f2fd82d88412a3a659dbddba175a81d15edc0c7ebf"
+        },
+        {
+          "path": "scripts/_common/timeline.py",
+          "sha256": "527c002e1e591ece73e47c8db7be95c4446d4f67dd34ab8f89b5b5a5833b23e9"
+        },
+        {
+          "path": "scripts/_common/wrap.py",
+          "sha256": "49259773eee98c6276c455ead8e5db10da48bd39e29cb687601010a084132aff"
+        },
+        {
+          "path": "scripts/_contract.py",
+          "sha256": "cf5bfbf6a6194dd00949d3eccb405619557c02ea3a80ebd330483d1bd18fd84a"
+        },
+        {
+          "path": "scripts/_platforms.py",
+          "sha256": "3b06a2c1cda1f106e9ae7699e9e6b4b0d490352655f8eebeb9336b4f4b524ae8"
+        },
+        {
+          "path": "scripts/audio.py",
+          "sha256": "5b0fa95be3a9135ffa0b24464f398bcdfaf1b6a68886f8a55b5b7c04f6943ccd"
+        },
+        {
+          "path": "scripts/background.py",
+          "sha256": "77e7d57a1459a75ebfb20b93d26952dc8d7ee42dd4ebd9e039a2c07ca980fa5b"
+        },
+        {
+          "path": "scripts/batch.py",
+          "sha256": "573ce95fbd5715d3b662e7c3891da0ef531fe589ba9b2068f84b5da7e4abf663"
+        },
+        {
+          "path": "scripts/broll.py",
+          "sha256": "1ff00b8522f3542ec30e5d6b172964289fed0bbe572f504c3ae75f005c031082"
+        },
+        {
+          "path": "scripts/caption.py",
+          "sha256": "9e8634a030e7076c0566d8d5a5cb4eb10b44f207596fc148911d13fd3383212a"
+        },
+        {
+          "path": "scripts/check.py",
+          "sha256": "6af16c15d7d76f0b5a9c1c328612378b9def8b86207a7f3ab0806adf426f1353"
+        },
+        {
+          "path": "scripts/color.py",
+          "sha256": "e26e5a5f34ab8dfff0f3a8c6cbffb2e4d9cf753b911ae75c0899136d2c0167bb"
+        },
+        {
+          "path": "scripts/crop.py",
+          "sha256": "b209f617da1af72b0fa213c2bafe361838a48826cb963f12c23609a52f4ea55e"
+        },
+        {
+          "path": "scripts/cropdetect.py",
+          "sha256": "859a86d92dad9b8f538b1a75b1ebb8116fde3b8a1894e2e79d489b096960a027"
+        },
+        {
+          "path": "scripts/cut.py",
+          "sha256": "ce57ee35e36ba97147e1a16a7c5282371d6559b3d31398cd2ba4bc5609dc83af"
+        },
+        {
+          "path": "scripts/deinterlace.py",
+          "sha256": "e7f49973222570ef285abc37c3e485492714e5efc47e6b4672fd3fe20e2b0cff"
+        },
+        {
+          "path": "scripts/denoise.py",
+          "sha256": "ca27a98d9a18ad4b6b1ad823e0f944c329d8095c09d866839eff48f9833b904e"
+        },
+        {
+          "path": "scripts/export.py",
+          "sha256": "151bea9cd385d34cac988fe722437e3de5dd2e1ddc692310422d253a2212cfeb"
+        },
+        {
+          "path": "scripts/fit.py",
+          "sha256": "e5e217dbeb37d6c5abc9ce41da12b4d4bcfc2fd3bd910474cb71f174202af87d"
+        },
+        {
+          "path": "scripts/freeze.py",
+          "sha256": "be3613f5a952c5d0a4b4512c482818e875cc0e130f66841ba864ad37d619dea7"
+        },
+        {
+          "path": "scripts/graphics.py",
+          "sha256": "adbb7c5c5cc57e03870970e8b7fd26427dd37b60cfa288ca4738cb3f5a856ece"
+        },
+        {
+          "path": "scripts/grid.py",
+          "sha256": "9e9e3fb3774efd210e4c404cc9ce74a5505b51b9ff3a8f32f427c627278b4ad4"
+        },
+        {
+          "path": "scripts/insert.py",
+          "sha256": "2bba81f0833538df5ae306f2af47791b555a50aeae8c74209b6928d1643f7b14"
+        },
+        {
+          "path": "scripts/join.py",
+          "sha256": "46a16eb9c38fd9b4d6270faa6891fe57c747276ae4e46acac7335d79a4f9a1ba"
+        },
+        {
+          "path": "scripts/look.py",
+          "sha256": "5fc523eca18e4182283cc950c9adbc009aaf1593b105b1c470283893a838ec19"
+        },
+        {
+          "path": "scripts/loop.py",
+          "sha256": "78b9a4a381656f4d8608cc901c96051d3d5757c7f3dcb4529486558a22a375b5"
+        },
+        {
+          "path": "scripts/loudness.py",
+          "sha256": "f669f8b7c38c2e106fb93706191ab6b02f3efc1ec1fe20064f11f901821e3930"
+        },
+        {
+          "path": "scripts/metadata.py",
+          "sha256": "36e6e5fd200e771d8b550e98e6be926b3b6b4eb75d1418f5e8905ffa212c4eeb"
+        },
+        {
+          "path": "scripts/multicam.py",
+          "sha256": "1b56a1281826034eec052625b91a491e8976bb7f68d890491ade2e30dbe02b91"
+        },
+        {
+          "path": "scripts/overlay.py",
+          "sha256": "760ea6f51f14aa722004508379b2d6ebb9889eceb05acad80ab36544a4f4ce3c"
+        },
+        {
+          "path": "scripts/pad.py",
+          "sha256": "2cd5cd5a54d59fd0d2e4a0d604ad773ea3b0ef304a4a390617970d051015c4d3"
+        },
+        {
+          "path": "scripts/probe.py",
+          "sha256": "e2fd1390bc9976d5086e06e0a9ea64bd966638273339709ee7c2a0fa53210063"
+        },
+        {
+          "path": "scripts/proxy.py",
+          "sha256": "1323a89caf31d68c27008b51fc636895e465b14ba6b69ea2442273257a15303e"
+        },
+        {
+          "path": "scripts/redact.py",
+          "sha256": "98892c7951bd91af4499c850270af55f56f55cf52addc485e586ed6784698ea1"
+        },
+        {
+          "path": "scripts/render.py",
+          "sha256": "5ae125486ef9a9f69077fdff138777950faac74e59251b9ee52ba0d2994767b1"
+        },
+        {
+          "path": "scripts/report.py",
+          "sha256": "de3dd35419304a5c65e38f7086240bba7ed3e597ca9cdb5db2caf585cbc68dad"
+        },
+        {
+          "path": "scripts/reverse.py",
+          "sha256": "750fdb11d50c8ab706a50da37f6975a9956d18fbb5164bdda5bbebd1b544570b"
+        },
+        {
+          "path": "scripts/scenes.py",
+          "sha256": "44d1ec1e79fa715ddd707664848ab6d0ddba15d2738df17d61e3e38cebec833a"
+        },
+        {
+          "path": "scripts/sequence.py",
+          "sha256": "7c4bc83b0d0abd6976a949b5110d4eea9c18ea254ba426ae7fec821c5971b5e3"
+        },
+        {
+          "path": "scripts/silence.py",
+          "sha256": "70be0f45f335428a1c153ca9b97b3b0dcb13c8860107b4ff77a6026261b8c648"
+        },
+        {
+          "path": "scripts/speedramp.py",
+          "sha256": "0fe109a1d175bb2da6f7239f24d487c708f07d176667838a51cf95cbc4986a14"
+        },
+        {
+          "path": "scripts/sphere.py",
+          "sha256": "a69aa312e978ee8677b51e178164635f78c36f9c3bf1ee6078dca33d7b31f862"
+        },
+        {
+          "path": "scripts/stabilize.py",
+          "sha256": "4971a6dc90d2dab35fd19662529450c8f2a32d1bd9c3aa4d7df6f4a1443887e5"
+        },
+        {
+          "path": "scripts/straighten.py",
+          "sha256": "9b67e8b2a6763b5256198a073b4ffea1991493f33a283b40cc162a2e02595910"
+        },
+        {
+          "path": "scripts/sync.py",
+          "sha256": "c79620860d44e7597bf66b960ea42ca5d992fca00ca65ed1185a15db20998356"
+        },
+        {
+          "path": "scripts/verify.py",
+          "sha256": "2769967409e75ba56368068be38716b3022da94703971f1fa6816622acd652a8"
+        },
+        {
+          "path": "scripts/waveform.py",
+          "sha256": "689f4108bd7bacc26aa1c57b4bf6ca00f7532fdd5a036e30b19c561ce9ada405"
+        },
+        {
+          "path": "templates/audiogram.json",
+          "sha256": "62b861085141ac92774378460c4eaac553802a47068db4774ce3fac583a35dc5"
+        },
+        {
+          "path": "templates/facebook.json",
+          "sha256": "19b6f7d63a101773905db4a2eae89cfc4e08e6473513ef8600fbdbf61c3ee73e"
+        },
+        {
+          "path": "templates/linkedin.json",
+          "sha256": "e743f911b9a81d6dbd67e04755307d6ee0f0526e9962521fd0b250875a1a114e"
+        },
+        {
+          "path": "templates/podcast.json",
+          "sha256": "52ac44d93104e3403248f4855279e23857b9810e50e857d5b9ac1a80b125b4c1"
+        },
+        {
+          "path": "templates/reels.json",
+          "sha256": "4babffa264c53f637a10c844713d88db09941663baa72de2a2b61a925a73137c"
+        },
+        {
+          "path": "templates/shorts.json",
+          "sha256": "00e25cac9bb574ac74089c985f3c2ed34db09963add32d308bbdc21b3f60f312"
+        },
+        {
+          "path": "templates/tiktok.json",
+          "sha256": "c346c9e4c6f82c4b40b009ceb3e4ddb0df21ef5083ab6d301dc22906c8170e12"
+        },
+        {
+          "path": "templates/x.json",
+          "sha256": "f8d7936f365aea4a9a63e4b0ad419b1effc4836b47b0d491a82e436fac4379a9"
+        },
+        {
+          "path": "templates/youtube-shorts.json",
+          "sha256": "abf2c39ce09f5fc100730351b0340498e07f6e21c9d1bf7e3283c07f86b64951"
+        },
+        {
+          "path": "templates/youtube.json",
+          "sha256": "0221caab867bb9a0b28766af35cb9c9761e3d1dd7d0c080a105ae167daf5506a"
+        }
+      ],
+      "local_changes": [
+        {
+          "path": "SKILL.md",
+          "reason": "Scope use to this project and retain the upstream entry point in UPSTREAM-SKILL.md."
+        },
+        {
+          "path": "agents/openai.yaml",
+          "reason": "Chinese discovery metadata added."
+        },
+        {
+          "path": "UPSTREAM-SKILL.md",
+          "reason": "Unmodified upstream entry point retained."
+        }
+      ]
     }
   ],
   "authoring_reference": {

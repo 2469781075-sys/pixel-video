@@ -1,0 +1,62 @@
+{
+  "remotion_version": "4.0.534",
+  "runtime_location": "/workspace/video-tools",
+  "archive_sha256": "7d8ad618842170e2d89ff4fcedfc1869d8b24fd1483c9dcc3839acc1ef467286",
+  "files": [
+    {
+      "path": "remotion/package.json",
+      "sha256": "8e651bd2d176119600a774273591a3f01ce8e4fb87382b50f452e4c78b6e0d26",
+      "bytes": 773
+    },
+    {
+      "path": "remotion/package-lock.json",
+      "sha256": "d23638dbfd5caabb13ccf57b59256ed543fa265740785f643f351ddca5908b59",
+      "bytes": 141298
+    },
+    {
+      "path": "remotion/tsconfig.json",
+      "sha256": "e4145ae346b5029e06b400b905a351ae8ebff722a5b0a568bc59bd6535e3edd8",
+      "bytes": 409
+    },
+    {
+      "path": "remotion/remotion.config.ts",
+      "sha256": "e27ae54adc5706080ae7577a6f6cf7a3173d89b1abd5ca66206a49bb7fefcec7",
+      "bytes": 212
+    },
+    {
+      "path": "remotion/.gitignore",
+      "sha256": "35d073bcdadfea91c30eb800edad9ccff9c758efcdfbb73a561b2d4c0ae35e01",
+      "bytes": 30
+    },
+    {
+      "path": "remotion/src/index.tsx",
+      "sha256": "72b1386cd36f82ac696414ef8574c0761a3c8172b5262e3382ff1948e1ea3a27",
+      "bytes": 1632
+    },
+    {
+      "path": "setup/install_remotion.sh",
+      "sha256": "566577008b7308887c774a44e59b3272160fdee60f452dc7374717aba7118aa1",
+      "bytes": 1195
+    },
+    {
+      "path": "setup/start_remotion.sh",
+      "sha256": "21adec70890d42b5e44b25c4814c7e6c2afd916273caf35b8182126ce0a7a72a",
+      "bytes": 815
+    },
+    {
+      "path": "setup/prepare_check.py",
+      "sha256": "fb692e68ff4f0956ca3c1db730464ce7ac9b443f651cb5445c3ab82803a321ed",
+      "bytes": 695
+    },
+    {
+      "path": "setup/verify_runtime.py",
+      "sha256": "2fceac4534edef94958951cbf90eb22d975666113b499f2adb8a204233c80195",
+      "bytes": 4464
+    },
+    {
+      "path": "setup/combined-install.sh",
+      "sha256": "138b69918b58f7a355f3cb11ced3406ca9a1eb6323c1782477ed071a56837a87",
+      "bytes": 2911
+    }
+  ]
+}

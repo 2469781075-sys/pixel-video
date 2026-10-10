@@ -1,35 +1,31 @@
 # 今后视频制作使用的 skills
 
-已将两套 GitHub 官方技能和一套项目专用技能保存到本仓库 `.agents/skills/`，并由根目录 `AGENTS.md` 指定使用入口。它们是供助手读取的制作方法、参考文件和辅助工具；图片生成、曼波配音和渲染仍由实际工具完成。
+本仓库保存两套官方技能、两套社区技能和一套项目专用技能，由 [AGENTS.md](../AGENTS.md) 指定入口。技能提供制作方法和辅助工具；实际图片、配音和视频仍由相应运行环境完成。
 
-| 技能 | 用途 | 来源与状态 |
+| 技能 | 本项目用途 | 来源与已验证范围 |
 | --- | --- | --- |
-| [imagegen](../.agents/skills/imagegen/SKILL.md) | 角色与场景素材、参考图一致性、局部修改、透明部件 | [OpenAI 官方技能](https://github.com/openai/skills/tree/49f948faa9258a0c61caceaf225e179651397431/skills/.system/imagegen)；优先使用现有内置图片工具 |
-| [remotion-best-practices](../.agents/skills/remotion-best-practices/SKILL.md) | 逐帧动画、分场景时间轴、音轨、SRT 字幕、静帧和 MP4 导出 | [Remotion 官方技能](https://github.com/remotion-dev/skills/tree/32b241b97f4e0e4ab61fe9a41b05e6e64503f8c5/skills/remotion-best-practices)；参考包已下载，Remotion 引擎尚未安装 |
-| [pixel-video-production](../.agents/skills/pixel-video-production/SKILL.md) | 掌机 RPG 像素短片、曼波朗读、逐句原文字幕、稳定镜头与成片检查 | 本项目专用，依据已确认的画面要求和现有制作工具整理 |
+| [imagegen](../.agents/skills/imagegen/SKILL.md) | 场景、角色、参考图一致性和图片修改 | [OpenAI](https://github.com/openai/skills/tree/49f948faa9258a0c61caceaf225e179651397431/skills/.system/imagegen)，优先使用内置图片工具 |
+| [remotion-best-practices](../.agents/skills/remotion-best-practices/SKILL.md) | 图层、逐帧动画、分镜时间轴、音轨与字幕 | [Remotion](https://github.com/remotion-dev/skills/tree/32b241b97f4e0e4ab61fe9a41b05e6e64503f8c5/skills/remotion-best-practices)，引擎 4.0.534 已安装并完成实际 MP4 导出 |
+| [pixel-art-studio](../.agents/skills/pixel-art-studio/SKILL.md) | 像素调色板、人物比例、脚底锚点、动作关键帧和图集 | 社区 [Gamezxz/pixel-art-studio](https://github.com/Gamezxz/pixel-art-studio/tree/f8c246635c4621a6c2b427833149afdc3dc3c719)，四帧示例、PNG、GIF、图集与编辑数据导出通过 |
+| [ffmpeg-skill](../.agents/skills/ffmpeg-skill/SKILL.md) | 音视频探测、字幕、拼接、响度与成片代表帧 | 社区 [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill/tree/1f7e7e3ad1c30cb39fe9032abb5b39cca8e63376)，安装后的 probe.py、look.py 已检查实际 MP4 |
+| [pixel-video-production](../.agents/skills/pixel-video-production/SKILL.md) | 掌机 RPG 短片、曼波朗读、逐句原文字幕与画面检查 | 本项目专用，记录已确认的画面与制作要求 |
 
-专用技能记录了横向推拉窗、双人并桌、有同桌的靠窗座位、升高一层的讲台、周围同学落地和自然坐姿、第一人称开窗及开窗后的场景变化。画风参考已保留的更强像素版；旧版素材继续保存。
+项目技能保留横向推拉窗、双人并桌、有同桌的靠窗座位、升高一层的讲台、自然坐姿和落地、第一人称开窗及开窗后的场景变化。保留已有画风、检查图和成片，原文逐句用于字幕和配音。
 
-## 使用方法
+## 工具选择
 
-今后在这个仓库继续制作视频，助手按 `AGENTS.md` 读取对应技能。也可以在请求中明确指定：
+现有正式片用 Python/Pillow/FFmpeg 完成，已有可工作的渲染流程。Remotion 适合今后的 React 图层、分镜时间轴与逐帧预览，按作品需要选用。安装与复用见 [Remotion 运行环境说明](remotion-runtime.md)，本次没有迁移已交付的正式片。
 
-```text
-使用 $pixel-video-production，把下面的文章制作成掌机 RPG 像素视频，配曼波朗读和逐句原文字幕。
-```
+社区技能按当前问题筛选。Pixel Art Studio 提供具体像素动作、锚点与导出方法；FFmpeg 提供可检查实际输出的本地工具。小说改编分镜技能、需要桌面 Aseprite 服务的工具和大型技能合集也经过检索，当前不引入这些额外流程。
 
-```text
-使用 $pixel-video-production，先给我检查教室全景和第一人称横向推窗两张图片，暂时不做动画。
-```
+参考方法仍需通过实际看图确认人体、遮挡和动作。用户的位图生成与修改继续使用当前内置 image_gen；Python 绘图和图片清理为可选工具，不自动改变图片编辑方式。FFmpeg 其他可选脚本未全部测试，不自动改写文案、删除停顿或改变画面比例。两套社区工具不需要新增 API 密钥、Aseprite 或 GPU。
 
-这些文件现在就能被读取；新的会话是否在技能菜单中显示它们，取决于客户端对仓库技能的发现机制。即使菜单未刷新，仓库的 `AGENTS.md` 也明确提供了文件入口。
+## 使用与保存
 
-## 版本和边界
+可以直接要求：“使用 $pixel-video-production，把这篇文章制作成掌机 RPG 像素视频，配曼波朗读和逐句原文字幕。”也可以只要求图片检查。助手按 AGENTS.md 读取相应技能；菜单是否显示文件取决于客户端发现机制，文件入口始终可读。
 
-来源固定在具体 Git 提交，文件校验值和本地适配记录保存在 [sources.lock.json](../.agents/skills/sources.lock.json)。下载后没有运行图片 API CLI、地图示例、远程安装器或自动升级。imagegen 的 Apache 许可证随包保留；Remotion skills 检出中没有单独许可证文件，记录原始来源，不将其标注为 MIT 或 Apache。
+具体来源提交、原始文件 SHA-256 和本地适配记录在 [sources.lock.json](../.agents/skills/sources.lock.json)。社区包保留 MIT 许可证和未修改的 UPSTREAM-SKILL.md，本地入口限定项目范围。没有运行远程安装器或自动升级。imagegen 保留 Apache 许可证；Remotion skills 上游没有独立许可证文件，不将该参考包标为 MIT 或 Apache。
 
-OpenAI 的旧 `skills` 仓库已标记迁移到 [plugins](https://github.com/openai/plugins)。本次检查了新仓库；其 Remotion 插件存在，但没有对应的 imagegen 技能入口，因此保留旧官方库中兼容当前内置图片工具的固定版本。
+OpenAI 旧 skills 仓库已迁移至 [plugins](https://github.com/openai/plugins)。检查新仓库后保留兼容当前工具的固定 imagegen 版本。项目专用技能此前按 skill-creator 规范初始化和验证。
 
-本项目技能按 OpenAI 的 `skill-creator` 规范整理，并使用其已审阅的初始化、元数据生成及验证工具。Remotion 上游入口另存为 `UPSTREAM-SKILL.md`，本地入口限定框架使用范围，避免把已有 Python/FFmpeg 工作流强行变成 React 项目。
-
-现有 Python/FFmpeg 和曼波流程继续使用。技能文件会随仓库保存，不需要因为这次下载重新发布云环境；将来若安装新的渲染引擎，再验证运行依赖并更新环境配置。
+技能随 Git 保存，Remotion 依赖和曼波模型保留在云环境。新的安装、启动说明将保存为环境配置草稿；查看、保存并发布后才能形成新的快照。当前实例已实际测试，独立新任务恢复尚未验证。
