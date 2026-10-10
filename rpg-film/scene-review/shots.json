@@ -15,7 +15,12 @@
       "sentence_id": 2,
       "text": "主播高中的教室是狭窄逼仄的。",
       "start_seconds": 3.11,
-      "end_seconds": 6.01
+      "end_seconds": 6.01,
+      "revision": 2,
+      "review_status": "awaiting_user_review",
+      "window_type": "horizontal_sliding",
+      "desk_layout": "side_by_side_pairs",
+      "teaching_platform": "raised_one_step"
     },
     {
       "file": "02-classmates.png",
@@ -29,7 +34,12 @@
       "sentence_id": 7,
       "text": "他们围成了一个个小小世界，讲述着我听不懂的历史。",
       "start_seconds": 39.9,
-      "end_seconds": 44.46
+      "end_seconds": 44.46,
+      "revision": 2,
+      "review_status": "awaiting_user_review",
+      "window_type": "horizontal_sliding",
+      "desk_layout": "side_by_side_pairs",
+      "teaching_platform": "raised_one_step"
     },
     {
       "file": "03-first-person-opening.png",
@@ -43,7 +53,11 @@
       "sentence_id": 13,
       "text": "但是，说不清道不明，趁着同桌不在，挟着自怜和愿望，我总是开了。",
       "start_seconds": 66.94,
-      "end_seconds": 74.8
+      "end_seconds": 74.8,
+      "revision": 1,
+      "review_status": "needs_window_structure_revision",
+      "window_type": "outward_hinged_previous_proposal",
+      "next_revision_window_type": "horizontal_sliding"
     },
     {
       "file": "04-after-opening.png",
@@ -57,7 +71,17 @@
       "sentence_id": 14,
       "text": "意识蹒跚着爬上窗扣，肢体却得到了勇气的奖赏，我缓缓支走那两片玻璃，天地之间唤起一片清澈的凉，教室里面映满了雨水和露水的影子，终是把我们都接成一片了。",
       "start_seconds": 75.05,
-      "end_seconds": 90.69
+      "end_seconds": 90.69,
+      "revision": 1,
+      "review_status": "needs_window_structure_revision",
+      "window_type": "outward_hinged_previous_proposal",
+      "next_revision_window_type": "horizontal_sliding"
     }
+  ],
+  "revision_notes": [
+    "图1和图2改为中国教室的横向推拉窗，窗台下为实墙。",
+    "课桌两两并排，每组两个座位；主人公在靠窗一侧，同桌暂时离开。",
+    "讲台高出学生地面一层，讲桌放在台上。",
+    "图3和图4保留上一版，其窗户结构须在正式制作前同步修改。"
   ]
 }
