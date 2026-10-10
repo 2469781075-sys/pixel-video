@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remotion 视频制作参考"
+  short_description: "参考官方 Remotion 时间轴、逐帧动画、配音字幕与导出规范"
+  default_prompt: "使用 $remotion-best-practices 检查这个 Remotion 项目的场景时间轴、字幕和成片导出。"

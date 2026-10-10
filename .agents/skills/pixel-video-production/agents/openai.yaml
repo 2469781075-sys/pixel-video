@@ -1,0 +1,4 @@
+interface:
+  display_name: "像素视频制作"
+  short_description: "制作掌机 RPG 像素短片，复用曼波配音并逐句同步原文字幕"
+  default_prompt: "请使用 $pixel-video-production，按已确认的像素风格把我的文章制作成视频。"
