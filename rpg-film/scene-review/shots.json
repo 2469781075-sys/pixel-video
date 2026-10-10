@@ -16,11 +16,19 @@
       "text": "主播高中的教室是狭窄逼仄的。",
       "start_seconds": 3.11,
       "end_seconds": 6.01,
-      "revision": 2,
+      "revision": 3,
       "review_status": "awaiting_user_review",
       "window_type": "horizontal_sliding",
       "desk_layout": "side_by_side_pairs",
-      "teaching_platform": "raised_one_step"
+      "teaching_platform": "raised_one_step",
+      "pose_revision": {
+        "location": "middle_column_back_row",
+        "students": [
+          "light_brown_haired_boy",
+          "reddish_brown_bun_haired_girl"
+        ],
+        "intent": "relaxed_forward_seated_pose_with_small_head_turn"
+      }
     },
     {
       "file": "02-classmates.png",
@@ -35,11 +43,19 @@
       "text": "他们围成了一个个小小世界，讲述着我听不懂的历史。",
       "start_seconds": 39.9,
       "end_seconds": 44.46,
-      "revision": 2,
+      "revision": 3,
       "review_status": "awaiting_user_review",
       "window_type": "horizontal_sliding",
       "desk_layout": "side_by_side_pairs",
-      "teaching_platform": "raised_one_step"
+      "teaching_platform": "raised_one_step",
+      "pose_revision": {
+        "location": "middle_column_back_row",
+        "students": [
+          "light_brown_haired_boy",
+          "reddish_brown_bun_haired_girl"
+        ],
+        "intent": "relaxed_forward_seated_pose_with_small_head_turn"
+      }
     },
     {
       "file": "03-first-person-opening.png",
@@ -82,6 +98,7 @@
     "图1和图2改为中国教室的横向推拉窗，窗台下为实墙。",
     "课桌两两并排，每组两个座位；主人公在靠窗一侧，同桌暂时离开。",
     "讲台高出学生地面一层，讲桌放在台上。",
-    "图3和图4保留上一版，其窗户结构须在正式制作前同步修改。"
+    "图3和图4保留上一版，其窗户结构须在正式制作前同步修改。",
+    "同步修正图1和图2第二列最后一排两位同学的坐姿，身体朝向讲台、自然小幅转头，改善头颈肩臂连接与椅子支撑。"
   ]
 }
