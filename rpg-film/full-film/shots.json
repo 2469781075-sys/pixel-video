@@ -1,0 +1,31 @@
+{
+  "title": "窗",
+  "style": "强化像素 · 掌机 RPG A",
+  "width": 1920,
+  "height": 1080,
+  "logical_width": 480,
+  "logical_height": 270,
+  "fps": 24,
+  "duration_seconds": 141,
+  "narration_seconds": 139,
+  "voice": "曼波朗读",
+  "subtitle_source": "用户原文，21句，逐句显示",
+  "camera": "每个镜头固定；只在剪辑点切换构图",
+  "shots": [
+    {"id": "classroom", "start": 0, "end": 6.26, "asset": "classroom-wide.png", "sentences": [1, 2], "action": "雨、轻微眨眼、书页；建立拥挤教室"},
+    {"id": "platform", "start": 6.26, "end": 16.83, "asset": "classroom-wide.png", "sentences": [3], "action": "固定近景突出成组课桌与升高一层的讲台"},
+    {"id": "rear", "start": 16.83, "end": 26.5, "asset": "classroom-wide.png", "sentences": [4], "action": "固定构图展示后排与门边空隙"},
+    {"id": "classmates", "start": 26.5, "end": 44.71, "asset": "classmates.png", "sentences": [5, 6, 7], "action": "同学眨眼、交谈气泡和书页；人物与椅子、地面保持接触"},
+    {"id": "hero", "start": 44.71, "end": 53.07, "asset": "hero-close.png", "sentences": [8, 9], "action": "主人公在靠窗双人桌，暂空的同桌位保留；眨眼与读书"},
+    {"id": "window-dream", "start": 53.07, "end": 57.88, "asset": "courtyard.png", "sentences": [10], "action": "第一人称凝视闭合推拉窗，窗外雨点微动"},
+    {"id": "glances", "start": 57.88, "end": 61.11, "asset": "classmates.png", "sentences": [11], "action": "固定同学近景；不添加虚构台词"},
+    {"id": "hesitation", "start": 61.11, "end": 66.94, "asset": "hero-close.png", "sentences": [12], "action": "回到沉默的主人公，降低环境交谈感"},
+    {"id": "opening", "start": 66.94, "end": 90.94, "asset": "courtyard.png", "sentences": [13, 14], "action": "第一人称双手接触窗扇，沿水平轨道滑开；窗框保持刚性，风与清凉光逐渐进入"},
+    {"id": "after-opening", "start": 90.94, "end": 95.35, "asset": "courtyard.png", "sentences": [15], "action": "双手放下，切换更开阔的窗外构图；窗边仍可见，雨露与微风"},
+    {"id": "river", "start": 95.35, "end": 105.3, "asset": "river.png", "sentences": [16], "action": "河流意象，细小水光、风与暮色"},
+    {"id": "social-dream", "start": 105.3, "end": 115.37, "asset": "social-dream.png", "sentences": [17], "action": "与同学轻松交谈的想象；自然站姿与温和表情"},
+    {"id": "knight-dream", "start": 115.37, "end": 122.2, "asset": "knight-courtyard.png", "sentences": [18], "action": "骑士想象；独立人物步行，鞋底接地"},
+    {"id": "return", "start": 122.2, "end": 129.71, "asset": "classroom-night.png", "sentences": [19], "action": "回到教室中的原座位；窗边近景，微风仍在"},
+    {"id": "night", "start": 129.71, "end": 141, "asset": "classroom-night.png", "sentences": [20, 21], "action": "固定全景，夜色与窗边一束亮；朗读结束后停留两秒并淡出"}
+  ]
+}

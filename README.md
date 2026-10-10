@@ -2,13 +2,23 @@
 
 根据一篇关于高中教室、窗边孤独与短暂自由的文章制作像素动画。
 
-## 当前制作：掌机 RPG 正式动画 · 前 1/3
+## 当前制作：强化像素完整版 · 曼波朗读
+
+全文视频已完成：141 秒（2 分 21 秒），1920×1080，24 fps。采用选定的更强像素风，包含 139 秒全文曼波朗读、21 句逐句原文字幕，以及雨声、风声、推窗音效和低音量原创配乐。
+
+**[播放或下载完整视频](https://raw.githubusercontent.com/2469781075-sys/pixel-video/main/rpg-film/full-film/window-full-mambo.mp4)** · [影片与镜头说明](rpg-film/full-film/README.md) · [原文字幕](rpg-film/full-film/subtitles.srt) · [检验记录](rpg-film/full-film/verification.json)
+
+教室采用成组双人桌、靠窗主人公与暂空同桌位、升高一层的讲台、横向推拉窗。开窗切换第一人称，双手沿轨道滑开窗扇；随后进入窗外、河流与骑士的想象，再回到夜色教室。各镜头保持固定。之前确认的图片与所有小样继续保留。
+
+![完整版预览](rpg-film/full-film/poster.png)
+
+## 早期首段小样 · 30 秒
 
 已选定 A 掌机 RPG 风格。第一段增加为 26 名学生、修正规则窗格，并保持固定镜头；主人公从读书、望窗，到起身靠近窗扣。
 
 **[打开 30 秒第一段视频](rpg-film/part-01/window-part-01.mp4)** · [画面与分镜](rpg-film/part-01/README.md) · [完整片规划](rpg-film/PLAN.md)
 
-1080p，24 fps，含字幕、雨声与原创合成配乐，无旁白。完整片暂定 90 秒，本轮只制作前 30 秒。
+1080p，24 fps，含摘句字幕、雨声与原创合成配乐，无旁白，作为早期版本保留。
 
 ![第一段预览](rpg-film/part-01/poster.png)
 

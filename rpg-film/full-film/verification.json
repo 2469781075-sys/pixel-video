@@ -1,0 +1,38 @@
+{
+  "status": "passed",
+  "video": "window-full-mambo.mp4",
+  "duration_seconds": 141.0,
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "fps": "24/1",
+  "frames": 3384,
+  "file_bytes": 13884843,
+  "audio": {
+    "codec": "aac",
+    "channels": 2,
+    "sample_rate": 48000,
+    "original_mambo_seconds": 139,
+    "source_waveform_correlation": 0.99625,
+    "mix_delay_ms": 5.0,
+    "all_21_sentence_audio_intervals_non_silent": true,
+    "peak_below_clipping": true
+  },
+  "subtitles": {
+    "count": 21,
+    "complete_original_article": true,
+    "verbatim_srt_and_ass_text": true,
+    "maximum_display_lines": 3,
+    "burned_in": true,
+    "duplicate_player_subtitle_track": false
+  },
+  "motion": {
+    "camera_fixed_per_shot": true,
+    "fixed_window_top_frame_verified": true,
+    "sliding_motion_monotonic_within_frame": true,
+    "standing_students_ground_contact_region_anchored": true
+  },
+  "chapters": 6,
+  "full_video_and_audio_decode": "passed"
+}
