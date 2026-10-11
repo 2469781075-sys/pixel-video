@@ -2,7 +2,13 @@
 
 根据一篇关于高中教室、窗边孤独与短暂自由的文章制作像素动画。
 
-当前已补齐《窗》的完整静态分镜：16 张关键图对应原文全部 21 句，新增 12 个画面，保留四张核心构图并统一更强的像素视觉。包含讲台与后排空间、窗边犹豫与同桌离席、第一人称推窗、河流与骑士的联想、回到暮色教室及夜色结尾。正式视频继续保留全文曼波朗读；本轮交付为静态图。
+当前完整动画是 **《窗》轻颗粒雨天版**：141 秒、1920×1080、24 fps，沿用已确认的 16 个独立分镜与人物，雨天教室改为阴天或暮色，保持固定机位。包含同桌离席、第一人称横向开窗、开窗后的教室、河流与骑士幻想、合书及夜色结尾，保留全文曼波朗读与 21 句大号原文字幕。
+
+**[播放或下载最新完整视频](https://raw.githubusercontent.com/2469781075-sys/pixel-video/main/rpg-film/film-light-rain/window-light-rain-mambo.mp4)** · **[离线交付包](https://raw.githubusercontent.com/2469781075-sys/pixel-video/main/rpg-film/film-light-rain/window-light-rain-delivery.zip)** · [制作与检查记录](rpg-film/film-light-rain/README.md)
+
+![最新实际成片概览](rpg-film/film-light-rain/encoded-contact-sheet.png)
+
+此前已补齐《窗》的完整静态分镜：16 张关键图对应原文全部 21 句，新增 12 个画面，保留四张核心构图并统一更强的像素视觉。包含讲台与后排空间、窗边犹豫与同桌离席、第一人称推窗、河流与骑士的联想、回到暮色教室及夜色结尾。静态原图继续保留。
 
 **[查看完整 16 图画廊](rpg-film/complete-storyboard/README.md)** · **[下载完整原图与离线画廊](https://raw.githubusercontent.com/2469781075-sys/pixel-video/main/rpg-film/complete-storyboard/window-complete-storyboard.zip)**
 

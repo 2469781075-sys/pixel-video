@@ -1,0 +1,123 @@
+[
+  {
+    "name": "05-talk-pose",
+    "shot": 5,
+    "source": "/workspace/pixel-video/rpg-film/film-light-rain/assets/05-little-worlds.png",
+    "reference": "/workspace/generated_images/exec-7853a671-bc42-4706-8d0e-a2b414a3cdab.png",
+    "prompt": "Edit this exact overcast light-grain pixel RPG classroom frame as a LOCAL animation key pose. Change ONLY the mouths of the four foreground students: the glasses boy, red-haired girl, navy-haired girl and red-brown-haired boy now have small relaxed CLOSED smiling mouths between speech syllables. Also let the foreground navy-haired girl briefly blink with two natural closed eyelids. All heads, faces, eyes of other students, hairstyles, hands, books and clothing remain at precisely the same coordinates. Do not turn heads or alter expressions beyond this small talking/blinking change. Preserve every background pixel as closely as possible, all body poses, desks, chairs, window geometry, cool overcast lighting, light grain and the exact existing subtitle panel. Same full frame and framing. This keyframe will be used ONLY as small mouth/eyelid patches.",
+    "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-9d5f83f7-4133-4c38-ab04-9bde0991115b.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "path": "/workspace/generated_images/exec-9d5f83f7-4133-4c38-ab04-9bde0991115b.png",
+    "file": "assets/animation/05-talk-pose.png",
+    "mode": "built-in image_gen edit"
+  },
+  {
+    "name": "06-hero-blink",
+    "shot": 6,
+    "source": "/workspace/pixel-video/rpg-film/film-light-rain/assets/06-window-seat.png",
+    "reference": "/workspace/generated_images/exec-61154ac8-34d2-4e97-9980-6a48937d4ee9.png",
+    "prompt": "Edit the exact supplied overcast pixel RPG classroom image for ONE local animation key pose. ONLY close BOTH eyes of the brown-haired protagonist on the right by the window, cheek resting on his hand, in a gentle natural blink. Draw matching relaxed closed eyelids in exactly the existing eye positions, with unchanged face outline, brows, nose, mouth, hair and head angle. His emotions stay quietly wistful. No other face or body changes. Keep all people, desks, books, windows, shadows, restrained light grain, cool rainy overcast lighting and the exact subtitle panel at the same coordinates. Return same full landscape frame, no crop. Only his tiny eyelid patch will be used for animation.",
+    "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-f83c153b-ae19-4061-beba-4339d8dc675c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "path": "/workspace/generated_images/exec-f83c153b-ae19-4061-beba-4339d8dc675c.png",
+    "file": "assets/animation/06-hero-blink.png",
+    "mode": "built-in image_gen edit"
+  },
+  {
+    "name": "16-hero-blink",
+    "shot": 16,
+    "source": "/workspace/pixel-video/rpg-film/film-light-rain/assets/16-final-window-light.png",
+    "reference": "/workspace/pixel-video/rpg-film/complete-storyboard/16-final-window-light.png",
+    "prompt": "Edit this exact night pixel RPG classroom close-up for ONE tiny animation key pose. Change ONLY the protagonist's two eyes into a gentle natural blink, matching closed eyelids at the existing coordinates and preserving the exact three-quarter face angle and far-eye foreshortening. Keep his cheek on hand, face contour, brows, nose, mouth, hair, body, sleeves, hands, all books, the empty deskmate chair, windows, night rain, cool blue window lighting, sparse grain, entire framing and exact existing Chinese subtitle panel unchanged. No added light or grain. Same full landscape image. Only a small eyelid patch will be composited into the film.",
+    "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-5a365d11-342b-4b63-b7e1-b2d6f4b00320.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "path": "/workspace/generated_images/exec-5a365d11-342b-4b63-b7e1-b2d6f4b00320.png",
+    "file": "assets/animation/16-hero-blink.png",
+    "mode": "built-in image_gen edit"
+  },
+  {
+    "name": "10-window-clean",
+    "shot": 10,
+    "reference": "/workspace/generated_images/exec-27e726bc-3712-401b-b12b-b49ea714de29.png",
+    "transparent": false,
+    "prompt": "Edit this exact overcast pixel RPG first-person window picture to create the CLEAN BACKGROUND layer for animation. Remove ONLY the two hands and white-sleeved forearms. Restore the window glass, wet gray-blue windowsill and courtyard that were hidden behind those arms. KEEP EVERY window frame, fixed pane, handle, horizontal track and the fully open central aperture in exactly the same positions and dimensions. Keep the same courtyard, trees, buildings, rainy overcast lighting, light grain and all pixels outside the former hands as closely as possible. No sunshine or warm reflection. Keep the navy subtitle panel and its existing text unchanged. Same full landscape composition. No characters, hands or arms remain in the picture.",
+    "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-87fcf76d-18ae-4309-9077-d6e203f40ff2.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "path": "/workspace/generated_images/exec-87fcf76d-18ae-4309-9077-d6e203f40ff2.png",
+    "file": "assets/animation/10-window-clean.png",
+    "mode": "built-in image_gen edit"
+  },
+  {
+    "name": "10-hands-sheet",
+    "shot": 10,
+    "reference": "/workspace/generated_images/exec-27e726bc-3712-401b-b12b-b49ea714de29.png",
+    "transparent": true,
+    "prompt": "Create a transparent-background PIXEL RPG animation sprite sheet containing ONLY the exact TWO hands and long white-sleeved forearms from this reference image. The reference is a first-person rainy classroom window. Preserve the protagonist's warm natural skin tone, correct five-finger hand anatomy, sleeve design, crisp dark pixel outlines, cool lavender shirt shadow, and cute refined handheld RPG style. Two separate sprites side by side with a wide transparent gap: left cell is the LEFT hand curled gently to grip a vertical sash handle near its upper-right side; right cell is the RIGHT hand curled to grip a vertical sash handle near its upper-left side. Both palms point toward the window as in the reference, symmetrical natural grasp, fingers not stretched. Forearms extend diagonally DOWN toward the viewer's left/right shoulders; include long continuous sleeves to the bottom with a straight cropped lower end. No floating isolated cuff. Same sprite height and scale, plenty of transparent safety margin. No window, handles, scenery, text, caption, decorative frame or solid background. These are two independent sprites for horizontal sliding-window animation.",
+    "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-d572194d-6594-42f5-80eb-02a6f71c15af.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "path": "/workspace/generated_images/exec-d572194d-6594-42f5-80eb-02a6f71c15af.png",
+    "file": "assets/animation/10-hands-sheet.png",
+    "mode": "built-in image_gen edit"
+  },
+  {
+    "name": "09-empty-aisle-rest",
+    "shot": 9,
+    "reference": "/workspace/generated_images/exec-23cc71f9-f30b-48b5-b643-2618a37bab6c.png",
+    "transparent": false,
+    "prompt": "Edit the supplied exact overcast pixel RPG classroom frame into an animation BACKGROUND AND START POSE. Remove ONLY the navy-haired deskmate walking away in the center-right aisle, restoring the visible desks/chairs and matte gray aisle floor behind him; this character will be added as a separate moving sprite. Also lower ONLY the brown-haired seated protagonist's outstretched left arm so his forearm rests naturally on his desk/book before he reaches the latch. Keep his exact body, seated chair support, feet, head, face, clothes and head direction. Preserve the empty deskmate chair and both paired desks at the front, all other classmates and props, exact room/window geometry, cool overcast rainy lighting and light grain. No sunbeam, no new objects, no repositioned characters. Preserve the full framing and navy subtitle panel text exactly.",
+    "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-0725a4a6-e263-445b-b031-08b7682acb13.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "path": "/workspace/generated_images/exec-0725a4a6-e263-445b-b031-08b7682acb13.png",
+    "file": "assets/animation/09-empty-aisle-rest.png",
+    "mode": "built-in image_gen edit"
+  },
+  {
+    "name": "09-mate-walk-sheet",
+    "shot": 9,
+    "reference": "/workspace/generated_images/exec-23cc71f9-f30b-48b5-b643-2618a37bab6c.png",
+    "transparent": true,
+    "prompt": "Create a transparent-background sprite sheet with TWO walking key poses of ONLY the exact navy-haired departing deskmate in the center-right aisle of the reference. Preserve this original character exactly: short messy navy hair, three-quarter REAR view facing away/up into the classroom, white long-sleeved shirt, teal green vest, navy trousers, white sock cuffs, brown school shoes, navy satchel hanging on his right side with orange stitching. Same cute crisp handheld RPG pixel style, same proportions and colors, light restrained texture. The sheet contains two equal-size cells side by side, same character scale and baseline with transparent margins. Left cell: left foot is planted, right leg passing back, arms counter-swing naturally. Right cell: right foot planted, left leg passing back, opposite gentle arm swing. Grounded anatomically natural school walking; no bending spine, no floating, no extra limbs, no huge motion. Complete head, body, hands, feet, satchel in each cell, no cropping. Transparent background only. No room, ground, shadow, desks, other students, words or border.",
+    "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-30f222fa-2467-4c53-b457-34ac4fa6580a.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "path": "/workspace/generated_images/exec-30f222fa-2467-4c53-b457-34ac4fa6580a.png",
+    "file": "assets/animation/09-mate-walk-sheet.png",
+    "mode": "built-in image_gen edit"
+  },
+  {
+    "name": "15-book-open",
+    "shot": 15,
+    "reference": "/workspace/generated_images/exec-4b02800d-1a42-4c11-be5a-6fe6f8b04010.png",
+    "transparent": false,
+    "prompt": "Edit this exact rainy-evening pixel RPG classroom frame for ONE LOCAL animation key pose. Change ONLY the protagonist's illustrated blue book and the positions of his fingertips immediately over it: the same book is briefly OPEN on the desk, with a blue fantasy illustration on one page and a pale opposite page, before he closes it. His hands rest naturally on the lower page corners in essentially the same positions. Preserve his downcast face, head, body, clothing, empty deskmate chair, desk, classmates, windows, faint imagined castle outdoors, cloudy twilight and cool blue-purple lighting. No golden sunlight and no extra grain. Keep all background pixels as closely as possible, the exact existing navy subtitle panel and its Chinese text. Same full landscape frame; only a small book-and-fingers patch will be used.",
+    "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-7940f388-a5a7-4b82-97e5-0c228e20c459.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "path": "/workspace/generated_images/exec-7940f388-a5a7-4b82-97e5-0c228e20c459.png",
+    "file": "assets/animation/15-book-open.png",
+    "mode": "built-in image_gen edit"
+  },
+  {
+    "name": "09-mid-reach",
+    "shot": 9,
+    "reference": "/workspace/generated_images/exec-0725a4a6-e263-445b-b031-08b7682acb13.png",
+    "transparent": false,
+    "prompt": "Edit this exact clean overcast pixel RPG classroom animation plate for ONE intermediate hand-reaching key pose. Change ONLY the seated brown-haired protagonist's left arm: he has begun reaching toward the window latch, elbow still naturally bent, hand lifted halfway between his desk and the latch and held roughly 12 centimeters below and to the right of the latch. The forearm and upper arm connect normally to the same shoulder; exactly one left hand. Keep his seated position, torso, face, hair, head direction, right arm, chairs, desks, all background classmates, and the EMPTY center-right aisle unchanged; do not restore the departing deskmate. Preserve all room/window geometry, no sunlight, same soft cool gray-blue overcast light and sparse light grain. Keep the navy caption panel unchanged. Same exact full landscape framing. This is the middle pose between arm resting and hand touching the latch.",
+    "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-5323edc2-f4be-4a3c-90b2-69178dba4940.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "path": "/workspace/generated_images/exec-5323edc2-f4be-4a3c-90b2-69178dba4940.png",
+    "file": "assets/animation/09-mid-reach.png",
+    "mode": "built-in image_gen edit"
+  },
+  {
+    "name": "08-quiet-blink",
+    "shot": 8,
+    "reference": "/workspace/generated_images/exec-116aaa7a-80ce-4b3d-810a-5efa55a1d84f.png",
+    "transparent": false,
+    "prompt": "Edit this exact cool overcast pixel RPG classroom image as ONE tiny animation key pose. Change ONLY the brown-haired protagonist's two downcast eyes at the foreground right into natural relaxed CLOSED eyelids, at exactly the same coordinates. Preserve the face outline, brows, nose, mouth, blush, hair, head angle, shoulders, hands holding the pencil and entire body. All other students, props, desks, book pages, window geometry, soft cloudy rainy lighting, sparse light grain and the exact subtitle panel remain unchanged. Same full landscape frame. Only his eyelid patch will be used, without changing the shot composition.",
+    "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-a340c148-7ccb-49e2-9d18-0ec44e966d6d.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "path": "/workspace/generated_images/exec-a340c148-7ccb-49e2-9d18-0ec44e966d6d.png",
+    "file": "assets/animation/08-quiet-blink.png",
+    "mode": "built-in image_gen edit"
+  },
+  {
+    "name": "14-scroll-lowered",
+    "shot": 14,
+    "reference": "/workspace/pixel-video/rpg-film/complete-storyboard/14-knight-and-school-king.png",
+    "transparent": false,
+    "prompt": "Edit this exact pixel RPG fantasy school-king scene for ONE local animation key pose. Change ONLY the kneeling brown-haired hero's forward hand, forearm and rolled scroll: lower the extended scroll and wrist by a small amount, about 6 centimeters, as the anticipatory pose before he offers it. His shoulder, elbow connection and kneeling body remain natural and stationary, with the same armored sleeve and five-finger hand; no added hands. Keep his entire head/face, green cape, scarf, legs and planted knee/foot, the monarch and all court students, exact throne, school crest, room, sunlight of this imagined scene, props, palette, pixel style and existing subtitle panel unchanged. No extra grain or new objects. Same full landscape framing. Only a small wrist/scroll patch will be used.",
+    "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-102976c3-43ff-4fb1-95e8-532d37ee45de.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "path": "/workspace/generated_images/exec-102976c3-43ff-4fb1-95e8-532d37ee45de.png",
+    "file": "assets/animation/14-scroll-lowered.png",
+    "mode": "built-in image_gen edit"
+  }
+]

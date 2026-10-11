@@ -1,0 +1,268 @@
+{
+  "shots": [
+    {
+      "number": 1,
+      "title": "教室的拥挤",
+      "asset": "assets/01-cramped-classroom.png",
+      "source": "rpg-film/style-refinement-review/grain-light/01-classroom-light-grain.png",
+      "source_sha256": "1222dd6afb5fc55f8012eb8f9bfd7749f53b1c1368bb0642f6cb542b7fe8c044",
+      "source_sentence_ids": [
+        1,
+        2
+      ],
+      "start": 0,
+      "end": 6.26,
+      "art_bottom": 750,
+      "camera": "fixed",
+      "action": "同学座位与姿态固定；局部书页轻动、窗外雨点",
+      "weather": "overcast classroom"
+    },
+    {
+      "number": 2,
+      "title": "桌列与高台",
+      "asset": "assets/02-desks-and-platform.png",
+      "source": "rpg-film/complete-storyboard/02-desks-and-platform.png",
+      "source_sha256": "2b714dead95a34dfed224b18aef26e9ff0e5235483dd063434ae428b7e053172",
+      "source_sentence_ids": [
+        3
+      ],
+      "start": 6.26,
+      "end": 16.83,
+      "art_bottom": 730,
+      "camera": "fixed",
+      "action": "桌列与一层高台固定；窗外雨点",
+      "weather": "overcast classroom"
+    },
+    {
+      "number": 3,
+      "title": "后排的呼吸",
+      "asset": "assets/03-rear-breathing-space.png",
+      "source": "rpg-film/complete-storyboard/03-rear-breathing-space.png",
+      "source_sha256": "e179ce052e962d870bbcbfd4470d0f39554c5462158a73577c5daa5ed0d2a2fe",
+      "source_sentence_ids": [
+        4
+      ],
+      "start": 16.83,
+      "end": 26.5,
+      "art_bottom": 750,
+      "camera": "fixed",
+      "action": "后排交流姿态固定；局部书页轻动、窗外雨点",
+      "weather": "overcast classroom"
+    },
+    {
+      "number": 4,
+      "title": "找不到河流的边界",
+      "asset": "assets/04-river-boundaries.png",
+      "source": "rpg-film/style-refinement-review/grain-light/02-river-light-grain.png",
+      "source_sha256": "b5fb6cbc101e366aa7c0f36467f7b49b0e1e458229c9d9529f7d1a586d053e07",
+      "source_sentence_ids": [
+        5
+      ],
+      "start": 26.5,
+      "end": 35.37,
+      "art_bottom": 740,
+      "camera": "fixed",
+      "action": "河面局部水纹；人物与漂纸构图固定",
+      "weather": "retained imagination or window reflection"
+    },
+    {
+      "number": 5,
+      "title": "同学的小世界",
+      "asset": "assets/05-little-worlds.png",
+      "source": "rpg-film/complete-storyboard/05-little-worlds.png",
+      "source_sha256": "6ff881e28e8f8b113c29a8101e800ef485a2c1b69c4abb4e6359e18cc02919c7",
+      "source_sentence_ids": [
+        6,
+        7
+      ],
+      "start": 35.37,
+      "end": 44.71,
+      "art_bottom": 750,
+      "camera": "fixed",
+      "action": "四位同学嘴部两帧交谈、局部眨眼与书页轻动；窗外雨点",
+      "weather": "overcast classroom"
+    },
+    {
+      "number": 6,
+      "title": "靠窗与欢笑的挤压",
+      "asset": "assets/06-window-seat.png",
+      "source": "rpg-film/complete-storyboard/06-window-seat.png",
+      "source_sha256": "17d9118b5540543ec38ed3dcc9bbce89881a32ba3d4dbeea19d2681f1c4d0a1a",
+      "source_sentence_ids": [
+        8,
+        9
+      ],
+      "start": 44.71,
+      "end": 53.07,
+      "art_bottom": 750,
+      "camera": "fixed",
+      "action": "主人公眨眼、局部书页轻动；同桌与座位固定，窗外雨点",
+      "weather": "overcast classroom"
+    },
+    {
+      "number": 7,
+      "title": "方格里的梦想",
+      "asset": "assets/07-dream-in-window.png",
+      "source": "rpg-film/complete-storyboard/07-dream-in-window.png",
+      "source_sha256": "5889e45e02d9bb07378a3e35662b0976c18ac03f7531bbdfd9f1b7f199de993c",
+      "source_sentence_ids": [
+        10
+      ],
+      "start": 53.07,
+      "end": 57.88,
+      "art_bottom": 750,
+      "camera": "fixed",
+      "action": "窗玻璃雨滴下行，倒影固定",
+      "weather": "rainy cloudy dusk; outdoor electric lamps only"
+    },
+    {
+      "number": 8,
+      "title": "目光与沉默",
+      "asset": "assets/08-gaze-and-silence.png",
+      "source": "rpg-film/complete-storyboard/08-gaze-and-silence.png",
+      "source_sha256": "6c9379da47e176442b01811c42d6d57aa5379d0a8951700d4ab639df9d05ae4d",
+      "source_sentence_ids": [
+        11,
+        12
+      ],
+      "start": 57.88,
+      "end": 66.94,
+      "art_bottom": 728,
+      "camera": "fixed",
+      "action": "主人公短暂闭眼、手握笔；窗外雨点",
+      "weather": "overcast classroom"
+    },
+    {
+      "number": 9,
+      "title": "同桌离席，伸向窗扣",
+      "asset": "assets/09-deskmate-leaves.png",
+      "source": "rpg-film/complete-storyboard/09-deskmate-leaves.png",
+      "source_sha256": "7a03460a23cdb5572f5b907ba0bfb35cc3ca05551530fd9bfea06c3e34f2be0e",
+      "source_sentence_ids": [
+        13
+      ],
+      "start": 66.94,
+      "end": 75.05,
+      "art_bottom": 750,
+      "camera": "fixed",
+      "action": "同桌离席步态、主人公伸向窗扣",
+      "weather": "overcast classroom"
+    },
+    {
+      "number": 10,
+      "title": "第一人称横向推窗",
+      "asset": "assets/10-first-person-window.png",
+      "source": "rpg-film/complete-storyboard/10-first-person-window.png",
+      "source_sha256": "af7e88430e700545678a16466366f392678fc8342bfe608b47a0fea2d2db18bb",
+      "source_sentence_ids": [
+        14
+      ],
+      "start": 75.05,
+      "end": 86.35,
+      "art_bottom": 720,
+      "camera": "fixed",
+      "action": "第一人称接触窗扣、两片窗扇横向移动、放下双手",
+      "weather": "overcast classroom"
+    },
+    {
+      "number": 11,
+      "title": "风进入教室",
+      "asset": "assets/11-after-opening.png",
+      "source": "rpg-film/complete-storyboard/11-after-opening.png",
+      "source_sha256": "12d5b3b3bc22115bf2703f557f1cd2f09ef1bbfd226474238a6377cd6fb249c9",
+      "source_sentence_ids": [
+        14,
+        15
+      ],
+      "start": 86.35,
+      "end": 95.35,
+      "art_bottom": 750,
+      "camera": "fixed",
+      "action": "开窗后的纸页和微风；姿态舒展，教室冷色漫射光",
+      "weather": "overcast classroom"
+    },
+    {
+      "number": 12,
+      "title": "风与流向夜色的河",
+      "asset": "assets/12-wind-and-night-river.png",
+      "source": "rpg-film/complete-storyboard/12-wind-and-night-river.png",
+      "source_sha256": "788d694dd52c1849302410c2b11fab4268e82d7241ac1a8c69c22b2eaf795212",
+      "source_sentence_ids": [
+        16
+      ],
+      "start": 95.35,
+      "end": 105.3,
+      "art_bottom": 750,
+      "camera": "fixed",
+      "action": "风叶沿河流向夜色移动，局部水纹",
+      "weather": "retained imagination or window reflection"
+    },
+    {
+      "number": 13,
+      "title": "意气风发的想象",
+      "asset": "assets/13-social-confidence.png",
+      "source": "rpg-film/complete-storyboard/13-social-confidence.png",
+      "source_sha256": "67c08f4ca4ec60075dfe90f0221fb2c42d5cfd56a1aa3d90a9f14099f8c9adcc",
+      "source_sentence_ids": [
+        17
+      ],
+      "start": 105.3,
+      "end": 115.37,
+      "art_bottom": 750,
+      "camera": "fixed",
+      "action": "幻想中的交流构图固定，少量风叶沿画面移动；完整原文旁白与字幕",
+      "weather": "retained imagination or window reflection"
+    },
+    {
+      "number": 14,
+      "title": "优雅骑士与学校的君主",
+      "asset": "assets/14-knight-and-school-king.png",
+      "source": "rpg-film/complete-storyboard/14-knight-and-school-king.png",
+      "source_sha256": "ead9606ae6bc8389402eb671fb912112df79bdfd82379ac3b3c6300846367fbc",
+      "source_sentence_ids": [
+        18
+      ],
+      "start": 115.37,
+      "end": 122.2,
+      "art_bottom": 750,
+      "camera": "fixed",
+      "action": "骑士手中卷轴由稍低到递出两帧姿态；人物、台阶与旗帜构图固定",
+      "weather": "retained imagination or window reflection"
+    },
+    {
+      "number": 15,
+      "title": "回到原位，仍跑不出去",
+      "asset": "assets/15-return-to-classroom.png",
+      "source": "rpg-film/complete-storyboard/15-return-to-classroom.png",
+      "source_sha256": "fd7bc250f42b2f3bb2fdc1fbb642e1b5b82a57d3d89cf7d35aaa8fc0ce345792",
+      "source_sentence_ids": [
+        19,
+        20
+      ],
+      "start": 122.2,
+      "end": 134.52,
+      "art_bottom": 720,
+      "camera": "fixed",
+      "action": "展开的书页和手部换为合书关键姿态；窗外雨点，阴雨暮色",
+      "weather": "overcast twilight"
+    },
+    {
+      "number": 16,
+      "title": "夜色里的全部光明",
+      "asset": "assets/16-final-window-light.png",
+      "source": "rpg-film/complete-storyboard/16-final-window-light.png",
+      "source_sha256": "d02526d666685beac0ce92314f04a27db5be4a6fb5da8f41356eecd751f691bf",
+      "source_sentence_ids": [
+        21
+      ],
+      "start": 134.52,
+      "end": 141.0,
+      "art_bottom": 750,
+      "camera": "fixed",
+      "action": "主人公眨眼、夜间窗外雨滴，收尾停留",
+      "weather": "night"
+    }
+  ],
+  "camera_policy": "All fixed; original compositions retained",
+  "window_cut_seconds": 86.35
+}

@@ -1,0 +1,524 @@
+{
+  "status": "Technical checks passed; creative approval remains with the user",
+  "file": "window-light-rain-mambo.mp4",
+  "sha256": "1515910d88c4252216f6e5d6b45dd27471ba44592800d92ad92e9ba75ed44618",
+  "bytes": 10892663,
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 24,
+    "frames": 3384,
+    "seconds": 141.0,
+    "codec": "h264",
+    "chapters": 16
+  },
+  "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "channels": 2,
+    "integrated_lufs": -16.09,
+    "true_peak_dbtp": -1.45,
+    "normalization_target": {
+      "lufs": -16,
+      "true_peak_dbtp": -1.5
+    }
+  },
+  "subtitles": {
+    "sentences": 21,
+    "full_srt_and_burned_ass_match_original": true,
+    "actual_glyph_em_pixels": 72,
+    "maximum_lines": 3,
+    "final_caption_display_end": 140.55
+  },
+  "narration": {
+    "voice": "Existing full Mambo narration",
+    "speed": 1.0,
+    "full_wav_seconds": 139.0,
+    "source_wav_sha256": "e593471e752b20e87ae6b8e88ecc4d08af0418c768e689de65abb7df563e38f6",
+    "all_segment_durations_match_cues": true,
+    "segment_seconds": [
+      2.86,
+      2.9,
+      10.32,
+      9.42,
+      8.62,
+      4.28,
+      4.56,
+      3.02,
+      4.84,
+      4.56,
+      2.98,
+      5.58,
+      7.86,
+      15.64,
+      4.16,
+      9.7,
+      9.82,
+      6.58,
+      7.26,
+      4.56,
+      4.48
+    ],
+    "original_mp3_preserved": true,
+    "ending_tail_seconds": 2.0,
+    "phonetic_review": "Existing voice reused; no new pronunciation approval inferred"
+  },
+  "encoded_voice_coverage": {
+    "sentences": [
+      {
+        "sentence": 1,
+        "waveform_correlation": 0.999715
+      },
+      {
+        "sentence": 2,
+        "waveform_correlation": 0.999704
+      },
+      {
+        "sentence": 3,
+        "waveform_correlation": 0.99972
+      },
+      {
+        "sentence": 4,
+        "waveform_correlation": 0.999794
+      },
+      {
+        "sentence": 5,
+        "waveform_correlation": 0.999869
+      },
+      {
+        "sentence": 6,
+        "waveform_correlation": 0.999768
+      },
+      {
+        "sentence": 7,
+        "waveform_correlation": 0.99975
+      },
+      {
+        "sentence": 8,
+        "waveform_correlation": 0.99982
+      },
+      {
+        "sentence": 9,
+        "waveform_correlation": 0.999762
+      },
+      {
+        "sentence": 10,
+        "waveform_correlation": 0.99977
+      },
+      {
+        "sentence": 11,
+        "waveform_correlation": 0.999772
+      },
+      {
+        "sentence": 12,
+        "waveform_correlation": 0.999807
+      },
+      {
+        "sentence": 13,
+        "waveform_correlation": 0.999618
+      },
+      {
+        "sentence": 14,
+        "waveform_correlation": 0.999696
+      },
+      {
+        "sentence": 15,
+        "waveform_correlation": 0.999568
+      },
+      {
+        "sentence": 16,
+        "waveform_correlation": 0.999779
+      },
+      {
+        "sentence": 17,
+        "waveform_correlation": 0.99988
+      },
+      {
+        "sentence": 18,
+        "waveform_correlation": 0.999861
+      },
+      {
+        "sentence": 19,
+        "waveform_correlation": 0.999786
+      },
+      {
+        "sentence": 20,
+        "waveform_correlation": 0.999793
+      },
+      {
+        "sentence": 21,
+        "waveform_correlation": 0.999783
+      }
+    ],
+    "all_original_voice_segments_present_at_expected_times": true,
+    "scope": "Compare actual decoded soundtrack with source PCM at every original sentence timestamp. Not a phonetic judgement."
+  },
+  "native_motion_checks": {
+    "fixed_canvas": [
+      480,
+      208
+    ],
+    "shots": [
+      {
+        "shot": 1,
+        "sample_seconds": [
+          0.4,
+          3.13,
+          5.859999999999999
+        ],
+        "outside_motion_mask_unchanged": true,
+        "changed_native_pixels": 191
+      },
+      {
+        "shot": 2,
+        "sample_seconds": [
+          6.66,
+          11.544999999999998,
+          16.43
+        ],
+        "outside_motion_mask_unchanged": true,
+        "changed_native_pixels": 115
+      },
+      {
+        "shot": 3,
+        "sample_seconds": [
+          17.229999999999997,
+          21.665,
+          26.1
+        ],
+        "outside_motion_mask_unchanged": true,
+        "changed_native_pixels": 159
+      },
+      {
+        "shot": 4,
+        "sample_seconds": [
+          26.9,
+          30.935,
+          34.97
+        ],
+        "outside_motion_mask_unchanged": true,
+        "changed_native_pixels": 18
+      },
+      {
+        "shot": 5,
+        "sample_seconds": [
+          35.769999999999996,
+          40.04,
+          44.31
+        ],
+        "outside_motion_mask_unchanged": true,
+        "changed_native_pixels": 422
+      },
+      {
+        "shot": 6,
+        "sample_seconds": [
+          45.11,
+          48.89,
+          52.67
+        ],
+        "outside_motion_mask_unchanged": true,
+        "changed_native_pixels": 302
+      },
+      {
+        "shot": 7,
+        "sample_seconds": [
+          53.47,
+          55.475,
+          57.480000000000004
+        ],
+        "outside_motion_mask_unchanged": true,
+        "changed_native_pixels": 1140
+      },
+      {
+        "shot": 8,
+        "sample_seconds": [
+          58.28,
+          62.41,
+          66.53999999999999
+        ],
+        "outside_motion_mask_unchanged": true,
+        "changed_native_pixels": 328
+      },
+      {
+        "shot": 9,
+        "sample_seconds": [
+          67.34,
+          70.995,
+          74.64999999999999
+        ],
+        "outside_motion_mask_unchanged": true,
+        "changed_native_pixels": 11253
+      },
+      {
+        "shot": 10,
+        "sample_seconds": [
+          75.45,
+          80.69999999999999,
+          85.94999999999999
+        ],
+        "outside_motion_mask_unchanged": true,
+        "changed_native_pixels": 58715
+      },
+      {
+        "shot": 11,
+        "sample_seconds": [
+          86.75,
+          90.85,
+          94.94999999999999
+        ],
+        "outside_motion_mask_unchanged": true,
+        "changed_native_pixels": 339
+      },
+      {
+        "shot": 12,
+        "sample_seconds": [
+          95.75,
+          100.32499999999999,
+          104.89999999999999
+        ],
+        "outside_motion_mask_unchanged": true,
+        "changed_native_pixels": 114
+      },
+      {
+        "shot": 13,
+        "sample_seconds": [
+          105.7,
+          110.33500000000001,
+          114.97
+        ],
+        "outside_motion_mask_unchanged": true,
+        "changed_native_pixels": 72
+      },
+      {
+        "shot": 14,
+        "sample_seconds": [
+          115.77000000000001,
+          118.785,
+          121.8
+        ],
+        "outside_motion_mask_unchanged": true,
+        "changed_native_pixels": 3518
+      },
+      {
+        "shot": 15,
+        "sample_seconds": [
+          122.60000000000001,
+          128.36,
+          134.12
+        ],
+        "outside_motion_mask_unchanged": true,
+        "changed_native_pixels": 4762
+      },
+      {
+        "shot": 16,
+        "sample_seconds": [
+          134.92000000000002,
+          137.76,
+          140.6
+        ],
+        "outside_motion_mask_unchanged": true,
+        "changed_native_pixels": 975
+      }
+    ],
+    "window": {
+      "sampled_states": 272,
+      "fixed_native_pane_size": [
+        105,
+        149
+      ],
+      "horizontal_monotonic_slide": true,
+      "full_open_gap_pixels": 166,
+      "hands_lowered_at_end": true
+    },
+    "scope": "Renderer pixels outside all declared local-motion masks; excludes intro/end fades. Not an anatomy test."
+  },
+  "encoded_camera_checks": {
+    "registration_range_native_pixels": [
+      -2,
+      2
+    ],
+    "sampled_shots": [
+      {
+        "shot": 1,
+        "sample_seconds": [
+          0.8,
+          5.06
+        ],
+        "best_displacement_native_pixels": [
+          0,
+          0
+        ],
+        "mean_channel_error": 0.137
+      },
+      {
+        "shot": 2,
+        "sample_seconds": [
+          7.06,
+          15.629999999999999
+        ],
+        "best_displacement_native_pixels": [
+          0,
+          0
+        ],
+        "mean_channel_error": 0.004
+      },
+      {
+        "shot": 5,
+        "sample_seconds": [
+          36.169999999999995,
+          43.51
+        ],
+        "best_displacement_native_pixels": [
+          0,
+          0
+        ],
+        "mean_channel_error": 0.003
+      },
+      {
+        "shot": 9,
+        "sample_seconds": [
+          67.74,
+          73.85
+        ],
+        "best_displacement_native_pixels": [
+          0,
+          0
+        ],
+        "mean_channel_error": 0.013
+      },
+      {
+        "shot": 10,
+        "sample_seconds": [
+          75.85,
+          85.14999999999999
+        ],
+        "best_displacement_native_pixels": [
+          0,
+          0
+        ],
+        "mean_channel_error": 0.002
+      },
+      {
+        "shot": 15,
+        "sample_seconds": [
+          123.0,
+          133.32000000000002
+        ],
+        "best_displacement_native_pixels": [
+          0,
+          0
+        ],
+        "mean_channel_error": 0.056
+      },
+      {
+        "shot": 16,
+        "sample_seconds": [
+          135.32000000000002,
+          139.8
+        ],
+        "best_displacement_native_pixels": [
+          0,
+          0
+        ],
+        "mean_channel_error": 0.004
+      }
+    ],
+    "scope": "Actual encoded frames, all non-motion-mask pixels. Compression errors are allowed; no image identity claim."
+  },
+  "retained_sources": {
+    "baseline_commit": "d6716b8",
+    "retained_png_count": 22,
+    "files": [
+      {
+        "file": "rpg-film/complete-storyboard/01-cramped-classroom.png",
+        "sha256": "7edd4409a0cb9535ca7e1cf3b4d6a545b9e60f1e70a55bf48e4bf86a6c2e5194"
+      },
+      {
+        "file": "rpg-film/complete-storyboard/02-desks-and-platform.png",
+        "sha256": "2b714dead95a34dfed224b18aef26e9ff0e5235483dd063434ae428b7e053172"
+      },
+      {
+        "file": "rpg-film/complete-storyboard/03-rear-breathing-space.png",
+        "sha256": "e179ce052e962d870bbcbfd4470d0f39554c5462158a73577c5daa5ed0d2a2fe"
+      },
+      {
+        "file": "rpg-film/complete-storyboard/04-river-boundaries.png",
+        "sha256": "dcc176a3f623c444db6e9dd2704cde3799c4c32f6e055f74ccdd1463edffbb41"
+      },
+      {
+        "file": "rpg-film/complete-storyboard/05-little-worlds.png",
+        "sha256": "6ff881e28e8f8b113c29a8101e800ef485a2c1b69c4abb4e6359e18cc02919c7"
+      },
+      {
+        "file": "rpg-film/complete-storyboard/06-window-seat.png",
+        "sha256": "17d9118b5540543ec38ed3dcc9bbce89881a32ba3d4dbeea19d2681f1c4d0a1a"
+      },
+      {
+        "file": "rpg-film/complete-storyboard/07-dream-in-window.png",
+        "sha256": "5889e45e02d9bb07378a3e35662b0976c18ac03f7531bbdfd9f1b7f199de993c"
+      },
+      {
+        "file": "rpg-film/complete-storyboard/08-gaze-and-silence.png",
+        "sha256": "6c9379da47e176442b01811c42d6d57aa5379d0a8951700d4ab639df9d05ae4d"
+      },
+      {
+        "file": "rpg-film/complete-storyboard/09-deskmate-leaves.png",
+        "sha256": "7a03460a23cdb5572f5b907ba0bfb35cc3ca05551530fd9bfea06c3e34f2be0e"
+      },
+      {
+        "file": "rpg-film/complete-storyboard/10-first-person-window.png",
+        "sha256": "af7e88430e700545678a16466366f392678fc8342bfe608b47a0fea2d2db18bb"
+      },
+      {
+        "file": "rpg-film/complete-storyboard/11-after-opening.png",
+        "sha256": "12d5b3b3bc22115bf2703f557f1cd2f09ef1bbfd226474238a6377cd6fb249c9"
+      },
+      {
+        "file": "rpg-film/complete-storyboard/12-wind-and-night-river.png",
+        "sha256": "788d694dd52c1849302410c2b11fab4268e82d7241ac1a8c69c22b2eaf795212"
+      },
+      {
+        "file": "rpg-film/complete-storyboard/13-social-confidence.png",
+        "sha256": "67c08f4ca4ec60075dfe90f0221fb2c42d5cfd56a1aa3d90a9f14099f8c9adcc"
+      },
+      {
+        "file": "rpg-film/complete-storyboard/14-knight-and-school-king.png",
+        "sha256": "ead9606ae6bc8389402eb671fb912112df79bdfd82379ac3b3c6300846367fbc"
+      },
+      {
+        "file": "rpg-film/complete-storyboard/15-return-to-classroom.png",
+        "sha256": "fd7bc250f42b2f3bb2fdc1fbb642e1b5b82a57d3d89cf7d35aaa8fc0ce345792"
+      },
+      {
+        "file": "rpg-film/complete-storyboard/16-final-window-light.png",
+        "sha256": "d02526d666685beac0ce92314f04a27db5be4a6fb5da8f41356eecd751f691bf"
+      },
+      {
+        "file": "rpg-film/style-refinement-review/01-classroom-rpg-refined.png",
+        "sha256": "e308474e20527edf13dc33ff9eaea85cb81b98625ac5068b2b8f89accc8d44e1"
+      },
+      {
+        "file": "rpg-film/style-refinement-review/02-river-rpg-refined.png",
+        "sha256": "01a556639fcd433bc8d5939aa3970192f6194a5832c9f5f2b0fb6f2896552214"
+      },
+      {
+        "file": "rpg-film/style-refinement-review/grain-light/01-classroom-light-grain.png",
+        "sha256": "1222dd6afb5fc55f8012eb8f9bfd7749f53b1c1368bb0642f6cb542b7fe8c044"
+      },
+      {
+        "file": "rpg-film/style-refinement-review/grain-light/02-river-light-grain.png",
+        "sha256": "b5fb6cbc101e366aa7c0f36467f7b49b0e1e458229c9d9529f7d1a586d053e07"
+      },
+      {
+        "file": "rpg-film/style-refinement-review/grain-strong/01-classroom-strong-grain.png",
+        "sha256": "63478de1e395612d24d49ee67f107a70c2d079c8d49bab917c2dc1ad525e6b57"
+      },
+      {
+        "file": "rpg-film/style-refinement-review/grain-strong/02-river-strong-grain.png",
+        "sha256": "1193c2d9f600f6ce6a22e47cb5e386559546d57e41a2c6e9912e7ae16b6e7f80"
+      }
+    ]
+  },
+  "full_video_and_audio_decode": "passed",
+  "visual_review": "Read actual encoded contact sheet and all scene/key previews. Technical checks do not establish user acceptance."
+}

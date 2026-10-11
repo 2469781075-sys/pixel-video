@@ -1,0 +1,28 @@
+{
+  "main_video": "window-light-rain-mambo.mp4",
+  "package": "window-light-rain-delivery.zip",
+  "package_files": 44,
+  "offline_player": "index.html",
+  "files": [
+    {
+      "file": "window-light-rain-mambo.mp4",
+      "bytes": 10892663,
+      "sha256": "1515910d88c4252216f6e5d6b45dd27471ba44592800d92ad92e9ba75ed44618"
+    },
+    {
+      "file": "window-light-rain-delivery.zip",
+      "bytes": 42570323,
+      "sha256": "41a953ed11f90fef2fedbf1074a714f479e1899f7a45c37fcd76dce780bffbfc"
+    },
+    {
+      "file": "subtitles.srt",
+      "bytes": 2645,
+      "sha256": "a78fac941da65b08afdfd55e72fcbd2f6989beee5b05a990d893dcd8b11f05e7"
+    },
+    {
+      "file": "mambo-narration.mp3",
+      "bytes": 1669292,
+      "sha256": "eff9431ede20353122b41c3083d81ab118cc3350945b7a14dc0c16fcf6d74d0e"
+    }
+  ]
+}
