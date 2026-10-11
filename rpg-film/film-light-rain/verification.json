@@ -1,8 +1,8 @@
 {
   "status": "Technical checks passed; creative approval remains with the user",
   "file": "window-light-rain-mambo.mp4",
-  "sha256": "1515910d88c4252216f6e5d6b45dd27471ba44592800d92ad92e9ba75ed44618",
-  "bytes": 10892663,
+  "sha256": "36084203798e06da4196628b01259e8ae73c150187bd30b3b69e8c994bb2e742",
+  "bytes": 10897663,
   "video": {
     "width": 1920,
     "height": 1080,
@@ -257,7 +257,7 @@
           85.94999999999999
         ],
         "outside_motion_mask_unchanged": true,
-        "changed_native_pixels": 58715
+        "changed_native_pixels": 61769
       },
       {
         "shot": 11,
@@ -324,7 +324,7 @@
       "sampled_states": 272,
       "fixed_native_pane_size": [
         105,
-        149
+        161
       ],
       "horizontal_monotonic_slide": true,
       "full_open_gap_pixels": 166,

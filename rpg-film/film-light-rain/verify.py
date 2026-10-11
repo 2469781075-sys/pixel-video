@@ -106,13 +106,13 @@ def motion(film):
                         'outside_motion_mask_unchanged': True,
                         'changed_native_pixels': int(changed.sum())})
     states = [film.window_state(t) for t in np.arange(75.05, 86.35, 1 / r.FPS)]
-    assert all(x['pane_width'] == 105 and x['top'] == 5 and x['bottom'] == 154 for x in states)
+    assert all(x['pane_width'] == 105 and x['top'] == 5 and x['bottom'] == 166 for x in states)
     assert all(a['left_x'] >= b['left_x'] and a['right_x'] <= b['right_x'] for a, b in zip(states, states[1:]))
     assert states[0]['left_x'] + 105 == states[0]['right_x']
     assert states[-1]['right_x'] - (states[-1]['left_x'] + 105) == 166
     assert states[-1]['lower'] == 1.0
     return {'fixed_canvas': [r.W, r.SCENE_H], 'shots': records,
-            'window': {'sampled_states': len(states), 'fixed_native_pane_size': [105, 149],
+            'window': {'sampled_states': len(states), 'fixed_native_pane_size': [105, 161],
                        'horizontal_monotonic_slide': True, 'full_open_gap_pixels': 166,
                        'hands_lowered_at_end': True},
             'scope': 'Renderer pixels outside all declared local-motion masks; excludes intro/end fades. Not an anatomy test.'}

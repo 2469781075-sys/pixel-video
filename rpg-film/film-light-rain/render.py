@@ -477,7 +477,7 @@ class Film:
         lower=ease((t-84.7)/1.30)
         return {'left':left,'right':right,'left_x':134-round(83*left),
                 'right_x':239+round(83*right),'pane_width':105,
-                'top':5,'bottom':154,'reach':reach,'lower':lower}
+                'top':5,'bottom':166,'reach':reach,'lower':lower}
 
     def window(self,t:float)->Image.Image:
         im=self.poses['10-window-clean'].copy()
