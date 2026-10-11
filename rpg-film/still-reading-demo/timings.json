@@ -1,0 +1,37 @@
+{
+  "scope": "original article, first four complete sentences only",
+  "complete_article": false,
+  "voice_direction": "曼波朗读",
+  "duration_seconds": 26.5,
+  "speed": 1.0,
+  "sentences": [
+    {
+      "id": 1,
+      "text": "不知道大家的中学生活是怎么样的？",
+      "audio_file": "001.wav",
+      "start_seconds": 0.0,
+      "end_seconds": 2.86
+    },
+    {
+      "id": 2,
+      "text": "主播高中的教室是狭窄逼仄的。",
+      "audio_file": "002.wav",
+      "start_seconds": 3.11,
+      "end_seconds": 6.01
+    },
+    {
+      "id": 3,
+      "text": "教室的布局说来也简单，几路层层格格的铁轨规矩地张满地板，前头努力抵住前面的山坳，毕竟那上面还有座高高的庙。",
+      "audio_file": "003.wav",
+      "start_seconds": 6.26,
+      "end_seconds": 16.58
+    },
+    {
+      "id": 4,
+      "text": "后面留了些空，以供我们偶尔快活地呼吸，不至于终日只做个夹层里的石子，任人布置、碾轧。",
+      "audio_file": "004.wav",
+      "start_seconds": 16.83,
+      "end_seconds": 26.25
+    }
+  ]
+}

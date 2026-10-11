@@ -1,0 +1,15 @@
+{
+  "image": {
+    "path": "rpg-film/handdrawn-style-review/01-rainy-classroom.png",
+    "sha256": "7d92165e0abe568ae42b432c00c211988b7be6c88d4b79c771f14f65595ad018"
+  },
+  "audio_archive": {
+    "path": "rpg-film/narration/mambo/mambo-narration.zip",
+    "sha256": "3742d228de5c9678443d59bef6bd9c0ae79275e466902f3da3816adb622bc809"
+  },
+  "reference_url": "https://www.bilibili.com/video/BV13THd6aEH1/",
+  "reference_access": "Environment returned proxy 403; video not viewed. Format follows user's description.",
+  "picture_motion": "none; one unchanged source image for every video frame",
+  "subtitle_layout": "existing large original-text sentence captions; constant bottom shade",
+  "voice": "existing Mambo voice, not a clone of the user's voice"
+}

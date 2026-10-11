@@ -1,0 +1,77 @@
+{
+  "status": "passed",
+  "scope": "first four complete original sentences; not full article",
+  "duration_seconds": 26.5,
+  "width": 1920,
+  "height": 1080,
+  "fps": 24,
+  "frames": 636,
+  "video": "H.264",
+  "audio": {
+    "codec": "AAC",
+    "sample_rate": 48000,
+    "channels": 1,
+    "speed": 1.0,
+    "integrated_lufs": -16.26,
+    "true_peak_dbfs": -1.44
+  },
+  "source_picture_sha256": "7d92165e0abe568ae42b432c00c211988b7be6c88d4b79c771f14f65595ad018",
+  "whole_source_picture_unchanged": true,
+  "original_subtitle_text": "four sentences checked verbatim by render.py for both SRT and ASS",
+  "full_decode": "video and audio decoded successfully with no reported errors",
+  "fixed_picture": {
+    "all_frames_checked": 636,
+    "region": "entire 1920x832 area above captions",
+    "max_mean_absolute_grayscale_difference": 1.4069905598958334,
+    "registration_samples": [
+      {
+        "time_seconds": 1,
+        "zero_offset_mad": 0.7905354817708333,
+        "best_one_pixel_shift_mad": 5.022232877055756
+      },
+      {
+        "time_seconds": 4,
+        "zero_offset_mad": 0.8158672626201923,
+        "best_one_pixel_shift_mad": 5.02646409947854
+      },
+      {
+        "time_seconds": 9,
+        "zero_offset_mad": 0.8168820112179487,
+        "best_one_pixel_shift_mad": 5.026669675090253
+      },
+      {
+        "time_seconds": 20,
+        "zero_offset_mad": 1.4066055689102563,
+        "best_one_pixel_shift_mad": 5.038337971319695
+      }
+    ],
+    "note": "Encoded pixels have small H.264 compression differences. The source picture and framing are constant; the four registration checks prefer zero displacement over a one-pixel shift."
+  },
+  "voice_coverage": [
+    {
+      "sentence": 1,
+      "source_audio_correlation": 0.9981014316778853
+    },
+    {
+      "sentence": 2,
+      "source_audio_correlation": 0.9959344186378898
+    },
+    {
+      "sentence": 3,
+      "source_audio_correlation": 0.9984744196393778
+    },
+    {
+      "sentence": 4,
+      "source_audio_correlation": 0.9991603298147066
+    }
+  ],
+  "review_frames": [
+    1.0,
+    4.0,
+    9.0,
+    20.0
+  ],
+  "visual_review": "All four actual encoded frames inspected: large readable captions, complete picture, no subtitles over faces.",
+  "user_voice_clone": "not attempted; no user reference audio supplied; current model weights are Mambo-specific",
+  "sha256": "88e4d26e21e5cd93b10d5fbb2ca5021eaa3a553a6ef81c52e5aff210427dbaf7"
+}
