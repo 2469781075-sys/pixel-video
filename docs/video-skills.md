@@ -26,6 +26,8 @@
 
 具体来源提交、原始文件 SHA-256 和本地适配记录在 [sources.lock.json](../.agents/skills/sources.lock.json)。社区包保留 MIT 许可证和未修改的 UPSTREAM-SKILL.md，本地入口限定项目范围。没有运行远程安装器或自动升级。imagegen 保留 Apache 许可证；Remotion skills 上游没有独立许可证文件，不将该参考包标为 MIT 或 Apache。
 
+用户对第二版提出了旧图裁切过多与坐姿结构错误的反馈。本轮没有再安装第三方包，而是在项目专用技能中加入必读的 [分镜与坐姿复核](../.agents/skills/pixel-video-production/references/shot-review.md)，并使用现有内置图片工具重绘 [全身侧面结构图](../rpg-film/rebuild-review/01-seat-profile.png)。数值检查与引擎安装不能替代分镜创作和桌椅遮挡的实际看图复核；这张结构图不代表完整重制视频已完成。
+
 OpenAI 旧 skills 仓库已迁移至 [plugins](https://github.com/openai/plugins)。检查新仓库后保留兼容当前工具的固定 imagegen 版本。项目专用技能此前按 skill-creator 规范初始化和验证。
 
 技能随 Git 保存，Remotion 依赖和曼波模型保留在云环境。新的安装、启动说明将保存为环境配置草稿；查看、保存并发布后才能形成新的快照。当前实例已实际测试，独立新任务恢复尚未验证。

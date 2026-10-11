@@ -5,7 +5,7 @@ description: 将中文文章制作成可爱、精致的掌机 RPG 像素分镜�
 
 # 像素视频制作
 
-先读取 [画风与场景约束](references/art-direction.md)。需要配音、动画或成片时，再读取 [制作与交付流程](references/production.md)。按用户本轮要求选择静态检查图、局部小样或完整视频；延续已确认的风格和修改，不重复询问已经确定的事项。
+先读取 [画风与场景约束](references/art-direction.md) 和 [分镜与坐姿复核](references/shot-review.md)。需要配音、动画或成片时，再读取 [制作与交付流程](references/production.md)。按用户本轮要求选择静态检查图、局部小样或完整视频；延续已确认的风格和修改，不重复询问已经确定的事项。
 
 ## 执行流程
 

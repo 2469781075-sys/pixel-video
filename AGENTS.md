@@ -23,3 +23,5 @@ Remotion 4.0.534 已配置在 `/workspace/video-tools/remotion`，使用系统 C
 使用现有云任务的独立检出；仅在用户明确要求时创建额外 worktree。环境快照可能保存工具和模型，但后台语音进程需要重新检查并按需启动。技能不会自动安装依赖或激活其中的示例脚本。
 
 技能来源、固定版本和本地适配记录在 `.agents/skills/sources.lock.json`；用途及使用示例见 `docs/video-skills.md`。
+
+用户已指出第二版存在旧图裁切充当新分镜、主角夹在桌间及椅子在桌前等缺陷。其技术验证不代表美术验收通过；不要用有缺陷的座位图作结构模板。制作前读取 `.agents/skills/pixel-video-production/references/shot-review.md`；新坐姿结构检查图在 `rpg-film/rebuild-review/`，不等于已完成重制视频。
