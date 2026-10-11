@@ -1,0 +1,93 @@
+{
+  "scope": "four_static_review_keyframes",
+  "user_approval": "pending_review",
+  "style": "掌机 RPG A，强像素、原创棕发绿背心主角",
+  "narration": {
+    "current_images_have_audio": false,
+    "future_film": "保留全文21句、原文顺序及现有曼波朗读",
+    "timing_source": "../narration/mambo/timings.json",
+    "interval_note": "上述时间只是现有音轨定位，未据此声称重制动画已完成。"
+  },
+  "shots": [
+    {
+      "number": 1,
+      "title": "教室的拥挤",
+      "image": "01-cramped-classroom.png",
+      "source_sentence_id": 2,
+      "original_text": "主播高中的教室是狭窄逼仄的。",
+      "existing_narration_interval_seconds": [
+        3.11,
+        6.01
+      ],
+      "camera": "从讲台端朝后排看，窗墙投影在画面右侧；主角位于最后排靠窗座。",
+      "action_state": "同组两张并桌、两把椅子；多组同学占据桌列，后排保留通道。",
+      "new_information": "以桌列和真实人群建立空间，主角与同桌仍在同组。",
+      "status": "static_keyframe_for_user_review",
+      "subtitle": {
+        "mode": "large_caption_demonstration_baked_in_image",
+        "text": "主播高中的教室是狭窄逼仄的。",
+        "final_video_policy": "Render verified original text separately; retain large bold subtitles."
+      }
+    },
+    {
+      "number": 2,
+      "title": "同学的小世界",
+      "image": "02-little-worlds.png",
+      "source_sentence_id": 7,
+      "original_text": "他们围成了一个个小小世界，讲述着我听不懂的历史。",
+      "existing_narration_interval_seconds": [
+        39.9,
+        44.46
+      ],
+      "camera": "朝后墙的较低中景；原窗墙仍在画面右侧。",
+      "action_state": "近处同学指书、读书、相互注视；主角在远处窗边安静坐着。",
+      "new_information": "从具体交流动作表现取乐和疏离，使用独立群像构图。",
+      "status": "static_keyframe_for_user_review",
+      "subtitle": {
+        "mode": "large_caption_demonstration_baked_in_image",
+        "text": "他们围成了一个个小小世界，讲述着我听不懂的历史。",
+        "final_video_policy": "Render verified original text separately; retain large bold subtitles."
+      }
+    },
+    {
+      "number": 3,
+      "title": "第一人称推窗",
+      "image": "03-first-person-window.png",
+      "source_sentence_id": 14,
+      "original_text": "意识蹒跚着爬上窗扣，肢体却得到了勇气的奖赏，我缓缓支走那两片玻璃，天地之间唤起一片清澈的凉，教室里面映满了雨水和露水的影子，终是把我们都接成一片了。",
+      "existing_narration_interval_seconds": [
+        75.05,
+        90.69
+      ],
+      "camera": "主角第一人称正对窗户；水平轨道和外框固定。",
+      "action_state": "两只白袖手握窗扇把手，玻璃向两侧叠开，中间出现空气通道。",
+      "new_information": "展示开窗动作中的关键位置；尚未制作逐帧推窗及接触验证。",
+      "status": "static_keyframe_for_user_review",
+      "subtitle": {
+        "mode": "large_caption_demonstration_baked_in_image",
+        "text": "意识蹒跚着爬上窗扣，肢体却得到了勇气的奖赏，我缓缓支走那两片玻璃，天地之间唤起一片清澈的凉，教室里面映满了雨水和露水的影子，终是把我们都接成一片了。",
+        "final_video_policy": "Render verified original text separately; retain large bold subtitles."
+      }
+    },
+    {
+      "number": 4,
+      "title": "开窗后的清凉",
+      "image": "04-after-opening.png",
+      "source_sentence_id": 15,
+      "original_text": "我享受这份拥抱，因为它赞许了我们的自由。",
+      "existing_narration_interval_seconds": [
+        90.94,
+        95.1
+      ],
+      "camera": "从后排通道朝黑板方向看；同一窗墙投影在画面左侧。",
+      "action_state": "主角坐在自己的椅子上转头感受风，同组室内侧同桌位空着，纸页和发梢被风轻轻带起。",
+      "new_information": "用新的室内构图表现风进入后的状态；局部光色与人物状态发生变化。",
+      "status": "static_keyframe_for_user_review",
+      "subtitle": {
+        "mode": "large_caption_demonstration_baked_in_image",
+        "text": "我享受这份拥抱，因为它赞许了我们的自由。",
+        "final_video_policy": "Render verified original text separately; retain large bold subtitles."
+      }
+    }
+  ]
+}

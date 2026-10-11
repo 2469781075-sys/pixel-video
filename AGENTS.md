@@ -25,3 +25,5 @@ Remotion 4.0.534 已配置在 `/workspace/video-tools/remotion`，使用系统 C
 技能来源、固定版本和本地适配记录在 `.agents/skills/sources.lock.json`；用途及使用示例见 `docs/video-skills.md`。
 
 用户已指出第二版存在旧图裁切充当新分镜、主角夹在桌间及椅子在桌前等缺陷。其技术验证不代表美术验收通过；不要用有缺陷的座位图作结构模板。制作前读取 `.agents/skills/pixel-video-production/references/shot-review.md`；新坐姿结构检查图在 `rpg-film/rebuild-review/`，不等于已完成重制视频。
+
+本次重制的四张独立静态镜头与原文对应记录在 `rpg-film/reboot-shots/`，供用户检查，尚未获画面验收，也没有动画或音频。图 1、2 朝后墙，图 4 朝前墙，窗墙在画面左右的变化来自相机方向。正式制作仍须全文逐句曼波朗读、大字幕和固定机位；图中字幕为排版示意，不能直接代替最终字幕时间轴。第 4 张采用已经修正额外鞋子的版本。

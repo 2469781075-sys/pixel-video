@@ -1,0 +1,45 @@
+{
+  "scope": "Static file integrity and source-text metadata checks; no animation or audio output in this batch.",
+  "art_review": "Manual inspection; user review pending. These checks do not certify all anatomy or future animation.",
+  "images": [
+    {
+      "file": "01-cramped-classroom.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2277077,
+      "sha256": "a392190180dc7566fdb81832c75ff1897baf409133709e2cf86d721eba7b3686",
+      "sentence_id": 2,
+      "metadata_text_matches_original": true
+    },
+    {
+      "file": "02-little-worlds.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2179679,
+      "sha256": "c8da0fbfc9e7d9f3719a560050b6974f13cb811577a9579b9b474f9c4a3791ac",
+      "sentence_id": 7,
+      "metadata_text_matches_original": true
+    },
+    {
+      "file": "03-first-person-window.png",
+      "width": 1671,
+      "height": 941,
+      "bytes": 2435039,
+      "sha256": "a9942d4c5a001228902759e5c787813074871e41767b643b0f22e3d2dae21da8",
+      "sentence_id": 14,
+      "metadata_text_matches_original": true
+    },
+    {
+      "file": "04-after-opening.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2265398,
+      "sha256": "5ba36357953fb3a3fb6fbe073fbcd261624deae4220c94ea27b73c1698fc721c",
+      "sentence_id": 15,
+      "metadata_text_matches_original": true
+    }
+  ],
+  "png_integrity": "passed",
+  "original_text_metadata": "passed",
+  "total_images": 4
+}
