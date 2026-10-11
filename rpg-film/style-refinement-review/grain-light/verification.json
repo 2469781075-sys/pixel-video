@@ -1,0 +1,122 @@
+{
+  "scope": "Two new static light-grain variants only",
+  "art_review": "Pending user review",
+  "method": "Built-in image_gen edit; Python used only for copying, read-only image validation, metadata and ZIP packaging",
+  "assets": [
+    {
+      "file": "01-classroom-light-grain.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 2255380,
+      "sha256": "1222dd6afb5fc55f8012eb8f9bfd7749f53b1c1368bb0642f6cb542b7fe8c044",
+      "caption_lines_expected": [
+        "不知道大家的中学生活是怎么样的？",
+        "主播高中的教室是狭窄逼仄的。"
+      ],
+      "caption_check": "Visually checked; no OCR or pixel-exact guarantee."
+    },
+    {
+      "file": "02-river-light-grain.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 2255516,
+      "sha256": "b5fb6cbc101e366aa7c0f36467f7b49b0e1e458229c9d9529f7d1a586d053e07",
+      "caption_lines_expected": [
+        "我其实一直不懂，同学们分明与我在同一条河流里面",
+        "翻来覆去，却轻而易举地找到了水的边界。"
+      ],
+      "caption_check": "Visually checked; no OCR or pixel-exact guarantee."
+    }
+  ],
+  "preserved_images": [
+    {
+      "file": "rpg-film/complete-storyboard/01-cramped-classroom.png",
+      "sha256": "7edd4409a0cb9535ca7e1cf3b4d6a545b9e60f1e70a55bf48e4bf86a6c2e5194"
+    },
+    {
+      "file": "rpg-film/complete-storyboard/02-desks-and-platform.png",
+      "sha256": "2b714dead95a34dfed224b18aef26e9ff0e5235483dd063434ae428b7e053172"
+    },
+    {
+      "file": "rpg-film/complete-storyboard/03-rear-breathing-space.png",
+      "sha256": "e179ce052e962d870bbcbfd4470d0f39554c5462158a73577c5daa5ed0d2a2fe"
+    },
+    {
+      "file": "rpg-film/complete-storyboard/04-river-boundaries.png",
+      "sha256": "dcc176a3f623c444db6e9dd2704cde3799c4c32f6e055f74ccdd1463edffbb41"
+    },
+    {
+      "file": "rpg-film/complete-storyboard/05-little-worlds.png",
+      "sha256": "6ff881e28e8f8b113c29a8101e800ef485a2c1b69c4abb4e6359e18cc02919c7"
+    },
+    {
+      "file": "rpg-film/complete-storyboard/06-window-seat.png",
+      "sha256": "17d9118b5540543ec38ed3dcc9bbce89881a32ba3d4dbeea19d2681f1c4d0a1a"
+    },
+    {
+      "file": "rpg-film/complete-storyboard/07-dream-in-window.png",
+      "sha256": "5889e45e02d9bb07378a3e35662b0976c18ac03f7531bbdfd9f1b7f199de993c"
+    },
+    {
+      "file": "rpg-film/complete-storyboard/08-gaze-and-silence.png",
+      "sha256": "6c9379da47e176442b01811c42d6d57aa5379d0a8951700d4ab639df9d05ae4d"
+    },
+    {
+      "file": "rpg-film/complete-storyboard/09-deskmate-leaves.png",
+      "sha256": "7a03460a23cdb5572f5b907ba0bfb35cc3ca05551530fd9bfea06c3e34f2be0e"
+    },
+    {
+      "file": "rpg-film/complete-storyboard/10-first-person-window.png",
+      "sha256": "af7e88430e700545678a16466366f392678fc8342bfe608b47a0fea2d2db18bb"
+    },
+    {
+      "file": "rpg-film/complete-storyboard/11-after-opening.png",
+      "sha256": "12d5b3b3bc22115bf2703f557f1cd2f09ef1bbfd226474238a6377cd6fb249c9"
+    },
+    {
+      "file": "rpg-film/complete-storyboard/12-wind-and-night-river.png",
+      "sha256": "788d694dd52c1849302410c2b11fab4268e82d7241ac1a8c69c22b2eaf795212"
+    },
+    {
+      "file": "rpg-film/complete-storyboard/13-social-confidence.png",
+      "sha256": "67c08f4ca4ec60075dfe90f0221fb2c42d5cfd56a1aa3d90a9f14099f8c9adcc"
+    },
+    {
+      "file": "rpg-film/complete-storyboard/14-knight-and-school-king.png",
+      "sha256": "ead9606ae6bc8389402eb671fb912112df79bdfd82379ac3b3c6300846367fbc"
+    },
+    {
+      "file": "rpg-film/complete-storyboard/15-return-to-classroom.png",
+      "sha256": "fd7bc250f42b2f3bb2fdc1fbb642e1b5b82a57d3d89cf7d35aaa8fc0ce345792"
+    },
+    {
+      "file": "rpg-film/complete-storyboard/16-final-window-light.png",
+      "sha256": "d02526d666685beac0ce92314f04a27db5be4a6fb5da8f41356eecd751f691bf"
+    },
+    {
+      "file": "rpg-film/style-refinement-review/01-classroom-rpg-refined.png",
+      "sha256": "e308474e20527edf13dc33ff9eaea85cb81b98625ac5068b2b8f89accc8d44e1"
+    },
+    {
+      "file": "rpg-film/style-refinement-review/02-river-rpg-refined.png",
+      "sha256": "01a556639fcd433bc8d5939aa3970192f6194a5832c9f5f2b0fb6f2896552214"
+    }
+  ],
+  "preserved_count": 18,
+  "manual_review": [
+    "Both full-frame results viewed",
+    "Classroom foreground eye correction remains visible",
+    "Student groups, furniture and window layout retained for review",
+    "Subtitle text and line breaks visually checked",
+    "Grain is concentrated on background/materials; water retains broad bands"
+  ],
+  "limitations": [
+    "Generative edits are not pixel-exact masks",
+    "No quantitative grain-density or exact logical-grid claim",
+    "No new animation or audio produced"
+  ]
+}

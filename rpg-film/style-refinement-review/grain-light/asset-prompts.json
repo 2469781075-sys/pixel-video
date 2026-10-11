@@ -1,0 +1,28 @@
+{
+  "request": "加一点颗粒感怎么样？",
+  "mode": "built-in image_gen edit",
+  "scope": "Two static texture trials; existing storyboard and refined sources remain unchanged.",
+  "acceptance": "Awaiting user art review.",
+  "assets": [
+    {
+      "file": "01-classroom-light-grain.png",
+      "source": "/workspace/pixel-video/rpg-film/style-refinement-review/01-classroom-rpg-refined.png",
+      "generated_source": "/workspace/generated_images/exec-133efc20-cfd8-4388-9d82-2d790b206348.png",
+      "prompt": "Edit the supplied refined pixel-art classroom frame, making ONLY a very light material-texture pass. Preserve its current composition, every student, anatomy, furniture, horizontal sliding windows, colors, matte lighting, and crisp pixel RPG drawing. Retain the corrected eye anatomy of the brown-haired boy at the frontmost occupied desk at lower left, whose cheek rests on his hand: both calm open eyes, aligned naturally, looking right. Preserve ALL faces and eyes as drawn; do not redesign any person.\n\nAdd restrained, sparse, low-contrast square pixel grain to a few large surfaces: the tan floor, desk wood, and flat areas of cabinet paint. Use tiny intentional pixel clusters and occasional two-tone dithering near shadow transitions, using neighboring colors already in the picture. Most surface pixels stay flat and clean. Texture should be just noticeable at normal viewing size, never busy. Keep the current matte floor; no glossy golden reflections. Do NOT add photographic film noise, random full-image speckles, scratches, wear, blur, glow, or extra detail. No grain on skin, eyes, hands, face outlines, books' printed pages, or the subtitle panel. Keep the logical pixel grid consistent.\n\nPreserve the entire bottom navy subtitle panel and its exact clean white Chinese text and line breaks:\n不知道大家的中学生活是怎么样的？\n主播高中的教室是狭窄逼仄的。\nReturn the same full landscape frame, no crop, no added border.",
+      "caption_lines": [
+        "不知道大家的中学生活是怎么样的？",
+        "主播高中的教室是狭窄逼仄的。"
+      ]
+    },
+    {
+      "file": "02-river-light-grain.png",
+      "source": "/workspace/pixel-video/rpg-film/style-refinement-review/02-river-rpg-refined.png",
+      "generated_source": "/workspace/generated_images/exec-26bafd40-be22-467b-9c72-edf93c487ef8.png",
+      "prompt": "Edit the supplied refined pixel-art river frame with ONLY a very light material-texture pass. Preserve the entire composition, all characters and faces, hero's pose on the stone, river shape, banks, existing grouped foliage, matte palette, and crisp handheld RPG pixel drawing. Do not reposition or redraw people.\n\nAdd restrained, sparse low-contrast square pixel grain to the stone, a few broad grass and foliage masses, and selected shaded parts of the riverbanks. Use tiny intentional neighboring-color pixel clusters, with occasional two-tone dithering near shadow boundaries. Keep most color areas clean and broad. The water must remain calm broad blue bands, with only a few dim textured ripples; do not restore dense white glitter or foam. The texture is just noticeable at normal viewing size, never busy. No photographic film noise, random full-image speckles, blur, glow, scratches, extra foliage complexity, or smooth grain overlay. Keep faces, skin, eyes, hands, and all subtitles completely clean.\n\nPreserve the entire bottom navy subtitle panel and exact white Chinese text and line breaks:\n我其实一直不懂，同学们分明与我在同一条河流里面\n翻来覆去，却轻而易举地找到了水的边界。\nReturn the same full landscape frame, no crop, no added border.",
+      "caption_lines": [
+        "我其实一直不懂，同学们分明与我在同一条河流里面",
+        "翻来覆去，却轻而易举地找到了水的边界。"
+      ]
+    }
+  ]
+}
