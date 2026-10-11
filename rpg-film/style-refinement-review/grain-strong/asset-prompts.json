@@ -1,0 +1,28 @@
+{
+  "request": "强颗粒感给我做出来看一下",
+  "mode": "built-in image_gen edit",
+  "scope": "Two strong-grain static variants derived from the light-grain review frames. Other existing frames and videos retained.",
+  "art_acceptance": "Pending user review",
+  "assets": [
+    {
+      "file": "01-classroom-strong-grain.png",
+      "source": "/workspace/pixel-video/rpg-film/style-refinement-review/grain-light/01-classroom-light-grain.png",
+      "generated_source": "/workspace/generated_images/exec-b52cc57d-155c-4364-b30a-20384227ff08.png",
+      "prompt": "Use case: style-transfer edit. Input image is the exact edit target, an already approved-in-composition cute handheld RPG pixel-art classroom. Make a STRONG PIXEL-GRAIN version of this SAME image, visibly much heavier in texture than the supplied light-grain version at normal fit-to-screen size. Change the material texture only.\n\nCreate pronounced, coarse, crisp square pixel stippling and two-color checker dithering over broad areas of tan floor, cream walls, painted cabinets and wooden desktops. These surfaces should show clearly visible, fairly dense contrasting grain, several times stronger than the supplied subtle texture. Use a consistent small square grid and neighboring warm/light and cool/shadow material colors, with patterned pixel pairs and small irregular clusters. Grain must be an unmistakable visible feature, rather than a tiny subtle change. Retain broad light/shadow shapes and the current palette and stable sunshine. Keep pixel contours clean. Avoid smooth photographic noise, blur, glow, scratches, dirt stains, canvas weave or new detailed objects.\n\nPreserve all students, exact positions and poses, desks and chairs, horizontal sliding window geometry, perspective, and all face anatomy. In particular preserve the corrected two open aligned eyes of the brown-haired boy resting his cheek on his hand at the lower-left first occupied desk, looking right toward his dark-haired deskmate. Keep all skin, eyes, hands and facial features free from grain. No extra characters or changed props.\n\nPreserve the navy subtitle panel and its clean, large white text EXACTLY, no grain over the panel:\n不知道大家的中学生活是怎么样的？\n主播高中的教室是狭窄逼仄的。\nReturn the full same landscape frame, no cropping or new borders.",
+      "caption_lines": [
+        "不知道大家的中学生活是怎么样的？",
+        "主播高中的教室是狭窄逼仄的。"
+      ]
+    },
+    {
+      "file": "02-river-strong-grain.png",
+      "source": "/workspace/pixel-video/rpg-film/style-refinement-review/grain-light/02-river-light-grain.png",
+      "generated_source": "/workspace/generated_images/exec-6307341a-e5ed-4d35-8cd8-c8be73118dd0.png",
+      "prompt": "Use case: style-transfer edit. Input image is the exact edit target, a cute handheld RPG pixel-art river scene. Make a STRONG PIXEL-GRAIN version of this SAME image, substantially more textured than the supplied light-grain frame and clearly visible at normal fit-to-screen size. Change texture only.\n\nAdd pronounced, crisp, coarse square pixel stippling and two-color checker dithering to the stepping stones, both banks, grassy areas, tree foliage masses and their shade transitions. Give these broad materials fairly dense contrasting pixel grain, several times stronger than the supplied subtle speckles. Use neighboring existing colors and a consistent small square grid, with small pixel pairs and irregular clusters. The texture should be an unmistakable feature, not a tiny subtle change. Keep silhouettes and large light/shadow regions legible. Add medium-strength blue-on-blue stipple in selected water bands, while preserving broad calm blue ribbons and the current river shape. No dense white sparkling highlights, no foam storm. Avoid photographic film noise, smooth noise, blur, glow, scratches, dirt stains, canvas weave, or new foliage shapes.\n\nPreserve the hero on the exact same stone, all peer groups on the banks, every character's identity, face, pose, proportions, clothes and placement, the bridge, buildings and floating papers. Keep all skin, eyes, hands and faces clean, without grain. Preserve all caption geometry.\n\nPreserve the navy subtitle panel and large clean white Chinese text EXACTLY, no grain over the panel:\n我其实一直不懂，同学们分明与我在同一条河流里面\n翻来覆去，却轻而易举地找到了水的边界。\nReturn the full same landscape frame, no crop or added border.",
+      "caption_lines": [
+        "我其实一直不懂，同学们分明与我在同一条河流里面",
+        "翻来覆去，却轻而易举地找到了水的边界。"
+      ]
+    }
+  ]
+}
