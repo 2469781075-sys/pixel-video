@@ -4,6 +4,8 @@
 
 **[下载四张原图及说明](https://raw.githubusercontent.com/2469781075-sys/pixel-video/main/rpg-film/reboot-shots/reboot-static-keyframes.zip)**
 
+另有第 4 张的 **[更强像素版对照](pixel-strength/README.md)**：更大的像素色块与更清楚的阶梯边缘，原版继续保留。该对照图单独下载，不包含在原四图压缩包中。
+
 ## 1 · 教室的拥挤
 
 > 主播高中的教室是狭窄逼仄的。
