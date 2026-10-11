@@ -1,0 +1,545 @@
+{
+  "status": "passed",
+  "video": "window-full-mambo-v2.mp4",
+  "duration_seconds": 141.0,
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "frames": 3384,
+  "file_bytes": 16843062,
+  "style": "retained handheld RPG A, strong pixels, 480x270 integer 4x upscale",
+  "shots": {
+    "previous_count": 15,
+    "new_count": 35,
+    "all_21_sentences_covered": true,
+    "no_timeline_gaps": true,
+    "encoded_plate_checks": [
+      {
+        "shot": "establish",
+        "time": 1.555,
+        "mean_pixel_error": 1.6539
+      },
+      {
+        "shot": "narrow",
+        "time": 4.685,
+        "mean_pixel_error": 1.3799
+      },
+      {
+        "shot": "rows",
+        "time": 8.505,
+        "mean_pixel_error": 1.3126
+      },
+      {
+        "shot": "platform",
+        "time": 13.79,
+        "mean_pixel_error": 1.2786
+      },
+      {
+        "shot": "rear",
+        "time": 19.115,
+        "mean_pixel_error": 1.5366
+      },
+      {
+        "shot": "enclosure",
+        "time": 23.95,
+        "mean_pixel_error": 1.4198
+      },
+      {
+        "shot": "river-boundary",
+        "time": 28.6,
+        "mean_pixel_error": 1.2999
+      },
+      {
+        "shot": "friends",
+        "time": 33.035,
+        "mean_pixel_error": 1.5323
+      },
+      {
+        "shot": "friend-pair",
+        "time": 37.635,
+        "mean_pixel_error": 1.2527
+      },
+      {
+        "shot": "little-worlds",
+        "time": 41.1,
+        "mean_pixel_error": 1.3502
+      },
+      {
+        "shot": "front-group",
+        "time": 43.505,
+        "mean_pixel_error": 1.2739
+      },
+      {
+        "shot": "window-seat",
+        "time": 46.345,
+        "mean_pixel_error": 1.379
+      },
+      {
+        "shot": "crowded-thought",
+        "time": 50.525,
+        "mean_pixel_error": 1.4346
+      },
+      {
+        "shot": "window-dream",
+        "time": 55.475,
+        "mean_pixel_error": 1.391
+      },
+      {
+        "shot": "glances",
+        "time": 59.495,
+        "mean_pixel_error": 1.2001
+      },
+      {
+        "shot": "hesitation",
+        "time": 64.025,
+        "mean_pixel_error": 1.3773
+      },
+      {
+        "shot": "empty-seat",
+        "time": 68.62,
+        "mean_pixel_error": 1.5905
+      },
+      {
+        "shot": "reach",
+        "time": 72.675,
+        "mean_pixel_error": 1.4034
+      },
+      {
+        "shot": "latch",
+        "time": 76.85,
+        "mean_pixel_error": 1.34
+      },
+      {
+        "shot": "slide",
+        "time": 81.6,
+        "mean_pixel_error": 1.7019
+      },
+      {
+        "shot": "first-air",
+        "time": 86.1,
+        "mean_pixel_error": 1.4023
+      },
+      {
+        "shot": "cool-room",
+        "time": 89.295,
+        "mean_pixel_error": 1.4712
+      },
+      {
+        "shot": "open-yard",
+        "time": 92.07,
+        "mean_pixel_error": 1.3774
+      },
+      {
+        "shot": "room-embrace",
+        "time": 94.275,
+        "mean_pixel_error": 1.2985
+      },
+      {
+        "shot": "breeze",
+        "time": 96.875,
+        "mean_pixel_error": 1.3519
+      },
+      {
+        "shot": "river-dusk",
+        "time": 100.4,
+        "mean_pixel_error": 1.5003
+      },
+      {
+        "shot": "river-detail",
+        "time": 103.85,
+        "mean_pixel_error": 1.3286
+      },
+      {
+        "shot": "social",
+        "time": 107.65,
+        "mean_pixel_error": 1.3577
+      },
+      {
+        "shot": "confidence",
+        "time": 112.685,
+        "mean_pixel_error": 1.4557
+      },
+      {
+        "shot": "knight",
+        "time": 117.535,
+        "mean_pixel_error": 1.3847
+      },
+      {
+        "shot": "knight-pause",
+        "time": 120.95,
+        "mean_pixel_error": 1.3737
+      },
+      {
+        "shot": "return-seat",
+        "time": 124.15,
+        "mean_pixel_error": 1.2775
+      },
+      {
+        "shot": "return-wide",
+        "time": 127.905,
+        "mean_pixel_error": 1.2414
+      },
+      {
+        "shot": "symptom",
+        "time": 132.115,
+        "mean_pixel_error": 1.3187
+      },
+      {
+        "shot": "night-light",
+        "time": 136.76,
+        "mean_pixel_error": 1.2389
+      }
+    ]
+  },
+  "subtitles": {
+    "count": 21,
+    "verbatim_original_srt_and_ass": true,
+    "measured_voice_timestamps": true,
+    "burned_in": true,
+    "previous_font_size": 42,
+    "font_size": 66,
+    "bold": true,
+    "outline": 3,
+    "maximum_display_lines": 3,
+    "actual_all_cue_text_bounds_checked": [
+      {
+        "sentence": 1,
+        "actual_text_box": [
+          597,
+          986,
+          1301,
+          1029
+        ],
+        "display_lines": 1
+      },
+      {
+        "sentence": 2,
+        "actual_text_box": [
+          643,
+          986,
+          1250,
+          1029
+        ],
+        "display_lines": 1
+      },
+      {
+        "sentence": 3,
+        "actual_text_box": [
+          323,
+          920,
+          1571,
+          1031
+        ],
+        "display_lines": 2
+      },
+      {
+        "sentence": 4,
+        "actual_text_box": [
+          438,
+          920,
+          1455,
+          1031
+        ],
+        "display_lines": 2
+      },
+      {
+        "sentence": 5,
+        "actual_text_box": [
+          323,
+          920,
+          1571,
+          1029
+        ],
+        "display_lines": 2
+      },
+      {
+        "sentence": 6,
+        "actual_text_box": [
+          482,
+          986,
+          1409,
+          1031
+        ],
+        "display_lines": 1
+      },
+      {
+        "sentence": 7,
+        "actual_text_box": [
+          413,
+          986,
+          1478,
+          1031
+        ],
+        "display_lines": 1
+      },
+      {
+        "sentence": 8,
+        "actual_text_box": [
+          597,
+          986,
+          1295,
+          1029
+        ],
+        "display_lines": 1
+      },
+      {
+        "sentence": 9,
+        "actual_text_box": [
+          436,
+          986,
+          1454,
+          1031
+        ],
+        "display_lines": 1
+      },
+      {
+        "sentence": 10,
+        "actual_text_box": [
+          437,
+          986,
+          1455,
+          1031
+        ],
+        "display_lines": 1
+      },
+      {
+        "sentence": 11,
+        "actual_text_box": [
+          621,
+          986,
+          1278,
+          1029
+        ],
+        "display_lines": 1
+      },
+      {
+        "sentence": 12,
+        "actual_text_box": [
+          393,
+          986,
+          1525,
+          1031
+        ],
+        "display_lines": 1
+      },
+      {
+        "sentence": 13,
+        "actual_text_box": [
+          254,
+          986,
+          1637,
+          1031
+        ],
+        "display_lines": 1
+      },
+      {
+        "sentence": 14,
+        "actual_text_box": [
+          323,
+          854,
+          1569,
+          1031
+        ],
+        "display_lines": 3
+      },
+      {
+        "sentence": 15,
+        "actual_text_box": [
+          505,
+          986,
+          1386,
+          1031
+        ],
+        "display_lines": 1
+      },
+      {
+        "sentence": 16,
+        "actual_text_box": [
+          368,
+          920,
+          1523,
+          1031
+        ],
+        "display_lines": 2
+      },
+      {
+        "sentence": 17,
+        "actual_text_box": [
+          414,
+          920,
+          1479,
+          1031
+        ],
+        "display_lines": 2
+      },
+      {
+        "sentence": 18,
+        "actual_text_box": [
+          255,
+          986,
+          1637,
+          1031
+        ],
+        "display_lines": 1
+      },
+      {
+        "sentence": 19,
+        "actual_text_box": [
+          163,
+          986,
+          1729,
+          1031
+        ],
+        "display_lines": 1
+      },
+      {
+        "sentence": 20,
+        "actual_text_box": [
+          460,
+          986,
+          1432,
+          1031
+        ],
+        "display_lines": 1
+      },
+      {
+        "sentence": 21,
+        "actual_text_box": [
+          482,
+          986,
+          1409,
+          1031
+        ],
+        "display_lines": 1
+      }
+    ]
+  },
+  "audio": {
+    "voice": "existing Mambo, unchanged original sentence audio",
+    "sample_rate": 48000,
+    "channels": 2,
+    "encoded_source_checks": [
+      {
+        "sentence": 1,
+        "source_correlation": 0.99832,
+        "rms": 0.09926
+      },
+      {
+        "sentence": 2,
+        "source_correlation": 0.99813,
+        "rms": 0.08465
+      },
+      {
+        "sentence": 3,
+        "source_correlation": 0.99812,
+        "rms": 0.08675
+      },
+      {
+        "sentence": 4,
+        "source_correlation": 0.99811,
+        "rms": 0.08364
+      },
+      {
+        "sentence": 5,
+        "source_correlation": 0.99813,
+        "rms": 0.08877
+      },
+      {
+        "sentence": 6,
+        "source_correlation": 0.99826,
+        "rms": 0.0818
+      },
+      {
+        "sentence": 7,
+        "source_correlation": 0.99801,
+        "rms": 0.08163
+      },
+      {
+        "sentence": 8,
+        "source_correlation": 0.99834,
+        "rms": 0.09059
+      },
+      {
+        "sentence": 9,
+        "source_correlation": 0.99798,
+        "rms": 0.0864
+      },
+      {
+        "sentence": 10,
+        "source_correlation": 0.99815,
+        "rms": 0.08318
+      },
+      {
+        "sentence": 11,
+        "source_correlation": 0.9982,
+        "rms": 0.09272
+      },
+      {
+        "sentence": 12,
+        "source_correlation": 0.99821,
+        "rms": 0.08739
+      },
+      {
+        "sentence": 13,
+        "source_correlation": 0.99807,
+        "rms": 0.08159
+      },
+      {
+        "sentence": 14,
+        "source_correlation": 0.99721,
+        "rms": 0.08849
+      },
+      {
+        "sentence": 15,
+        "source_correlation": 0.99667,
+        "rms": 0.08521
+      },
+      {
+        "sentence": 16,
+        "source_correlation": 0.99678,
+        "rms": 0.0857
+      },
+      {
+        "sentence": 17,
+        "source_correlation": 0.99657,
+        "rms": 0.08416
+      },
+      {
+        "sentence": 18,
+        "source_correlation": 0.99659,
+        "rms": 0.0838
+      },
+      {
+        "sentence": 19,
+        "source_correlation": 0.99671,
+        "rms": 0.08663
+      },
+      {
+        "sentence": 20,
+        "source_correlation": 0.9968,
+        "rms": 0.0888
+      },
+      {
+        "sentence": 21,
+        "source_correlation": 0.99671,
+        "rms": 0.08584
+      }
+    ],
+    "alignment_ms": 5.0,
+    "decoded_channel_peak": 0.79642
+  },
+  "motion": {
+    "fixed_window_top_frame": true,
+    "two_sashes_slide_monotonically": true,
+    "pane_dimensions_and_tracks_constant": true,
+    "sequential_left_then_right_hand": true,
+    "encoded_fixed_rail_mean_difference": 0.00139,
+    "front_and_rear_students_ground_regions_anchored": true,
+    "cut_crops_preserve_16_to_9": true
+  },
+  "visual_review": "Rendered keyframes and actual encoded contact sheets inspected; an artistic review, not a claim that numeric checks prove anatomy.",
+  "full_audio_video_decode": "passed",
+  "previous_video_retained_sha256": "d52492a9f645217020dd20c2186d4937fb9a236e42f5421854e4242058092d15"
+}

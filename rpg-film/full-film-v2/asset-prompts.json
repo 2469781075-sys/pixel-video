@@ -1,0 +1,53 @@
+{
+  "tool": "built-in image_gen",
+  "selected_files": {
+    "hero-with-mate.png": "hero-with-mate",
+    "classroom-rear.png": "classroom-rear-final",
+    "classroom-cool.png": "classroom-cool-final",
+    "mate-turn.png": "mate-turn"
+  },
+  "prompts": [
+    {
+      "key": "hero-with-mate",
+      "prompt": "Use case: precise-object-edit. Asset: widescreen pixel animation background. Edit this supplied image, preserving EXACT protagonist identity, brown tousled hair, green vest, white shirt, red tie, cute handheld JRPG A crisp pixel grid, left horizontal sliding windows, desks, classroom palette and raised teacher platform. ADD the absent deskmate seated naturally at the RIGHT desk: a navy-haired boy in the same uniform facing the blackboard, shoulders and forearms resting normally at his own desk, torso upright, feet supported on the floor, seated behind his desk with appropriate table occlusion and chair support. Remove the schoolbag from the right desk and put it hanging at its side; add an open textbook on the right desktop. Both desks remain paired with the existing seam. Preserve the brown-haired protagonist's quiet chin-in-hand pose exactly. Maintain same camera/framing 16:9 and same pixel scale; absolutely no watercolor, anti-aliased painterly finish, rotated pelvis, extra arms, floating students, text or watermark. This is the earlier narrative while the deskmate is still present.",
+      "reference_paths": [
+        "/workspace/pixel-video/rpg-film/full-film/assets/hero-close.png"
+      ]
+    },
+    {
+      "key": "classroom-rear",
+      "prompt": "Use case: illustration-story. Generate one new 16:9 scene plate for the SAME cute detailed strong-pixel handheld JRPG A classroom film as reference. Camera is STATIC at the back doorway, a little farther back than the reference, looking toward the SAME raised one-step podium and green blackboard. Left wall has ONE horizontal row of LEFT-RIGHT SLIDING school windows and a solid wall beneath. Preserve 3 columns of PAIRED single desks with visible seams, 3 rows, same wall/bookshelves/plant/globe. Keep 18 naturally seated students in 9 paired desks plus 3 naturally standing friends by front right; protagonist with tousled brown hair white shirt green vest red tie sits nearest LEFT windows front row, his navy-haired deskmate sits to his right. Most important: show a CLEAR empty rear aisle about a full desk-depth across the foreground between the back wall/door and the last seated row. All classmates have anatomically coherent shoulders, elbows and bodies sitting supported on real chairs, both feet touch floor where visible, tiny grounded contact shadows; rear center pair simply face their desks and slightly turn heads, never twist pelvis. Perspective is coherent isometric JRPG cutaway and matches reference. Atmosphere warm late-afternoon school memory, richly detailed pixel wood floors, schoolbooks, chalk and schoolbags. Crisp deliberate square pixel clusters, no soft painterly gradients. No captions, dialogue boxes, writing, watermark or extra windows. Keep scene full-screen not a framed illustration.",
+      "reference_paths": [
+        "/workspace/pixel-video/rpg-film/full-film/assets/classroom-wide.png"
+      ]
+    },
+    {
+      "key": "classroom-cool",
+      "prompt": "Use case: lighting-weather. EDIT the reference classroom image to be the immediate AFTER OPENING WINDOW shot of exactly the same film. Preserve exact camera, classroom geometry, 3 columns x3 rows of paired desks, all seated/standing students with unaltered grounded anatomy, brown-haired hero at front LEFT seat and currently vacant deskmate chair, raised single-step podium, blackboard and original crisp detailed handheld JRPG A strong pixel art. CHANGE only weather/light and left window state: two horizontal sliding panes nearest protagonist slide LEFT and RIGHT along existing straight horizontal rails and overlap adjacent glass, leaving an obvious open gap between their meeting stiles. No outward hinges, no upper opening fanlight. Straight parallel aluminum frame stays fixed. Replace golden sunlight with clean cool blue-green overcast light, faint rainwater reflections on floor near windows, wet schoolyard greenery outside, subtle pale curtain edge resting near left wall (must not cover hero), air fresh and luminous. School uniform remains green vest cream-white shirt red tie. Opaque wall below window remains. No entire camera shift, no distortion, no floating hands, no new desks/people, no title/text/watermark.",
+      "reference_paths": [
+        "/workspace/pixel-video/rpg-film/full-film/assets/classroom-wide.png"
+      ]
+    },
+    {
+      "key": "classroom-rear-final",
+      "prompt": "Precise edit of this exact strong-pixel handheld RPG A classroom image. Everything stays unchanged except restoring the missing third row of student desks. Currently there are only TWO rows x THREE columns of paired desks. ADD a THIRD row across the foreground: exactly THREE groups of paired single desks aligned with the three existing columns; each group has TWO seated students and TWO supported chairs, six more seated students total. Put this row between the existing second row and the empty rear floor, around y=615 to745 of the 941px high image. Keep a CLEAR empty rear aisle about 90px high below the added chairs, before the back wall at y=820. All SIX new pupils face the front blackboard, naturally upright backs, only mild head turns, pelvis forward, two arms anatomically connected, legs under their own desks, shoes contact floor; paired center rear students MUST not twist bodies. Do not remove or change the two existing rows or the three standing friends, brown-haired hero and navy-haired deskmate, windows, raised platform, daylight or pixel style. Final count exactly 3 rows x3 paired desks =18 seated students plus3 standing, 21 people. No captions/text/watermark. Preserve exact 16:9 camera.",
+      "reference_paths": [
+        "/workspace/generated_images/exec-27c94c6b-b00b-4411-acd0-24dc8570139a.png"
+      ]
+    },
+    {
+      "key": "classroom-cool-final",
+      "prompt": "Precise edit: preserve this exact cool blue pixel classroom, fixed camera, all people/desks/geometry/light except correcting the open window. The left wall windows must visibly be HORIZONTAL LEFT-RIGHT SLIDING, now OPEN at the section immediately LEFT of the brown-haired boy nearest the front. Move its two glass sashes left and right along existing horizontal tracks so they overlap the adjacent fixed panes, with a CLEAR CENTRAL OPEN GAP (no glass, no internal central stile inside the gap). A few green tree leaf edges seen through that opening, weather fresh after rain. Draw the stacked metal vertical edges together toward either side to clearly indicate panes slid sideways, no outward hinges, no angled swung sash. All outer rails and wall remain straight and unchanged. Leave the normal solid wall beneath the windows, students and chairs supported, raised podium unchanged. Keep 3x3 paired desks and21 original people except already vacant deskmate. Same exact crisp handheld RPG A pixel style, no softness, text or watermark.",
+      "reference_paths": [
+        "/workspace/generated_images/exec-a3707a06-17ac-4c6c-b8ef-662074ed0570.png"
+      ]
+    },
+    {
+      "key": "mate-turn",
+      "prompt": "Use case: precise-object-edit. This is an ANIMATION KEY POSE for this exact existing strong-pixel handheld JRPG A classroom. Change ONLY the navy-haired deskmate at the RIGHT foreground desk: he gently turns ONLY his head about 25 degrees toward the brown-haired boy beside him, so a small three-quarter side of his face/eye becomes visible. His torso, shoulders, pelvis, seated position, supported chair, floor-contact feet and both forearms on his desk MUST remain exactly as before. His right hand lightly rests on the open book, no raised elbow or extra fingers. The brown-haired protagonist stays exactly unchanged, still quietly looking out the left sliding window with chin in hand. Preserve all background, desks, paired-desk seam, bags, feet, book, lighting, pixel positions and exact16:9 framing. No body twisting, floating people, mirrored seats, motion blur, changed hair/color, zoom, redraw of room, text, caption or watermark. It must match frame one nearly pixel-for-pixel except a small head turn of the right boy.",
+      "reference_paths": [
+        "rpg-film/full-film-v2/assets/hero-with-mate.png"
+      ]
+    }
+  ]
+}

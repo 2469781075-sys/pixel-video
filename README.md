@@ -2,7 +2,15 @@
 
 根据一篇关于高中教室、窗边孤独与短暂自由的文章制作像素动画。
 
-## 当前制作：强化像素完整版 · 曼波朗读
+## 当前制作：丰富分镜第二版 · 曼波朗读
+
+第二版已完成：141 秒，1920×1080，24 fps。保留强像素掌机 RPG A 风格与完整曼波朗读，镜头由 15 个增加至 35 个；加入三排双人桌与后排通道、同桌转头和离席、分阶段第一人称推窗，以及开窗后的室内光色变化。各镜头保持固定，全文 21 句原文字幕已烧入画面，字号由 42 增大至 66，并加粗描边、重新均衡换行。
+
+**[播放或下载新版完整视频](https://raw.githubusercontent.com/2469781075-sys/pixel-video/main/rpg-film/full-film-v2/window-full-mambo-v2.mp4)** · [新版镜头说明](rpg-film/full-film-v2/README.md) · [原文字幕](rpg-film/full-film-v2/subtitles.srt) · [检验记录](rpg-film/full-film-v2/verification.json)
+
+![新版实际成片代表帧](rpg-film/full-film-v2/storyboard.png)
+
+## 第一版：强化像素完整版 · 曼波朗读
 
 全文视频已完成：141 秒（2 分 21 秒），1920×1080，24 fps。采用选定的更强像素风，包含 139 秒全文曼波朗读、21 句逐句原文字幕，以及雨声、风声、推窗音效和低音量原创配乐。
 

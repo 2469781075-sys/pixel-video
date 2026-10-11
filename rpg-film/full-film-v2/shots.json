@@ -1,0 +1,367 @@
+{
+  "title": "窗 · 第二版",
+  "style": "强化像素 · 掌机 RPG A",
+  "logical_dimensions": [
+    480,
+    270
+  ],
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "duration_seconds": 141,
+  "voice": "曼波朗读",
+  "shots": [
+    {
+      "id": "establish",
+      "start": 0,
+      "end": 3.11,
+      "sentences": [
+        1
+      ],
+      "action": "21 classmates, paired desks, rear aisle",
+      "camera": "fixed"
+    },
+    {
+      "id": "narrow",
+      "start": 3.11,
+      "end": 6.26,
+      "sentences": [
+        2
+      ],
+      "action": "protagonist and present deskmate in their seats",
+      "camera": "fixed"
+    },
+    {
+      "id": "rows",
+      "start": 6.26,
+      "end": 10.75,
+      "sentences": [
+        3
+      ],
+      "action": "ordered paired desk rows",
+      "camera": "fixed"
+    },
+    {
+      "id": "platform",
+      "start": 10.75,
+      "end": 16.83,
+      "sentences": [
+        3
+      ],
+      "action": "one-step podium and elevated teacher desk",
+      "camera": "fixed"
+    },
+    {
+      "id": "rear",
+      "start": 16.83,
+      "end": 21.4,
+      "sentences": [
+        4
+      ],
+      "action": "real empty rear aisle",
+      "camera": "fixed"
+    },
+    {
+      "id": "enclosure",
+      "start": 21.4,
+      "end": 26.5,
+      "sentences": [
+        4
+      ],
+      "action": "tight desk/chair spacing, anchored bodies",
+      "camera": "fixed"
+    },
+    {
+      "id": "river-boundary",
+      "start": 26.5,
+      "end": 30.7,
+      "sentences": [
+        5
+      ],
+      "action": "river and its visible banks, literary image",
+      "camera": "fixed"
+    },
+    {
+      "id": "friends",
+      "start": 30.7,
+      "end": 35.37,
+      "sentences": [
+        5
+      ],
+      "action": "back to classmates in the same classroom",
+      "camera": "fixed"
+    },
+    {
+      "id": "friend-pair",
+      "start": 35.37,
+      "end": 39.9,
+      "sentences": [
+        6
+      ],
+      "action": "quiet book sharing, eyelids and lips",
+      "camera": "fixed"
+    },
+    {
+      "id": "little-worlds",
+      "start": 39.9,
+      "end": 42.3,
+      "sentences": [
+        7
+      ],
+      "action": "separate conversational groups",
+      "camera": "fixed"
+    },
+    {
+      "id": "front-group",
+      "start": 42.3,
+      "end": 44.71,
+      "sentences": [
+        7
+      ],
+      "action": "three grounded friends by the podium",
+      "camera": "fixed"
+    },
+    {
+      "id": "window-seat",
+      "start": 44.71,
+      "end": 47.98,
+      "sentences": [
+        8
+      ],
+      "action": "left-window seat with present deskmate",
+      "camera": "fixed"
+    },
+    {
+      "id": "crowded-thought",
+      "start": 47.98,
+      "end": 53.07,
+      "sentences": [
+        9
+      ],
+      "action": "fixed closer protagonist composition",
+      "camera": "fixed"
+    },
+    {
+      "id": "window-dream",
+      "start": 53.07,
+      "end": 57.88,
+      "sentences": [
+        10
+      ],
+      "action": "closed sliding window, courtyard beyond",
+      "camera": "fixed"
+    },
+    {
+      "id": "glances",
+      "start": 57.88,
+      "end": 61.11,
+      "sentences": [
+        11
+      ],
+      "action": "a fixed cut to classmates, no invented speech",
+      "camera": "fixed"
+    },
+    {
+      "id": "hesitation",
+      "start": 61.11,
+      "end": 66.94,
+      "sentences": [
+        12
+      ],
+      "action": "silent protagonist with restrained blinking",
+      "camera": "fixed"
+    },
+    {
+      "id": "empty-seat",
+      "start": 66.94,
+      "end": 70.3,
+      "sentences": [
+        13
+      ],
+      "action": "deskmate absent, his chair and bag retained",
+      "camera": "fixed"
+    },
+    {
+      "id": "reach",
+      "start": 70.3,
+      "end": 75.05,
+      "sentences": [
+        13
+      ],
+      "action": "first person, sleeves continuously reach into frame",
+      "camera": "fixed"
+    },
+    {
+      "id": "latch",
+      "start": 75.05,
+      "end": 78.65,
+      "sentences": [
+        14
+      ],
+      "action": "first-person detail of fingers at the window latch",
+      "camera": "fixed"
+    },
+    {
+      "id": "slide",
+      "start": 78.65,
+      "end": 84.55,
+      "sentences": [
+        14
+      ],
+      "action": "two rigid panes move horizontally on two tracks",
+      "camera": "fixed"
+    },
+    {
+      "id": "first-air",
+      "start": 84.55,
+      "end": 87.65,
+      "sentences": [
+        14
+      ],
+      "action": "hands lower, clear aperture, air and wet glints",
+      "camera": "fixed"
+    },
+    {
+      "id": "cool-room",
+      "start": 87.65,
+      "end": 90.94,
+      "sentences": [
+        14
+      ],
+      "action": "cut back to the same class in cool rain light",
+      "camera": "fixed"
+    },
+    {
+      "id": "open-yard",
+      "start": 90.94,
+      "end": 93.2,
+      "sentences": [
+        15
+      ],
+      "action": "new open-window composition with wet courtyard",
+      "camera": "fixed"
+    },
+    {
+      "id": "room-embrace",
+      "start": 93.2,
+      "end": 95.35,
+      "sentences": [
+        15
+      ],
+      "action": "cool window seat and surrounding classmates",
+      "camera": "fixed"
+    },
+    {
+      "id": "breeze",
+      "start": 95.35,
+      "end": 98.4,
+      "sentences": [
+        16
+      ],
+      "action": "window air and courtyard leaves",
+      "camera": "fixed"
+    },
+    {
+      "id": "river-dusk",
+      "start": 98.4,
+      "end": 102.4,
+      "sentences": [
+        16
+      ],
+      "action": "flowing water reflections toward dusk",
+      "camera": "fixed"
+    },
+    {
+      "id": "river-detail",
+      "start": 102.4,
+      "end": 105.3,
+      "sentences": [
+        16
+      ],
+      "action": "separate fixed detail of the water current",
+      "camera": "fixed"
+    },
+    {
+      "id": "social",
+      "start": 105.3,
+      "end": 110.0,
+      "sentences": [
+        17
+      ],
+      "action": "imagined relaxed school conversation",
+      "camera": "fixed"
+    },
+    {
+      "id": "confidence",
+      "start": 110.0,
+      "end": 115.37,
+      "sentences": [
+        17
+      ],
+      "action": "same original protagonist in a closer dream cut",
+      "camera": "fixed"
+    },
+    {
+      "id": "knight",
+      "start": 115.37,
+      "end": 119.7,
+      "sentences": [
+        18
+      ],
+      "action": "original knight character walks with a foot anchor",
+      "camera": "fixed"
+    },
+    {
+      "id": "knight-pause",
+      "start": 119.7,
+      "end": 122.2,
+      "sentences": [
+        18
+      ],
+      "action": "pause by the school-as-court, fountain droplets",
+      "camera": "fixed"
+    },
+    {
+      "id": "return-seat",
+      "start": 122.2,
+      "end": 126.1,
+      "sentences": [
+        19
+      ],
+      "action": "return to the real desk in evening",
+      "camera": "fixed"
+    },
+    {
+      "id": "return-wide",
+      "start": 126.1,
+      "end": 129.71,
+      "sentences": [
+        19
+      ],
+      "action": "classroom enclosure remains",
+      "camera": "fixed"
+    },
+    {
+      "id": "symptom",
+      "start": 129.71,
+      "end": 134.52,
+      "sentences": [
+        20
+      ],
+      "action": "the open window still breathes in the dark",
+      "camera": "fixed"
+    },
+    {
+      "id": "night-light",
+      "start": 134.52,
+      "end": 141,
+      "sentences": [
+        21
+      ],
+      "action": "one remaining window light, two-second ending",
+      "camera": "fixed"
+    }
+  ]
+}

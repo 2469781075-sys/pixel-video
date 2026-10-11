@@ -1,0 +1,444 @@
+{
+  "previous_font_size": 42,
+  "font_size": 66,
+  "font": "Noto Sans CJK SC Bold",
+  "outline": 3,
+  "maximum_text_width": 1640,
+  "complete_sentence_per_cue": true,
+  "sentences": [
+    {
+      "sentence": 1,
+      "font_size": 66,
+      "lines": [
+        "不知道大家的中学生活是怎么样的？"
+      ],
+      "measured_line_widths": [
+        736.0
+      ],
+      "panel_box": [
+        80,
+        950,
+        1840,
+        1060
+      ],
+      "text_anchor": [
+        960,
+        1038
+      ]
+    },
+    {
+      "sentence": 2,
+      "font_size": 66,
+      "lines": [
+        "主播高中的教室是狭窄逼仄的。"
+      ],
+      "measured_line_widths": [
+        644.0
+      ],
+      "panel_box": [
+        80,
+        950,
+        1840,
+        1060
+      ],
+      "text_anchor": [
+        960,
+        1038
+      ]
+    },
+    {
+      "sentence": 3,
+      "font_size": 66,
+      "lines": [
+        "教室的布局说来也简单，几路层层格格的铁轨规矩地张满地板，",
+        "前头努力抵住前面的山坳，毕竟那上面还有座高高的庙。"
+      ],
+      "measured_line_widths": [
+        1288.0,
+        1150.0
+      ],
+      "panel_box": [
+        80,
+        884,
+        1840,
+        1060
+      ],
+      "text_anchor": [
+        960,
+        1038
+      ]
+    },
+    {
+      "sentence": 4,
+      "font_size": 66,
+      "lines": [
+        "后面留了些空，以供我们偶尔快活地呼吸，",
+        "不至于终日只做个夹层里的石子，任人布置、碾轧。"
+      ],
+      "measured_line_widths": [
+        874.0,
+        1058.0
+      ],
+      "panel_box": [
+        80,
+        884,
+        1840,
+        1060
+      ],
+      "text_anchor": [
+        960,
+        1038
+      ]
+    },
+    {
+      "sentence": 5,
+      "font_size": 66,
+      "lines": [
+        "我其实一直不懂，同学们分明与我在同一条河流里面翻来覆去，",
+        "却轻而易举地找到了水的边界。"
+      ],
+      "measured_line_widths": [
+        1288.0,
+        644.0
+      ],
+      "panel_box": [
+        80,
+        884,
+        1840,
+        1060
+      ],
+      "text_anchor": [
+        960,
+        1038
+      ]
+    },
+    {
+      "sentence": 6,
+      "font_size": 66,
+      "lines": [
+        "仔细想来，他们开学不久就已经能各自取乐了。"
+      ],
+      "measured_line_widths": [
+        966.0
+      ],
+      "panel_box": [
+        80,
+        950,
+        1840,
+        1060
+      ],
+      "text_anchor": [
+        960,
+        1038
+      ]
+    },
+    {
+      "sentence": 7,
+      "font_size": 66,
+      "lines": [
+        "他们围成了一个个小小世界，讲述着我听不懂的历史。"
+      ],
+      "measured_line_widths": [
+        1104.0
+      ],
+      "panel_box": [
+        80,
+        950,
+        1840,
+        1060
+      ],
+      "text_anchor": [
+        960,
+        1038
+      ]
+    },
+    {
+      "sentence": 8,
+      "font_size": 66,
+      "lines": [
+        "我经常被安排到最左边靠窗的位置。"
+      ],
+      "measured_line_widths": [
+        736.0
+      ],
+      "panel_box": [
+        80,
+        950,
+        1840,
+        1060
+      ],
+      "text_anchor": [
+        960,
+        1038
+      ]
+    },
+    {
+      "sentence": 9,
+      "font_size": 66,
+      "lines": [
+        "欢笑的空间实在挤压了我的生存，我真想拨开窗啊！"
+      ],
+      "measured_line_widths": [
+        1058.0
+      ],
+      "panel_box": [
+        80,
+        950,
+        1840,
+        1060
+      ],
+      "text_anchor": [
+        960,
+        1038
+      ]
+    },
+    {
+      "sentence": 10,
+      "font_size": 66,
+      "lines": [
+        "那四四方方的格子里，或许住着一个梦想也说不定。"
+      ],
+      "measured_line_widths": [
+        1058.0
+      ],
+      "panel_box": [
+        80,
+        950,
+        1840,
+        1060
+      ],
+      "text_anchor": [
+        960,
+        1038
+      ]
+    },
+    {
+      "sentence": 11,
+      "font_size": 66,
+      "lines": [
+        "只是我能经受灼热目光的冒险吗？"
+      ],
+      "measured_line_widths": [
+        690.0
+      ],
+      "panel_box": [
+        80,
+        950,
+        1840,
+        1060
+      ],
+      "text_anchor": [
+        960,
+        1038
+      ]
+    },
+    {
+      "sentence": 12,
+      "font_size": 66,
+      "lines": [
+        "我本就不知道怎么办了，我孤冷又沉默，淫秽却无聊......"
+      ],
+      "measured_line_widths": [
+        1147.72
+      ],
+      "panel_box": [
+        80,
+        950,
+        1840,
+        1060
+      ],
+      "text_anchor": [
+        960,
+        1038
+      ]
+    },
+    {
+      "sentence": 13,
+      "font_size": 66,
+      "lines": [
+        "但是，说不清道不明，趁着同桌不在，挟着自怜和愿望，我总是开了。"
+      ],
+      "measured_line_widths": [
+        1426.0
+      ],
+      "panel_box": [
+        80,
+        950,
+        1840,
+        1060
+      ],
+      "text_anchor": [
+        960,
+        1038
+      ]
+    },
+    {
+      "sentence": 14,
+      "font_size": 66,
+      "lines": [
+        "意识蹒跚着爬上窗扣，肢体却得到了勇气的奖赏，",
+        "我缓缓支走那两片玻璃，天地之间唤起一片清澈的凉，",
+        "教室里面映满了雨水和露水的影子，终是把我们都接成一片了。"
+      ],
+      "measured_line_widths": [
+        1012.0,
+        1104.0,
+        1288.0
+      ],
+      "panel_box": [
+        80,
+        818,
+        1840,
+        1060
+      ],
+      "text_anchor": [
+        960,
+        1038
+      ]
+    },
+    {
+      "sentence": 15,
+      "font_size": 66,
+      "lines": [
+        "我享受这份拥抱，因为它赞许了我们的自由。"
+      ],
+      "measured_line_widths": [
+        920.0
+      ],
+      "panel_box": [
+        80,
+        950,
+        1840,
+        1060
+      ],
+      "text_anchor": [
+        960,
+        1038
+      ]
+    },
+    {
+      "sentence": 16,
+      "font_size": 66,
+      "lines": [
+        "或者它才是自由本身，这缕亭亭玉立的风，",
+        "这条潺潺流往夜色的河，它们融进了我的血，它们才是我！"
+      ],
+      "measured_line_widths": [
+        874.0,
+        1196.0
+      ],
+      "panel_box": [
+        80,
+        884,
+        1840,
+        1060
+      ],
+      "text_anchor": [
+        960,
+        1038
+      ]
+    },
+    {
+      "sentence": 17,
+      "font_size": 66,
+      "lines": [
+        "是的，我不是一个弱小的学生，我本也可以意气风发，",
+        "学着男同学去和女同学调笑，享受她们的娇嫩欲滴。"
+      ],
+      "measured_line_widths": [
+        1104.0,
+        1058.0
+      ],
+      "panel_box": [
+        80,
+        884,
+        1840,
+        1060
+      ],
+      "text_anchor": [
+        960,
+        1038
+      ]
+    },
+    {
+      "sentence": 18,
+      "font_size": 66,
+      "lines": [
+        "或者当一个美丽优雅的骑士，去为学校的君主做事，讨来货币和爱情。"
+      ],
+      "measured_line_widths": [
+        1426.0
+      ],
+      "panel_box": [
+        80,
+        950,
+        1840,
+        1060
+      ],
+      "text_anchor": [
+        960,
+        1038
+      ]
+    },
+    {
+      "sentence": 19,
+      "font_size": 66,
+      "lines": [
+        "但是我不会去做的，我只是想保持现状，因为我根本不知道怎么才能办得到啊。"
+      ],
+      "measured_line_widths": [
+        1610.0
+      ],
+      "panel_box": [
+        80,
+        950,
+        1840,
+        1060
+      ],
+      "text_anchor": [
+        960,
+        1038
+      ]
+    },
+    {
+      "sentence": 20,
+      "font_size": 66,
+      "lines": [
+        "我还是跑不出那间教室啊，那阵风成了我的症候。"
+      ],
+      "measured_line_widths": [
+        1012.0
+      ],
+      "panel_box": [
+        80,
+        950,
+        1840,
+        1060
+      ],
+      "text_anchor": [
+        960,
+        1038
+      ]
+    },
+    {
+      "sentence": 21,
+      "font_size": 66,
+      "lines": [
+        "夜色撇下一抹沉沉的亮，竟成了我的全部光明。"
+      ],
+      "measured_line_widths": [
+        966.0
+      ],
+      "panel_box": [
+        80,
+        950,
+        1840,
+        1060
+      ],
+      "text_anchor": [
+        960,
+        1038
+      ]
+    }
+  ]
+}
