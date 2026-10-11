@@ -1,0 +1,156 @@
+{
+  "voice_direction": "曼波朗读",
+  "timing_status": "measured_from_sentence_audio",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "不知道大家的中学生活是怎么样的？",
+      "audio_file": "001.wav",
+      "start_seconds": 0.0,
+      "end_seconds": 2.86
+    },
+    {
+      "id": 2,
+      "text": "主播高中的教室是狭窄逼仄的。",
+      "audio_file": "002.wav",
+      "start_seconds": 3.11,
+      "end_seconds": 6.01
+    },
+    {
+      "id": 3,
+      "text": "教室的布局说来也简单，几路层层格格的铁轨规矩地张满地板，前头努力抵住前面的山坳，毕竟那上面还有座高高的庙。",
+      "audio_file": "003.wav",
+      "start_seconds": 6.26,
+      "end_seconds": 16.58
+    },
+    {
+      "id": 4,
+      "text": "后面留了些空，以供我们偶尔快活地呼吸，不至于终日只做个夹层里的石子，任人布置、碾轧。",
+      "audio_file": "004.wav",
+      "start_seconds": 16.83,
+      "end_seconds": 26.25
+    },
+    {
+      "id": 5,
+      "text": "我其实一直不懂，同学们分明与我在同一条河流里面翻来覆去，却轻而易举地找到了水的边界。",
+      "audio_file": "005.wav",
+      "start_seconds": 26.5,
+      "end_seconds": 35.12
+    },
+    {
+      "id": 6,
+      "text": "仔细想来，他们开学不久就已经能各自取乐了。",
+      "audio_file": "006.wav",
+      "start_seconds": 35.37,
+      "end_seconds": 39.65
+    },
+    {
+      "id": 7,
+      "text": "他们围成了一个个小小世界，讲述着我听不懂的历史。",
+      "audio_file": "007.wav",
+      "start_seconds": 39.9,
+      "end_seconds": 44.46
+    },
+    {
+      "id": 8,
+      "text": "我经常被安排到最左边靠窗的位置。",
+      "audio_file": "008.wav",
+      "start_seconds": 44.71,
+      "end_seconds": 47.73
+    },
+    {
+      "id": 9,
+      "text": "欢笑的空间实在挤压了我的生存，我真想拨开窗啊！",
+      "audio_file": "009.wav",
+      "start_seconds": 47.98,
+      "end_seconds": 52.82
+    },
+    {
+      "id": 10,
+      "text": "那四四方方的格子里，或许住着一个梦想也说不定。",
+      "audio_file": "010.wav",
+      "start_seconds": 53.07,
+      "end_seconds": 57.63
+    },
+    {
+      "id": 11,
+      "text": "只是我能经受灼热目光的冒险吗？",
+      "audio_file": "011.wav",
+      "start_seconds": 57.88,
+      "end_seconds": 60.86
+    },
+    {
+      "id": 12,
+      "text": "我本就不知道怎么办了，我孤冷又沉默，淫秽却无聊......",
+      "audio_file": "012.wav",
+      "start_seconds": 61.11,
+      "end_seconds": 66.69
+    },
+    {
+      "id": 13,
+      "text": "但是，说不清道不明，趁着同桌不在，挟着自怜和愿望，我总是开了。",
+      "audio_file": "013.wav",
+      "start_seconds": 66.94,
+      "end_seconds": 74.8
+    },
+    {
+      "id": 14,
+      "text": "意识蹒跚着爬上窗扣，肢体却得到了勇气的奖赏，我缓缓支走那两片玻璃，天地之间唤起一片清澈的凉，教室里面映满了雨水和露水的影子，终是把我们都接成一片了。",
+      "audio_file": "014.wav",
+      "start_seconds": 75.05,
+      "end_seconds": 90.69
+    },
+    {
+      "id": 15,
+      "text": "我享受这份拥抱，因为它赞许了我们的自由。",
+      "audio_file": "015.wav",
+      "start_seconds": 90.94,
+      "end_seconds": 95.1
+    },
+    {
+      "id": 16,
+      "text": "或者它才是自由本身，这缕亭亭玉立的风，这条潺潺流往夜色的河，它们融进了我的血，它们才是我！",
+      "audio_file": "016.wav",
+      "start_seconds": 95.35,
+      "end_seconds": 105.05
+    },
+    {
+      "id": 17,
+      "text": "是的，我不是一个弱小的学生，我本也可以意气风发，学着男同学去和女同学调笑，享受她们的娇嫩欲滴。",
+      "audio_file": "017.wav",
+      "start_seconds": 105.3,
+      "end_seconds": 115.12
+    },
+    {
+      "id": 18,
+      "text": "或者当一个美丽优雅的骑士，去为学校的君主做事，讨来货币和爱情。",
+      "audio_file": "018.wav",
+      "start_seconds": 115.37,
+      "end_seconds": 121.95
+    },
+    {
+      "id": 19,
+      "text": "但是我不会去做的，我只是想保持现状，因为我根本不知道怎么才能办得到啊。",
+      "audio_file": "019.wav",
+      "start_seconds": 122.2,
+      "end_seconds": 129.46
+    },
+    {
+      "id": 20,
+      "text": "我还是跑不出那间教室啊，那阵风成了我的症候。",
+      "audio_file": "020.wav",
+      "start_seconds": 129.71,
+      "end_seconds": 134.27
+    },
+    {
+      "id": 21,
+      "text": "夜色撇下一抹沉沉的亮，竟成了我的全部光明。",
+      "audio_file": "021.wav",
+      "start_seconds": 134.52,
+      "end_seconds": 139.0
+    }
+  ],
+  "complete_article": true,
+  "speed": 1.0,
+  "synthesis_seconds": 227.07949634
+}

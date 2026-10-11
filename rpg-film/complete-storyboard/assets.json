@@ -1,0 +1,483 @@
+{
+  "created_date": "2026-10-11",
+  "scope": "complete_static_storyboard_not_animation",
+  "tool": "builtin image_gen",
+  "total_images": 16,
+  "original_sentence_count": 21,
+  "core_compositions": "用户本轮认可四张核心构图；保留原文件，统一其中三张像素风，第四张直接采用已有强像素版。",
+  "new_images_status": "待用户检查",
+  "caption_exception": "Initial original-caption image request rejected by image tool sexual input moderation. Adjusted to ordinary friendship illustration and an unaltered safe excerpt; full article retained outside image.",
+  "assets": [
+    {
+      "n": 1,
+      "title": "教室的拥挤",
+      "file": "01-cramped-classroom.png",
+      "ids": [
+        1,
+        2
+      ],
+      "kind": "core_style_edit",
+      "refs": [
+        "/workspace/pixel-video/rpg-film/reboot-shots/01-cramped-classroom.png",
+        "/workspace/pixel-video/rpg-film/reboot-shots/pixel-strength/04-after-opening-stronger-pixel.png"
+      ],
+      "scene": "Image 1 is the edit target; image 2 is style reference only. Preserve the accepted overview composition, camera at the front looking toward REAR cabinets, hence window wall appears SCREEN RIGHT. Preserve roughly twenty classmates, three lanes of paired desks, original quiet brown-haired hero in rear-most right window-side seat with his navy-haired deskmate immediately to his left. All visible seat/chair/body and aisle relationships must remain correct. Change only the pixel art strength and replace the caption with the supplied TWO original sentences, one per line. No new camera or changed room layout.",
+      "info": "建立教室空间与主人公位置，保留已确认核心构图。",
+      "caption": "不知道大家的中学生活是怎么样的？主播高中的教室是狭窄逼仄的。",
+      "prompt": "Use case: style-transfer.\nAsset: static prose storyboard keyframe 1, 教室的拥挤.\nInput images: first edit target, second style reference.\nStyle: match the provided stronger-pixel classroom style reference. Beautiful original cute handheld 16-bit RPG pixel art, noticeably large uniform square pixel clusters, intentional stair-step contours, dark navy pixel outlines, broad clean three-tone color regions, restrained shared palette, warm amber wood versus teal clothing and cool blue shadows. Visual character of a native 320x180 logical image enlarged with nearest-neighbor pixels. No smooth painterly texture, fine hair strands, blur, bloom, gradients or photographic rendering. Faces readable and charming. Full 16:9 single image, no collage, no split panels, no title or numbering. Bottom opaque dark navy RPG caption panel with tiny light blue pixel corners, large crisp white Chinese caption. Typography may remain high resolution for readability. Use 2-3 caption lines as needed without covering characters.\nCharacter identity: original teenage high-school boy, short spiky warm brown hair, dark eyes, teal-green vest over white long-sleeved collared shirt, small red tie, navy trousers, brown shoes. Keep him recognizable, not a franchise character. Deskmate has short navy hair and the same school uniform. Classmates have varied navy/brown hairstyles and the same uniform. Ordinary modest school clothing. Correct bodies, exactly two arms/two legs per visible person, no disembodied limbs or duplicated shoes.\nClassroom continuity: front wall blackboard and teacher desk on ONE raised platform step; opposite rear wall has bookcases and cabinets. Physical left wall (when seated facing front) is a horizontal bank of straight rectangular SLIDING windows with level sill and horizontal tracks, normal solid wall below. No hinged, outward swinging, diagonal or bent panes. Three lanes of paired desks, each pair TWO adjoining single wooden desks and TWO separate chairs BEHIND them. Hero stays in the LAST row, window-side half of his pair. His navy-haired deskmate has the interior-side half, together in one pair, never a different row. Desk in front of torso, chair back behind back, hip on seat, thighs extend UNDER desk, knees bent, two feet on floor. Pair seam between their desk tops, never through a body. Enough classmates; everyone supported by chair or floor. Keep projected window-side consistent with the camera direction.\nScene request: Image 1 is the edit target; image 2 is style reference only. Preserve the accepted overview composition, camera at the front looking toward REAR cabinets, hence window wall appears SCREEN RIGHT. Preserve roughly twenty classmates, three lanes of paired desks, original quiet brown-haired hero in rear-most right window-side seat with his navy-haired deskmate immediately to his left. All visible seat/chair/body and aisle relationships must remain correct. Change only the pixel art strength and replace the caption with the supplied TWO original sentences, one per line. No new camera or changed room layout.\nExact Chinese caption (verbatim; wrap for display without deleting or rewriting any character): \"不知道大家的中学生活是怎么样的？主播高中的教室是狭窄逼仄的。\"\nKeep caption band about 20-24% of image height, generous line spacing, comfortably large white type.\nNo other visible words, labels or logos. Preserve bodily supports and architecture with deliberate perspective. This is still illustration, no animation or audio.",
+      "source": "/workspace/generated_images/exec-4388f528-a4e8-426a-87d9-a8f0f7fb935c.png",
+      "original_sentences": [
+        {
+          "id": 1,
+          "text": "不知道大家的中学生活是怎么样的？",
+          "audio_file": "001.wav",
+          "start_seconds": 0,
+          "end_seconds": 2.86
+        },
+        {
+          "id": 2,
+          "text": "主播高中的教室是狭窄逼仄的。",
+          "audio_file": "002.wav",
+          "start_seconds": 3.11,
+          "end_seconds": 6.01
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "桌列与高台",
+      "file": "02-desks-and-platform.png",
+      "ids": [
+        3
+      ],
+      "kind": "new_drawing",
+      "refs": [
+        "/workspace/pixel-video/rpg-film/reboot-shots/pixel-strength/04-after-opening-stronger-pixel.png"
+      ],
+      "scene": "NEW independent low camera viewpoint from a floor aisle just behind the front row looking TOWARD FRONT BLACKBOARD; left window wall is SCREEN LEFT. Bold floor tile lines and repeated metal desk legs lead toward the front, like regular rails. Several seated students are seen from behind, each on their own chair facing a paired wooden desk. Show the entire single raised classroom podium step prominently at mid-right; teacher's wooden lectern stands ON the platform, blackboard behind it, scale slightly imposing without becoming a literal mountain or temple. No actual train tracks, temple or mountain in the real classroom. No teacher or crowd on the platform. Keep the step clearly higher than the classroom floor with its vertical riser and lit top visible. Scene above caption must show the step and desk legs, not hide them.",
+      "info": "用桌腿与地砖引线、清晰的一层高台和台上讲桌表现原文比喻。",
+      "caption": "教室的布局说来也简单，几路层层格格的铁轨规矩地张满地板，前头努力抵住前面的山坳，毕竟那上面还有座高高的庙。",
+      "prompt": "Use case: illustration-story.\nAsset: static prose storyboard keyframe 2, 桌列与高台.\nInput images: reference for original identity and pixel style only, not a composition to crop.\nStyle: match the provided stronger-pixel classroom style reference. Beautiful original cute handheld 16-bit RPG pixel art, noticeably large uniform square pixel clusters, intentional stair-step contours, dark navy pixel outlines, broad clean three-tone color regions, restrained shared palette, warm amber wood versus teal clothing and cool blue shadows. Visual character of a native 320x180 logical image enlarged with nearest-neighbor pixels. No smooth painterly texture, fine hair strands, blur, bloom, gradients or photographic rendering. Faces readable and charming. Full 16:9 single image, no collage, no split panels, no title or numbering. Bottom opaque dark navy RPG caption panel with tiny light blue pixel corners, large crisp white Chinese caption. Typography may remain high resolution for readability. Use 2-3 caption lines as needed without covering characters.\nCharacter identity: original teenage high-school boy, short spiky warm brown hair, dark eyes, teal-green vest over white long-sleeved collared shirt, small red tie, navy trousers, brown shoes. Keep him recognizable, not a franchise character. Deskmate has short navy hair and the same school uniform. Classmates have varied navy/brown hairstyles and the same uniform. Ordinary modest school clothing. Correct bodies, exactly two arms/two legs per visible person, no disembodied limbs or duplicated shoes.\nClassroom continuity: front wall blackboard and teacher desk on ONE raised platform step; opposite rear wall has bookcases and cabinets. Physical left wall (when seated facing front) is a horizontal bank of straight rectangular SLIDING windows with level sill and horizontal tracks, normal solid wall below. No hinged, outward swinging, diagonal or bent panes. Three lanes of paired desks, each pair TWO adjoining single wooden desks and TWO separate chairs BEHIND them. Hero stays in the LAST row, window-side half of his pair. His navy-haired deskmate has the interior-side half, together in one pair, never a different row. Desk in front of torso, chair back behind back, hip on seat, thighs extend UNDER desk, knees bent, two feet on floor. Pair seam between their desk tops, never through a body. Enough classmates; everyone supported by chair or floor. Keep projected window-side consistent with the camera direction.\nScene request: NEW independent low camera viewpoint from a floor aisle just behind the front row looking TOWARD FRONT BLACKBOARD; left window wall is SCREEN LEFT. Bold floor tile lines and repeated metal desk legs lead toward the front, like regular rails. Several seated students are seen from behind, each on their own chair facing a paired wooden desk. Show the entire single raised classroom podium step prominently at mid-right; teacher's wooden lectern stands ON the platform, blackboard behind it, scale slightly imposing without becoming a literal mountain or temple. No actual train tracks, temple or mountain in the real classroom. No teacher or crowd on the platform. Keep the step clearly higher than the classroom floor with its vertical riser and lit top visible. Scene above caption must show the step and desk legs, not hide them.\nExact Chinese caption (verbatim; wrap for display without deleting or rewriting any character): \"教室的布局说来也简单，几路层层格格的铁轨规矩地张满地板，前头努力抵住前面的山坳，毕竟那上面还有座高高的庙。\"\nUse a generous bottom caption band about 25-28% of image height for three fully legible large text lines; preserve all punctuation.\nNo other visible words, labels or logos. Preserve bodily supports and architecture with deliberate perspective. This is still illustration, no animation or audio.",
+      "source": "/workspace/generated_images/exec-6bf136ce-a106-4c10-9dca-8781724550e4.png",
+      "original_sentences": [
+        {
+          "id": 3,
+          "text": "教室的布局说来也简单，几路层层格格的铁轨规矩地张满地板，前头努力抵住前面的山坳，毕竟那上面还有座高高的庙。",
+          "audio_file": "003.wav",
+          "start_seconds": 6.26,
+          "end_seconds": 16.58
+        }
+      ],
+      "revision": {
+        "original_source": "/workspace/generated_images/exec-2468181f-c3b0-4238-9b68-dd124b9c12c0.png",
+        "prompt": "Use case: precise-object-edit. Edit only the podium platform in the provided pixel classroom image. Keep all characters, paired desks, window bank, camera, pixel style and exact Chinese caption unchanged. Currently the teacher lectern sits on a stair-like podium with multiple vertical risers. This is wrong. Replace it with a SINGLE LOW RECTANGULAR PLATFORM, only ONE step above classroom floor: one flat horizontal top, one continuous vertical front riser, NO second stair/tier/ledge, NO stacked levels. Teacher lectern's bottom rests directly on that single flat platform top, blackboard behind. Platform only about 15 cm higher than floor in real school scale. Front edge a single straight line across the classroom, side edge consistent perspective. Remove the intermediate step edges and repeated horizontal bands under the lectern. Classroom floor tiles meet the base of the one riser. Preserve all other pixels as closely as possible and keep the two original caption lines exactly unchanged.",
+        "reason": "初稿多层讲台，修成一层高台。"
+      }
+    },
+    {
+      "n": 3,
+      "title": "后排的呼吸",
+      "file": "03-rear-breathing-space.png",
+      "ids": [
+        4
+      ],
+      "kind": "new_drawing",
+      "refs": [
+        "/workspace/pixel-video/rpg-film/reboot-shots/pixel-strength/04-after-opening-stronger-pixel.png"
+      ],
+      "scene": "NEW independent high oblique camera from the REAR RIGHT corner looking toward the FRONT, so window wall SCREEN LEFT. Clearly show a narrow but genuine empty strip behind the last row, between rear cabinets at bottom and backs of last-row chairs. Most scene shows normal seated classmates in three lanes of joined pairs. Brown-haired hero is seated at LAST row by LEFT windows, navy deskmate next to him interior side. In the clear rear strip, two other students stand naturally chatting quietly, shoes on floor with contact shadows, not perched on desks. Their full bodies are visible and their feet stay entirely in the clear strip. Their standing presence conveys a small space to breathe, not a dance or party. Platform at far front still one step.",
+      "info": "展示真实后排通道与站立交流，把拥挤中的空隙画出来。",
+      "caption": "后面留了些空，以供我们偶尔快活地呼吸，不至于终日只做个夹层里的石子，任人布置、碾轧。",
+      "prompt": "Use case: illustration-story.\nAsset: static prose storyboard keyframe 3, 后排的呼吸.\nInput images: reference for original identity and pixel style only, not a composition to crop.\nStyle: match the provided stronger-pixel classroom style reference. Beautiful original cute handheld 16-bit RPG pixel art, noticeably large uniform square pixel clusters, intentional stair-step contours, dark navy pixel outlines, broad clean three-tone color regions, restrained shared palette, warm amber wood versus teal clothing and cool blue shadows. Visual character of a native 320x180 logical image enlarged with nearest-neighbor pixels. No smooth painterly texture, fine hair strands, blur, bloom, gradients or photographic rendering. Faces readable and charming. Full 16:9 single image, no collage, no split panels, no title or numbering. Bottom opaque dark navy RPG caption panel with tiny light blue pixel corners, large crisp white Chinese caption. Typography may remain high resolution for readability. Use 2-3 caption lines as needed without covering characters.\nCharacter identity: original teenage high-school boy, short spiky warm brown hair, dark eyes, teal-green vest over white long-sleeved collared shirt, small red tie, navy trousers, brown shoes. Keep him recognizable, not a franchise character. Deskmate has short navy hair and the same school uniform. Classmates have varied navy/brown hairstyles and the same uniform. Ordinary modest school clothing. Correct bodies, exactly two arms/two legs per visible person, no disembodied limbs or duplicated shoes.\nClassroom continuity: front wall blackboard and teacher desk on ONE raised platform step; opposite rear wall has bookcases and cabinets. Physical left wall (when seated facing front) is a horizontal bank of straight rectangular SLIDING windows with level sill and horizontal tracks, normal solid wall below. No hinged, outward swinging, diagonal or bent panes. Three lanes of paired desks, each pair TWO adjoining single wooden desks and TWO separate chairs BEHIND them. Hero stays in the LAST row, window-side half of his pair. His navy-haired deskmate has the interior-side half, together in one pair, never a different row. Desk in front of torso, chair back behind back, hip on seat, thighs extend UNDER desk, knees bent, two feet on floor. Pair seam between their desk tops, never through a body. Enough classmates; everyone supported by chair or floor. Keep projected window-side consistent with the camera direction.\nScene request: NEW independent high oblique camera from the REAR RIGHT corner looking toward the FRONT, so window wall SCREEN LEFT. Clearly show a narrow but genuine empty strip behind the last row, between rear cabinets at bottom and backs of last-row chairs. Most scene shows normal seated classmates in three lanes of joined pairs. Brown-haired hero is seated at LAST row by LEFT windows, navy deskmate next to him interior side. In the clear rear strip, two other students stand naturally chatting quietly, shoes on floor with contact shadows, not perched on desks. Their full bodies are visible and their feet stay entirely in the clear strip. Their standing presence conveys a small space to breathe, not a dance or party. Platform at far front still one step.\nExact Chinese caption (verbatim; wrap for display without deleting or rewriting any character): \"后面留了些空，以供我们偶尔快活地呼吸，不至于终日只做个夹层里的石子，任人布置、碾轧。\"\nKeep caption band about 20-24% of image height, generous line spacing, comfortably large white type.\nNo other visible words, labels or logos. Preserve bodily supports and architecture with deliberate perspective. This is still illustration, no animation or audio.",
+      "source": "/workspace/generated_images/exec-e51d74d7-2b0b-4afb-a51e-b83bcc535338.png",
+      "original_sentences": [
+        {
+          "id": 4,
+          "text": "后面留了些空，以供我们偶尔快活地呼吸，不至于终日只做个夹层里的石子，任人布置、碾轧。",
+          "audio_file": "004.wav",
+          "start_seconds": 16.83,
+          "end_seconds": 26.25
+        }
+      ],
+      "revision": {
+        "original_source": "/workspace/generated_images/exec-53589e96-23db-4941-a377-f29cbae508ff.png",
+        "prompt": "Use case: illustration-story. Draw a completely NEW, DIFFERENT CAMERA composition for the supplied caption. Reference image is ONLY identity/palette/large-square pixel style, NOT composition. The PURPOSE is the empty space BEHIND THE LAST ROW of chairs, not a side aisle.\nCamera: very high near-top-down bird's-eye view from above the classroom REAR WALL, looking down toward the FRONT blackboard at the TOP of frame. This is a detailed cute handheld RPG pixel game interior, clear overhead architecture. Full 16:9, not a collage.\nSpatial plan: blackboard and one-step teacher platform at TOP. Window wall is physical LEFT and appears SCREEN LEFT, horizontal sliding rectangular window bank with a normal solid wall/sill. Three lanes of paired desks across the room, multiple rows, all seated bodies face TOP toward front; their chairs are behind their own desks toward BOTTOM. Two adjoining single wood desks and two chairs per pair. The LAST row of desk-and-chair groups ends around the LOWER-MIDDLE of image, NOT the bottom. Below those LAST chair backs, put a clearly visible open HORIZONTAL REAR STRIP stretching across the entire room, roughly 1.2 meters deep. This rear strip is along the BOTTOM of artwork immediately above caption. The actual REAR wall with low cabinets lies along the very BOTTOM edge behind that strip; show cabinet tops only and do not relocate rear cabinets beside the blackboard. THE FULL WIDTH rear open strip must remain mostly visibly empty tiled floor, not another desk row. Two small classmates stand naturally within this rear strip at lower-right sharing a small book, bodies/feet grounded, NOT in a side aisle. Hero stays in the LAST row of paired desks, leftmost window-side seat lower-left-middle, short spiky brown hair, teal vest/white shirt/red tie/navy pants/brown shoes, navy-haired deskmate at his adjoining interior desk. He sits on chair, clear chair behind torso, hips on seat, thighs under desk, bent knees and two feet. Seated peers ahead of him in clear desk pairs; all have chair support, no hovering, no chairs on top of desks, no extra legs.\nKeep visibly enlarged uniform square pixels, broad teal/amber/navy clusters, simple three-tone shading, dark navy staircase outlines. Native-low-resolution 16-bit handheld RPG aesthetics, charming large heads, no painted smoothness, gradients, blur or super-fine details.\nBottom opaque dark navy RPG caption band, about 22% height, corner pixel decorations, large crisp white Chinese type in two/three rows, EXACT full original text: \"后面留了些空，以供我们偶尔快活地呼吸，不至于终日只做个夹层里的石子，任人布置、碾轧。\". No numbering, no labels or other text. Typography high-resolution for clarity; scene clearly blocky. Make empty REAR strip unmistakable without arrows or text.",
+        "reason": "初稿侧过道没有明确后排留空，重新绘制俯视后排。"
+      }
+    },
+    {
+      "n": 4,
+      "title": "找不到河流的边界",
+      "file": "04-river-boundaries.png",
+      "ids": [
+        5
+      ],
+      "kind": "new_drawing",
+      "refs": [
+        "/workspace/pixel-video/rpg-film/reboot-shots/pixel-strength/04-after-opening-stronger-pixel.png"
+      ],
+      "scene": "NEW symbolic imagined landscape, NOT a literal flooded classroom. Wide daylight river garden with one shallow blue winding stream. Original brown-haired uniformed boy stands on a small firm exposed stepping stone near center foreground, two grounded shoes clearly supported by stone, hands hold a closed schoolbook at waist. Several uniformed peers have easily reached grassy banks on the left and right and stand in small companionable groups on solid ground. Flowing water curls around the hero's stone while a few pale paper-like shapes drift downstream; he looks uncertain toward the nearer bank. Nobody drowning, swimming or endangered. Character remains an ordinary student, no knight outfit. Frame the river's physical banks and different paths clearly, keep the metaphor poignant and gentle.",
+      "info": "以主角停在河中踏石、同学已走上河岸表现同在河流却找不到边界。",
+      "caption": "我其实一直不懂，同学们分明与我在同一条河流里面翻来覆去，却轻而易举地找到了水的边界。",
+      "prompt": "Use case: illustration-story.\nAsset: static prose storyboard keyframe 4, 找不到河流的边界.\nInput images: reference for original identity and pixel style only, not a composition to crop.\nStyle: match the provided stronger-pixel classroom style reference. Beautiful original cute handheld 16-bit RPG pixel art, noticeably large uniform square pixel clusters, intentional stair-step contours, dark navy pixel outlines, broad clean three-tone color regions, restrained shared palette, warm amber wood versus teal clothing and cool blue shadows. Visual character of a native 320x180 logical image enlarged with nearest-neighbor pixels. No smooth painterly texture, fine hair strands, blur, bloom, gradients or photographic rendering. Faces readable and charming. Full 16:9 single image, no collage, no split panels, no title or numbering. Bottom opaque dark navy RPG caption panel with tiny light blue pixel corners, large crisp white Chinese caption. Typography may remain high resolution for readability. Use 2-3 caption lines as needed without covering characters.\nCharacter identity: original teenage high-school boy, short spiky warm brown hair, dark eyes, teal-green vest over white long-sleeved collared shirt, small red tie, navy trousers, brown shoes. Keep him recognizable, not a franchise character. Deskmate has short navy hair and the same school uniform. Classmates have varied navy/brown hairstyles and the same uniform. Ordinary modest school clothing. Correct bodies, exactly two arms/two legs per visible person, no disembodied limbs or duplicated shoes.\nClassroom continuity: front wall blackboard and teacher desk on ONE raised platform step; opposite rear wall has bookcases and cabinets. Physical left wall (when seated facing front) is a horizontal bank of straight rectangular SLIDING windows with level sill and horizontal tracks, normal solid wall below. No hinged, outward swinging, diagonal or bent panes. Three lanes of paired desks, each pair TWO adjoining single wooden desks and TWO separate chairs BEHIND them. Hero stays in the LAST row, window-side half of his pair. His navy-haired deskmate has the interior-side half, together in one pair, never a different row. Desk in front of torso, chair back behind back, hip on seat, thighs extend UNDER desk, knees bent, two feet on floor. Pair seam between their desk tops, never through a body. Enough classmates; everyone supported by chair or floor. Keep projected window-side consistent with the camera direction.\nScene request: NEW symbolic imagined landscape, NOT a literal flooded classroom. Wide daylight river garden with one shallow blue winding stream. Original brown-haired uniformed boy stands on a small firm exposed stepping stone near center foreground, two grounded shoes clearly supported by stone, hands hold a closed schoolbook at waist. Several uniformed peers have easily reached grassy banks on the left and right and stand in small companionable groups on solid ground. Flowing water curls around the hero's stone while a few pale paper-like shapes drift downstream; he looks uncertain toward the nearer bank. Nobody drowning, swimming or endangered. Character remains an ordinary student, no knight outfit. Frame the river's physical banks and different paths clearly, keep the metaphor poignant and gentle.\nExact Chinese caption (verbatim; wrap for display without deleting or rewriting any character): \"我其实一直不懂，同学们分明与我在同一条河流里面翻来覆去，却轻而易举地找到了水的边界。\"\nKeep caption band about 20-24% of image height, generous line spacing, comfortably large white type.\nNo other visible words, labels or logos. Preserve bodily supports and architecture with deliberate perspective. This is still illustration, no animation or audio.",
+      "source": "/workspace/generated_images/exec-8c8cb9cc-abc5-46fe-a77a-51ba90b96a94.png",
+      "original_sentences": [
+        {
+          "id": 5,
+          "text": "我其实一直不懂，同学们分明与我在同一条河流里面翻来覆去，却轻而易举地找到了水的边界。",
+          "audio_file": "005.wav",
+          "start_seconds": 26.5,
+          "end_seconds": 35.12
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "同学的小世界",
+      "file": "05-little-worlds.png",
+      "ids": [
+        6,
+        7
+      ],
+      "kind": "core_style_edit",
+      "refs": [
+        "/workspace/pixel-video/rpg-film/reboot-shots/02-little-worlds.png",
+        "/workspace/pixel-video/rpg-film/reboot-shots/pixel-strength/04-after-opening-stronger-pixel.png"
+      ],
+      "scene": "Image 1 is edit target; image 2 style reference only. Preserve accepted classroom group composition: camera facing REAR cabinets, window wall SCREEN RIGHT, two near pairs reading and pointing at books, original quiet brown-haired hero at distant last-row window seat with navy-haired deskmate. Preserve four foreground people's anatomically natural hips, bent knees, feet under their own tables, and chairs behind them. Their paired desks remain two joined single desks each. Redraw only style with substantially larger deliberate pixel clusters and broader palette regions, and update caption to BOTH supplied original sentences. No invented dialogue, balloons or added dramatic gestures.",
+      "info": "保留已确认群像，用具体阅读交流与主角的距离表现各自取乐。",
+      "caption": "仔细想来，他们开学不久就已经能各自取乐了。他们围成了一个个小小世界，讲述着我听不懂的历史。",
+      "prompt": "Use case: style-transfer.\nAsset: static prose storyboard keyframe 5, 同学的小世界.\nInput images: first edit target, second style reference.\nStyle: match the provided stronger-pixel classroom style reference. Beautiful original cute handheld 16-bit RPG pixel art, noticeably large uniform square pixel clusters, intentional stair-step contours, dark navy pixel outlines, broad clean three-tone color regions, restrained shared palette, warm amber wood versus teal clothing and cool blue shadows. Visual character of a native 320x180 logical image enlarged with nearest-neighbor pixels. No smooth painterly texture, fine hair strands, blur, bloom, gradients or photographic rendering. Faces readable and charming. Full 16:9 single image, no collage, no split panels, no title or numbering. Bottom opaque dark navy RPG caption panel with tiny light blue pixel corners, large crisp white Chinese caption. Typography may remain high resolution for readability. Use 2-3 caption lines as needed without covering characters.\nCharacter identity: original teenage high-school boy, short spiky warm brown hair, dark eyes, teal-green vest over white long-sleeved collared shirt, small red tie, navy trousers, brown shoes. Keep him recognizable, not a franchise character. Deskmate has short navy hair and the same school uniform. Classmates have varied navy/brown hairstyles and the same uniform. Ordinary modest school clothing. Correct bodies, exactly two arms/two legs per visible person, no disembodied limbs or duplicated shoes.\nClassroom continuity: front wall blackboard and teacher desk on ONE raised platform step; opposite rear wall has bookcases and cabinets. Physical left wall (when seated facing front) is a horizontal bank of straight rectangular SLIDING windows with level sill and horizontal tracks, normal solid wall below. No hinged, outward swinging, diagonal or bent panes. Three lanes of paired desks, each pair TWO adjoining single wooden desks and TWO separate chairs BEHIND them. Hero stays in the LAST row, window-side half of his pair. His navy-haired deskmate has the interior-side half, together in one pair, never a different row. Desk in front of torso, chair back behind back, hip on seat, thighs extend UNDER desk, knees bent, two feet on floor. Pair seam between their desk tops, never through a body. Enough classmates; everyone supported by chair or floor. Keep projected window-side consistent with the camera direction.\nScene request: Image 1 is edit target; image 2 style reference only. Preserve accepted classroom group composition: camera facing REAR cabinets, window wall SCREEN RIGHT, two near pairs reading and pointing at books, original quiet brown-haired hero at distant last-row window seat with navy-haired deskmate. Preserve four foreground people's anatomically natural hips, bent knees, feet under their own tables, and chairs behind them. Their paired desks remain two joined single desks each. Redraw only style with substantially larger deliberate pixel clusters and broader palette regions, and update caption to BOTH supplied original sentences. No invented dialogue, balloons or added dramatic gestures.\nExact Chinese caption (verbatim; wrap for display without deleting or rewriting any character): \"仔细想来，他们开学不久就已经能各自取乐了。他们围成了一个个小小世界，讲述着我听不懂的历史。\"\nKeep caption band about 20-24% of image height, generous line spacing, comfortably large white type.\nNo other visible words, labels or logos. Preserve bodily supports and architecture with deliberate perspective. This is still illustration, no animation or audio.",
+      "source": "/workspace/generated_images/exec-256c599d-2e2b-416a-a9cb-70bf1c6d6def.png",
+      "original_sentences": [
+        {
+          "id": 6,
+          "text": "仔细想来，他们开学不久就已经能各自取乐了。",
+          "audio_file": "006.wav",
+          "start_seconds": 35.37,
+          "end_seconds": 39.65
+        },
+        {
+          "id": 7,
+          "text": "他们围成了一个个小小世界，讲述着我听不懂的历史。",
+          "audio_file": "007.wav",
+          "start_seconds": 39.9,
+          "end_seconds": 44.46
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "title": "靠窗与欢笑的挤压",
+      "file": "06-window-seat.png",
+      "ids": [
+        8,
+        9
+      ],
+      "kind": "new_drawing",
+      "refs": [
+        "/workspace/pixel-video/rpg-film/reboot-shots/pixel-strength/04-after-opening-stronger-pixel.png"
+      ],
+      "scene": "NEW front-inside medium camera looking toward the REAR window seat, windows therefore SCREEN RIGHT, rear cabinets background. Brown-haired hero foreground right is seated directly behind his own wooden desk, chair behind and supporting him, body faces toward camera and class FRONT, head gently turns 35 degrees to the RIGHT toward closed horizontal window. His left hand rests on an unfinished exercise book, right hand hovers thoughtfully near sill WITHOUT already opening it. His short navy-haired deskmate occupies adjoining desk on SCREEN LEFT and shows a funny picture in a book to a seated classmate farther left; they smile naturally without twisting their hips away from chairs. Nearby desks, shoulder silhouettes and conversation feel visually close, while clear rain glass offers a little blue space by hero's face. No hands in wrong desk, no protagonist in table seam. Show own chair support and two grounded shoes under own desk.",
+      "info": "用正常窗边座位、未完成的作业和旁边的交流表现想开窗的动机。",
+      "caption": "我经常被安排到最左边靠窗的位置。欢笑的空间实在挤压了我的生存，我真想拨开窗啊！",
+      "prompt": "Use case: illustration-story.\nAsset: static prose storyboard keyframe 6, 靠窗与欢笑的挤压.\nInput images: reference for original identity and pixel style only, not a composition to crop.\nStyle: match the provided stronger-pixel classroom style reference. Beautiful original cute handheld 16-bit RPG pixel art, noticeably large uniform square pixel clusters, intentional stair-step contours, dark navy pixel outlines, broad clean three-tone color regions, restrained shared palette, warm amber wood versus teal clothing and cool blue shadows. Visual character of a native 320x180 logical image enlarged with nearest-neighbor pixels. No smooth painterly texture, fine hair strands, blur, bloom, gradients or photographic rendering. Faces readable and charming. Full 16:9 single image, no collage, no split panels, no title or numbering. Bottom opaque dark navy RPG caption panel with tiny light blue pixel corners, large crisp white Chinese caption. Typography may remain high resolution for readability. Use 2-3 caption lines as needed without covering characters.\nCharacter identity: original teenage high-school boy, short spiky warm brown hair, dark eyes, teal-green vest over white long-sleeved collared shirt, small red tie, navy trousers, brown shoes. Keep him recognizable, not a franchise character. Deskmate has short navy hair and the same school uniform. Classmates have varied navy/brown hairstyles and the same uniform. Ordinary modest school clothing. Correct bodies, exactly two arms/two legs per visible person, no disembodied limbs or duplicated shoes.\nClassroom continuity: front wall blackboard and teacher desk on ONE raised platform step; opposite rear wall has bookcases and cabinets. Physical left wall (when seated facing front) is a horizontal bank of straight rectangular SLIDING windows with level sill and horizontal tracks, normal solid wall below. No hinged, outward swinging, diagonal or bent panes. Three lanes of paired desks, each pair TWO adjoining single wooden desks and TWO separate chairs BEHIND them. Hero stays in the LAST row, window-side half of his pair. His navy-haired deskmate has the interior-side half, together in one pair, never a different row. Desk in front of torso, chair back behind back, hip on seat, thighs extend UNDER desk, knees bent, two feet on floor. Pair seam between their desk tops, never through a body. Enough classmates; everyone supported by chair or floor. Keep projected window-side consistent with the camera direction.\nScene request: NEW front-inside medium camera looking toward the REAR window seat, windows therefore SCREEN RIGHT, rear cabinets background. Brown-haired hero foreground right is seated directly behind his own wooden desk, chair behind and supporting him, body faces toward camera and class FRONT, head gently turns 35 degrees to the RIGHT toward closed horizontal window. His left hand rests on an unfinished exercise book, right hand hovers thoughtfully near sill WITHOUT already opening it. His short navy-haired deskmate occupies adjoining desk on SCREEN LEFT and shows a funny picture in a book to a seated classmate farther left; they smile naturally without twisting their hips away from chairs. Nearby desks, shoulder silhouettes and conversation feel visually close, while clear rain glass offers a little blue space by hero's face. No hands in wrong desk, no protagonist in table seam. Show own chair support and two grounded shoes under own desk.\nExact Chinese caption (verbatim; wrap for display without deleting or rewriting any character): \"我经常被安排到最左边靠窗的位置。欢笑的空间实在挤压了我的生存，我真想拨开窗啊！\"\nKeep caption band about 20-24% of image height, generous line spacing, comfortably large white type.\nNo other visible words, labels or logos. Preserve bodily supports and architecture with deliberate perspective. This is still illustration, no animation or audio.",
+      "source": "/workspace/generated_images/exec-79b9c0aa-b972-4d32-a6ce-a757078d4d72.png",
+      "original_sentences": [
+        {
+          "id": 8,
+          "text": "我经常被安排到最左边靠窗的位置。",
+          "audio_file": "008.wav",
+          "start_seconds": 44.71,
+          "end_seconds": 47.73
+        },
+        {
+          "id": 9,
+          "text": "欢笑的空间实在挤压了我的生存，我真想拨开窗啊！",
+          "audio_file": "009.wav",
+          "start_seconds": 47.98,
+          "end_seconds": 52.82
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "title": "方格里的梦想",
+      "file": "07-dream-in-window.png",
+      "ids": [
+        10
+      ],
+      "kind": "new_drawing",
+      "refs": [
+        "/workspace/pixel-video/rpg-film/reboot-shots/pixel-strength/04-after-opening-stronger-pixel.png",
+        "/workspace/pixel-video/rpg-film/reboot-shots/03-first-person-window.png"
+      ],
+      "scene": "NEW subjective close view of a CLOSED square portion of the same horizontal sliding window. Image 2 is WINDOW DESIGN reference only; image 1 style reference. Camera near hero's eye height looking directly out. Straight navy metal rectangular outer frame and overlapping closed glass edges, latch attached, horizontal bottom rail. Rain drops in clean pixel dashes. Faint recognizable brown-haired boy's face reflection on left glass, no body emerging from window. Through the rainy school courtyard a subtle RPG-like dream path in a tiny luminous green garden can be glimpsed, framed inside the square glass, with distant rooftops becoming a small inviting hill silhouette. Clearly a quiet subjective wish, not an actual new door or portal ripping the wall. No hands yet, no glass open, no extra window mechanisms.",
+      "info": "独立窗格细节把梦想放在玻璃外，主角倒影留在室内。",
+      "caption": "那四四方方的格子里，或许住着一个梦想也说不定。",
+      "prompt": "Use case: illustration-story.\nAsset: static prose storyboard keyframe 7, 方格里的梦想.\nInput images: reference for original identity and pixel style only, not a composition to crop.\nStyle: match the provided stronger-pixel classroom style reference. Beautiful original cute handheld 16-bit RPG pixel art, noticeably large uniform square pixel clusters, intentional stair-step contours, dark navy pixel outlines, broad clean three-tone color regions, restrained shared palette, warm amber wood versus teal clothing and cool blue shadows. Visual character of a native 320x180 logical image enlarged with nearest-neighbor pixels. No smooth painterly texture, fine hair strands, blur, bloom, gradients or photographic rendering. Faces readable and charming. Full 16:9 single image, no collage, no split panels, no title or numbering. Bottom opaque dark navy RPG caption panel with tiny light blue pixel corners, large crisp white Chinese caption. Typography may remain high resolution for readability. Use 2-3 caption lines as needed without covering characters.\nCharacter identity: original teenage high-school boy, short spiky warm brown hair, dark eyes, teal-green vest over white long-sleeved collared shirt, small red tie, navy trousers, brown shoes. Keep him recognizable, not a franchise character. Deskmate has short navy hair and the same school uniform. Classmates have varied navy/brown hairstyles and the same uniform. Ordinary modest school clothing. Correct bodies, exactly two arms/two legs per visible person, no disembodied limbs or duplicated shoes.\nClassroom continuity: front wall blackboard and teacher desk on ONE raised platform step; opposite rear wall has bookcases and cabinets. Physical left wall (when seated facing front) is a horizontal bank of straight rectangular SLIDING windows with level sill and horizontal tracks, normal solid wall below. No hinged, outward swinging, diagonal or bent panes. Three lanes of paired desks, each pair TWO adjoining single wooden desks and TWO separate chairs BEHIND them. Hero stays in the LAST row, window-side half of his pair. His navy-haired deskmate has the interior-side half, together in one pair, never a different row. Desk in front of torso, chair back behind back, hip on seat, thighs extend UNDER desk, knees bent, two feet on floor. Pair seam between their desk tops, never through a body. Enough classmates; everyone supported by chair or floor. Keep projected window-side consistent with the camera direction.\nScene request: NEW subjective close view of a CLOSED square portion of the same horizontal sliding window. Image 2 is WINDOW DESIGN reference only; image 1 style reference. Camera near hero's eye height looking directly out. Straight navy metal rectangular outer frame and overlapping closed glass edges, latch attached, horizontal bottom rail. Rain drops in clean pixel dashes. Faint recognizable brown-haired boy's face reflection on left glass, no body emerging from window. Through the rainy school courtyard a subtle RPG-like dream path in a tiny luminous green garden can be glimpsed, framed inside the square glass, with distant rooftops becoming a small inviting hill silhouette. Clearly a quiet subjective wish, not an actual new door or portal ripping the wall. No hands yet, no glass open, no extra window mechanisms.\nExact Chinese caption (verbatim; wrap for display without deleting or rewriting any character): \"那四四方方的格子里，或许住着一个梦想也说不定。\"\nKeep caption band about 20-24% of image height, generous line spacing, comfortably large white type.\nNo other visible words, labels or logos. Preserve bodily supports and architecture with deliberate perspective. This is still illustration, no animation or audio.",
+      "source": "/workspace/generated_images/exec-03feedce-157f-4f51-9a4e-d11cd992b448.png",
+      "original_sentences": [
+        {
+          "id": 10,
+          "text": "那四四方方的格子里，或许住着一个梦想也说不定。",
+          "audio_file": "010.wav",
+          "start_seconds": 53.07,
+          "end_seconds": 57.63
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "title": "目光与沉默",
+      "file": "08-gaze-and-silence.png",
+      "ids": [
+        11,
+        12
+      ],
+      "kind": "new_drawing",
+      "refs": [
+        "/workspace/pixel-video/rpg-film/reboot-shots/pixel-strength/04-after-opening-stronger-pixel.png"
+      ],
+      "scene": "NEW low frontal close-medium portrait from the FRONT of the hero's own desk facing toward REAR cabinets, window SCREEN RIGHT. Brown-haired hero sits supported on his own chair behind tabletop, shoulders slightly drawn in, eyes lowered toward two hands clasping one pencil on exercise book. He is conflicted and lonely. Interior-side navy-haired deskmate is naturally seated next to him at left, focusing on own book. Two more classmates further left/back only briefly glance toward the window/hero with neutral curious eyes; no bullying, angry crowd, magic red eyes or literal heat beam. Light from closed rain window touches the hero's face while surrounding chatter is implied visually. Entire imagery remains an ordinary school scene, no sexual content. Preserve exact original introspective caption even though it contains a difficult self-description.",
+      "info": "用收肩、低头、攥笔和同学的短暂视线表现犹豫与沉默。",
+      "caption": "只是我能经受灼热目光的冒险吗？我本就不知道怎么办了，我孤冷又沉默，淫秽却无聊......",
+      "prompt": "Use case: illustration-story.\nAsset: static prose storyboard keyframe 8, 目光与沉默.\nInput images: reference for original identity and pixel style only, not a composition to crop.\nStyle: match the provided stronger-pixel classroom style reference. Beautiful original cute handheld 16-bit RPG pixel art, noticeably large uniform square pixel clusters, intentional stair-step contours, dark navy pixel outlines, broad clean three-tone color regions, restrained shared palette, warm amber wood versus teal clothing and cool blue shadows. Visual character of a native 320x180 logical image enlarged with nearest-neighbor pixels. No smooth painterly texture, fine hair strands, blur, bloom, gradients or photographic rendering. Faces readable and charming. Full 16:9 single image, no collage, no split panels, no title or numbering. Bottom opaque dark navy RPG caption panel with tiny light blue pixel corners, large crisp white Chinese caption. Typography may remain high resolution for readability. Use 2-3 caption lines as needed without covering characters.\nCharacter identity: original teenage high-school boy, short spiky warm brown hair, dark eyes, teal-green vest over white long-sleeved collared shirt, small red tie, navy trousers, brown shoes. Keep him recognizable, not a franchise character. Deskmate has short navy hair and the same school uniform. Classmates have varied navy/brown hairstyles and the same uniform. Ordinary modest school clothing. Correct bodies, exactly two arms/two legs per visible person, no disembodied limbs or duplicated shoes.\nClassroom continuity: front wall blackboard and teacher desk on ONE raised platform step; opposite rear wall has bookcases and cabinets. Physical left wall (when seated facing front) is a horizontal bank of straight rectangular SLIDING windows with level sill and horizontal tracks, normal solid wall below. No hinged, outward swinging, diagonal or bent panes. Three lanes of paired desks, each pair TWO adjoining single wooden desks and TWO separate chairs BEHIND them. Hero stays in the LAST row, window-side half of his pair. His navy-haired deskmate has the interior-side half, together in one pair, never a different row. Desk in front of torso, chair back behind back, hip on seat, thighs extend UNDER desk, knees bent, two feet on floor. Pair seam between their desk tops, never through a body. Enough classmates; everyone supported by chair or floor. Keep projected window-side consistent with the camera direction.\nScene request: NEW low frontal close-medium portrait from the FRONT of the hero's own desk facing toward REAR cabinets, window SCREEN RIGHT. Brown-haired hero sits supported on his own chair behind tabletop, shoulders slightly drawn in, eyes lowered toward two hands clasping one pencil on exercise book. He is conflicted and lonely. Interior-side navy-haired deskmate is naturally seated next to him at left, focusing on own book. Two more classmates further left/back only briefly glance toward the window/hero with neutral curious eyes; no bullying, angry crowd, magic red eyes or literal heat beam. Light from closed rain window touches the hero's face while surrounding chatter is implied visually. Entire imagery remains an ordinary school scene, no sexual content. Preserve exact original introspective caption even though it contains a difficult self-description.\nExact Chinese caption (verbatim; wrap for display without deleting or rewriting any character): \"只是我能经受灼热目光的冒险吗？我本就不知道怎么办了，我孤冷又沉默，淫秽却无聊......\"\nKeep caption band about 20-24% of image height, generous line spacing, comfortably large white type.\nNo other visible words, labels or logos. Preserve bodily supports and architecture with deliberate perspective. This is still illustration, no animation or audio.",
+      "source": "/workspace/generated_images/exec-3606384e-032d-471c-854a-3a2d4698050f.png",
+      "original_sentences": [
+        {
+          "id": 11,
+          "text": "只是我能经受灼热目光的冒险吗？",
+          "audio_file": "011.wav",
+          "start_seconds": 57.88,
+          "end_seconds": 60.86
+        },
+        {
+          "id": 12,
+          "text": "我本就不知道怎么办了，我孤冷又沉默，淫秽却无聊......",
+          "audio_file": "012.wav",
+          "start_seconds": 61.11,
+          "end_seconds": 66.69
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "title": "同桌离席，伸向窗扣",
+      "file": "09-deskmate-leaves.png",
+      "ids": [
+        13
+      ],
+      "kind": "new_drawing",
+      "refs": [
+        "/workspace/pixel-video/rpg-film/reboot-shots/pixel-strength/04-after-opening-stronger-pixel.png"
+      ],
+      "scene": "NEW diagonal medium-wide camera from rear interior aisle looking toward FRONT, window wall SCREEN LEFT. Hero at near-left LAST row window-side seat, still properly on his chair with his hips/feet and desk in coherent position, rotates his shoulders slightly left toward window and extends one white-sleeved hand toward the latch; not yet pulling the pane. His adjacent interior-side desk is immediately SCREEN RIGHT in the SAME pair. Its navy-haired deskmate has just stood and is now walking along the adjacent inside aisle toward front at screen center-right, TWO grounded shoes in a natural small stride, continuous body, own empty chair left behind at the right desk, notebook and blue bag remain. Deskmate does not walk through desks or climb chairs. Hero's reaching arm begins at his own shoulder, does not pass through desk. Closed horizontal rectangular panes, latch attached.",
+      "info": "让同桌真实离开原座位，空椅与物品留下，主角才伸手触窗。",
+      "caption": "但是，说不清道不明，趁着同桌不在，挟着自怜和愿望，我总是开了。",
+      "prompt": "Use case: illustration-story.\nAsset: static prose storyboard keyframe 9, 同桌离席，伸向窗扣.\nInput images: reference for original identity and pixel style only, not a composition to crop.\nStyle: match the provided stronger-pixel classroom style reference. Beautiful original cute handheld 16-bit RPG pixel art, noticeably large uniform square pixel clusters, intentional stair-step contours, dark navy pixel outlines, broad clean three-tone color regions, restrained shared palette, warm amber wood versus teal clothing and cool blue shadows. Visual character of a native 320x180 logical image enlarged with nearest-neighbor pixels. No smooth painterly texture, fine hair strands, blur, bloom, gradients or photographic rendering. Faces readable and charming. Full 16:9 single image, no collage, no split panels, no title or numbering. Bottom opaque dark navy RPG caption panel with tiny light blue pixel corners, large crisp white Chinese caption. Typography may remain high resolution for readability. Use 2-3 caption lines as needed without covering characters.\nCharacter identity: original teenage high-school boy, short spiky warm brown hair, dark eyes, teal-green vest over white long-sleeved collared shirt, small red tie, navy trousers, brown shoes. Keep him recognizable, not a franchise character. Deskmate has short navy hair and the same school uniform. Classmates have varied navy/brown hairstyles and the same uniform. Ordinary modest school clothing. Correct bodies, exactly two arms/two legs per visible person, no disembodied limbs or duplicated shoes.\nClassroom continuity: front wall blackboard and teacher desk on ONE raised platform step; opposite rear wall has bookcases and cabinets. Physical left wall (when seated facing front) is a horizontal bank of straight rectangular SLIDING windows with level sill and horizontal tracks, normal solid wall below. No hinged, outward swinging, diagonal or bent panes. Three lanes of paired desks, each pair TWO adjoining single wooden desks and TWO separate chairs BEHIND them. Hero stays in the LAST row, window-side half of his pair. His navy-haired deskmate has the interior-side half, together in one pair, never a different row. Desk in front of torso, chair back behind back, hip on seat, thighs extend UNDER desk, knees bent, two feet on floor. Pair seam between their desk tops, never through a body. Enough classmates; everyone supported by chair or floor. Keep projected window-side consistent with the camera direction.\nScene request: NEW diagonal medium-wide camera from rear interior aisle looking toward FRONT, window wall SCREEN LEFT. Hero at near-left LAST row window-side seat, still properly on his chair with his hips/feet and desk in coherent position, rotates his shoulders slightly left toward window and extends one white-sleeved hand toward the latch; not yet pulling the pane. His adjacent interior-side desk is immediately SCREEN RIGHT in the SAME pair. Its navy-haired deskmate has just stood and is now walking along the adjacent inside aisle toward front at screen center-right, TWO grounded shoes in a natural small stride, continuous body, own empty chair left behind at the right desk, notebook and blue bag remain. Deskmate does not walk through desks or climb chairs. Hero's reaching arm begins at his own shoulder, does not pass through desk. Closed horizontal rectangular panes, latch attached.\nExact Chinese caption (verbatim; wrap for display without deleting or rewriting any character): \"但是，说不清道不明，趁着同桌不在，挟着自怜和愿望，我总是开了。\"\nKeep caption band about 20-24% of image height, generous line spacing, comfortably large white type.\nNo other visible words, labels or logos. Preserve bodily supports and architecture with deliberate perspective. This is still illustration, no animation or audio.",
+      "source": "/workspace/generated_images/exec-2e4f7f36-d002-4922-bb73-2d62489a3cc9.png",
+      "original_sentences": [
+        {
+          "id": 13,
+          "text": "但是，说不清道不明，趁着同桌不在，挟着自怜和愿望，我总是开了。",
+          "audio_file": "013.wav",
+          "start_seconds": 66.94,
+          "end_seconds": 74.8
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "title": "第一人称横向推窗",
+      "file": "10-first-person-window.png",
+      "ids": [
+        14
+      ],
+      "kind": "core_style_edit",
+      "refs": [
+        "/workspace/pixel-video/rpg-film/reboot-shots/03-first-person-window.png",
+        "/workspace/pixel-video/rpg-film/reboot-shots/pixel-strength/04-after-opening-stronger-pixel.png"
+      ],
+      "scene": "Image 1 is edit target; image 2 style reference only. Preserve accepted FIRST-PERSON composition exactly: two connected white-sleeved forearms and hands gripping attached window handles, horizontal track, rigid rectangular outer frame, two sliding panes stacked at sides, clear central opening onto wet school courtyard. All straight window edges stay straight and parallel with same perspective, no hinge, tilt or vertical sliding. No duplicated hands/fingers, wrists connect to arms, hands contact handles. Strengthen pixel clusters in skin/sleeves/trees/building/rain/reflections and retain the entire supplied original long sentence in large crisp white text as three lines in the bottom band. No fake motion blur; this is one static action keyframe.",
+      "info": "保留已确认第一人称构图，统一像素颗粒与窗户的水平轨道。",
+      "caption": "意识蹒跚着爬上窗扣，肢体却得到了勇气的奖赏，我缓缓支走那两片玻璃，天地之间唤起一片清澈的凉，教室里面映满了雨水和露水的影子，终是把我们都接成一片了。",
+      "prompt": "Use case: style-transfer.\nAsset: static prose storyboard keyframe 10, 第一人称横向推窗.\nInput images: first edit target, second style reference.\nStyle: match the provided stronger-pixel classroom style reference. Beautiful original cute handheld 16-bit RPG pixel art, noticeably large uniform square pixel clusters, intentional stair-step contours, dark navy pixel outlines, broad clean three-tone color regions, restrained shared palette, warm amber wood versus teal clothing and cool blue shadows. Visual character of a native 320x180 logical image enlarged with nearest-neighbor pixels. No smooth painterly texture, fine hair strands, blur, bloom, gradients or photographic rendering. Faces readable and charming. Full 16:9 single image, no collage, no split panels, no title or numbering. Bottom opaque dark navy RPG caption panel with tiny light blue pixel corners, large crisp white Chinese caption. Typography may remain high resolution for readability. Use 2-3 caption lines as needed without covering characters.\nCharacter identity: original teenage high-school boy, short spiky warm brown hair, dark eyes, teal-green vest over white long-sleeved collared shirt, small red tie, navy trousers, brown shoes. Keep him recognizable, not a franchise character. Deskmate has short navy hair and the same school uniform. Classmates have varied navy/brown hairstyles and the same uniform. Ordinary modest school clothing. Correct bodies, exactly two arms/two legs per visible person, no disembodied limbs or duplicated shoes.\nClassroom continuity: front wall blackboard and teacher desk on ONE raised platform step; opposite rear wall has bookcases and cabinets. Physical left wall (when seated facing front) is a horizontal bank of straight rectangular SLIDING windows with level sill and horizontal tracks, normal solid wall below. No hinged, outward swinging, diagonal or bent panes. Three lanes of paired desks, each pair TWO adjoining single wooden desks and TWO separate chairs BEHIND them. Hero stays in the LAST row, window-side half of his pair. His navy-haired deskmate has the interior-side half, together in one pair, never a different row. Desk in front of torso, chair back behind back, hip on seat, thighs extend UNDER desk, knees bent, two feet on floor. Pair seam between their desk tops, never through a body. Enough classmates; everyone supported by chair or floor. Keep projected window-side consistent with the camera direction.\nScene request: Image 1 is edit target; image 2 style reference only. Preserve accepted FIRST-PERSON composition exactly: two connected white-sleeved forearms and hands gripping attached window handles, horizontal track, rigid rectangular outer frame, two sliding panes stacked at sides, clear central opening onto wet school courtyard. All straight window edges stay straight and parallel with same perspective, no hinge, tilt or vertical sliding. No duplicated hands/fingers, wrists connect to arms, hands contact handles. Strengthen pixel clusters in skin/sleeves/trees/building/rain/reflections and retain the entire supplied original long sentence in large crisp white text as three lines in the bottom band. No fake motion blur; this is one static action keyframe.\nExact Chinese caption (verbatim; wrap for display without deleting or rewriting any character): \"意识蹒跚着爬上窗扣，肢体却得到了勇气的奖赏，我缓缓支走那两片玻璃，天地之间唤起一片清澈的凉，教室里面映满了雨水和露水的影子，终是把我们都接成一片了。\"\nUse a generous bottom caption band about 25-28% of image height for three fully legible large text lines; preserve all punctuation.\nNo other visible words, labels or logos. Preserve bodily supports and architecture with deliberate perspective. This is still illustration, no animation or audio.",
+      "source": "/workspace/generated_images/exec-6afbbc65-7870-4917-90da-828e4a1558bb.png",
+      "original_sentences": [
+        {
+          "id": 14,
+          "text": "意识蹒跚着爬上窗扣，肢体却得到了勇气的奖赏，我缓缓支走那两片玻璃，天地之间唤起一片清澈的凉，教室里面映满了雨水和露水的影子，终是把我们都接成一片了。",
+          "audio_file": "014.wav",
+          "start_seconds": 75.05,
+          "end_seconds": 90.69
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "title": "风进入教室",
+      "file": "11-after-opening.png",
+      "ids": [
+        15
+      ],
+      "kind": "accepted_core_reuse",
+      "refs": [
+        "/workspace/pixel-video/rpg-film/reboot-shots/pixel-strength/04-after-opening-stronger-pixel.png"
+      ],
+      "scene": "Reuse the already selected stronger-pixel fourth core image unchanged. This is its correct position in the article, not a new drawing.",
+      "info": "保留强像素核心图，表现开窗后的纸页、发梢、光色与主角状态。",
+      "caption": "我享受这份拥抱，因为它赞许了我们的自由。",
+      "prompt": "Use case: illustration-story.\nAsset: static prose storyboard keyframe 11, 风进入教室.\nInput images: reference for original identity and pixel style only, not a composition to crop.\nStyle: match the provided stronger-pixel classroom style reference. Beautiful original cute handheld 16-bit RPG pixel art, noticeably large uniform square pixel clusters, intentional stair-step contours, dark navy pixel outlines, broad clean three-tone color regions, restrained shared palette, warm amber wood versus teal clothing and cool blue shadows. Visual character of a native 320x180 logical image enlarged with nearest-neighbor pixels. No smooth painterly texture, fine hair strands, blur, bloom, gradients or photographic rendering. Faces readable and charming. Full 16:9 single image, no collage, no split panels, no title or numbering. Bottom opaque dark navy RPG caption panel with tiny light blue pixel corners, large crisp white Chinese caption. Typography may remain high resolution for readability. Use 2-3 caption lines as needed without covering characters.\nCharacter identity: original teenage high-school boy, short spiky warm brown hair, dark eyes, teal-green vest over white long-sleeved collared shirt, small red tie, navy trousers, brown shoes. Keep him recognizable, not a franchise character. Deskmate has short navy hair and the same school uniform. Classmates have varied navy/brown hairstyles and the same uniform. Ordinary modest school clothing. Correct bodies, exactly two arms/two legs per visible person, no disembodied limbs or duplicated shoes.\n\nScene request: Reuse the already selected stronger-pixel fourth core image unchanged. This is its correct position in the article, not a new drawing.\nExact Chinese caption (verbatim; wrap for display without deleting or rewriting any character): \"我享受这份拥抱，因为它赞许了我们的自由。\"\nKeep caption band about 20-24% of image height, generous line spacing, comfortably large white type.\nNo other visible words, labels or logos. Preserve bodily supports and architecture with deliberate perspective. This is still illustration, no animation or audio.",
+      "source": "/workspace/pixel-video/rpg-film/reboot-shots/pixel-strength/04-after-opening-stronger-pixel.png",
+      "original_sentences": [
+        {
+          "id": 15,
+          "text": "我享受这份拥抱，因为它赞许了我们的自由。",
+          "audio_file": "015.wav",
+          "start_seconds": 90.94,
+          "end_seconds": 95.1
+        }
+      ]
+    },
+    {
+      "n": 12,
+      "title": "风与流向夜色的河",
+      "file": "12-wind-and-night-river.png",
+      "ids": [
+        16
+      ],
+      "kind": "new_drawing",
+      "refs": [
+        "/workspace/pixel-video/rpg-film/reboot-shots/pixel-strength/04-after-opening-stronger-pixel.png"
+      ],
+      "scene": "NEW poetic imagined outdoor scene, wide scenic view. Original brown-haired uniformed hero stands on a grassy riverbank in foreground left with two feet firmly grounded, hand relaxed over his chest as wind lifts hair and hem slightly. A luminous cool-blue gentle stream curves from near foreground toward distant navy night horizon; sky transitions in CLEAN FLAT COLOR BANDS from pale turquoise near hero to indigo distance, crescent and tiny pixel stars far away. Sparse leaves carried by a visually gentle breeze follow the same path as water, tying wind, river and boy together. Near water reflects hero's teal silhouette in deliberately broad pixel shapes. No literal blood, wounds, glowing veins, swimming or dangerous current. This is his internal vision of freedom, not a geographical school courtyard change.",
+      "info": "把风、河流与主角连成同一运动方向，并让河流延伸入夜色。",
+      "caption": "或者它才是自由本身，这缕亭亭玉立的风，这条潺潺流往夜色的河，它们融进了我的血，它们才是我！",
+      "prompt": "Use case: illustration-story.\nAsset: static prose storyboard keyframe 12, 风与流向夜色的河.\nInput images: reference for original identity and pixel style only, not a composition to crop.\nStyle: match the provided stronger-pixel classroom style reference. Beautiful original cute handheld 16-bit RPG pixel art, noticeably large uniform square pixel clusters, intentional stair-step contours, dark navy pixel outlines, broad clean three-tone color regions, restrained shared palette, warm amber wood versus teal clothing and cool blue shadows. Visual character of a native 320x180 logical image enlarged with nearest-neighbor pixels. No smooth painterly texture, fine hair strands, blur, bloom, gradients or photographic rendering. Faces readable and charming. Full 16:9 single image, no collage, no split panels, no title or numbering. Bottom opaque dark navy RPG caption panel with tiny light blue pixel corners, large crisp white Chinese caption. Typography may remain high resolution for readability. Use 2-3 caption lines as needed without covering characters.\nCharacter identity: original teenage high-school boy, short spiky warm brown hair, dark eyes, teal-green vest over white long-sleeved collared shirt, small red tie, navy trousers, brown shoes. Keep him recognizable, not a franchise character. Deskmate has short navy hair and the same school uniform. Classmates have varied navy/brown hairstyles and the same uniform. Ordinary modest school clothing. Correct bodies, exactly two arms/two legs per visible person, no disembodied limbs or duplicated shoes.\nClassroom continuity: front wall blackboard and teacher desk on ONE raised platform step; opposite rear wall has bookcases and cabinets. Physical left wall (when seated facing front) is a horizontal bank of straight rectangular SLIDING windows with level sill and horizontal tracks, normal solid wall below. No hinged, outward swinging, diagonal or bent panes. Three lanes of paired desks, each pair TWO adjoining single wooden desks and TWO separate chairs BEHIND them. Hero stays in the LAST row, window-side half of his pair. His navy-haired deskmate has the interior-side half, together in one pair, never a different row. Desk in front of torso, chair back behind back, hip on seat, thighs extend UNDER desk, knees bent, two feet on floor. Pair seam between their desk tops, never through a body. Enough classmates; everyone supported by chair or floor. Keep projected window-side consistent with the camera direction.\nScene request: NEW poetic imagined outdoor scene, wide scenic view. Original brown-haired uniformed hero stands on a grassy riverbank in foreground left with two feet firmly grounded, hand relaxed over his chest as wind lifts hair and hem slightly. A luminous cool-blue gentle stream curves from near foreground toward distant navy night horizon; sky transitions in CLEAN FLAT COLOR BANDS from pale turquoise near hero to indigo distance, crescent and tiny pixel stars far away. Sparse leaves carried by a visually gentle breeze follow the same path as water, tying wind, river and boy together. Near water reflects hero's teal silhouette in deliberately broad pixel shapes. No literal blood, wounds, glowing veins, swimming or dangerous current. This is his internal vision of freedom, not a geographical school courtyard change.\nExact Chinese caption (verbatim; wrap for display without deleting or rewriting any character): \"或者它才是自由本身，这缕亭亭玉立的风，这条潺潺流往夜色的河，它们融进了我的血，它们才是我！\"\nKeep caption band about 20-24% of image height, generous line spacing, comfortably large white type.\nNo other visible words, labels or logos. Preserve bodily supports and architecture with deliberate perspective. This is still illustration, no animation or audio.",
+      "source": "/workspace/generated_images/exec-f942a906-4263-454a-a3b1-70bdd8fd29c0.png",
+      "original_sentences": [
+        {
+          "id": 16,
+          "text": "或者它才是自由本身，这缕亭亭玉立的风，这条潺潺流往夜色的河，它们融进了我的血，它们才是我！",
+          "audio_file": "016.wav",
+          "start_seconds": 95.35,
+          "end_seconds": 105.05
+        }
+      ]
+    },
+    {
+      "n": 13,
+      "title": "意气风发的想象",
+      "file": "13-social-confidence.png",
+      "ids": [
+        17
+      ],
+      "kind": "new_drawing",
+      "refs": [
+        "/workspace/pixel-video/rpg-film/reboot-shots/pixel-strength/04-after-opening-stronger-pixel.png"
+      ],
+      "scene": "NEW imagined confident everyday school courtyard scene in warm late-afternoon light, visibly different setting from classroom. Original brown-haired boy in SAME modest school uniform stands naturally center-left on tiled ground, lively posture, open friendly smile, holding a notebook in one hand and gently gesturing with the other. Two fully clothed girls/classmates with navy bob and brown ponytail in matching school vests, white shirts and navy knee-length skirts stand nearby smiling in relaxed conversation, another boy friend beside them with own space. Group is playful and comfortable, everyone has two anatomically natural grounded legs/feet and respectful personal space. No touching, sexualized poses, exposed underwear, erotic framing or adultized bodies. The illustration conveys the narrator's imagined social ease, with subtle idealized warm pixel light. Caption is original prose, no new dialogue.",
+      "info": "画出主角幻想中的主动交流与自信，人物保持自然、完整的校服形象。",
+      "caption": "是的，我不是一个弱小的学生，我本也可以意气风发，",
+      "prompt": "Use case: illustration-story. Draw a NEW independent static scene in the supplied original pixel RPG visual style. Reference is ONLY for the original boy's identity, outfit, warm/cool palette and visibly large square pixel clusters, not a composition to reuse.\nScene: an ordinary wholesome high-school courtyard conversation. The same original short spiky brown-haired schoolboy in teal vest, white shirt, small red tie, navy trousers and brown shoes stands center-left on tiled ground. He smiles confidently and shows a notebook to three classmates wearing the same complete modest school uniform, a navy-haired boy, a bob-haired girl and a ponytailed girl. They look at the notebook and share a friendly smile, with normal personal space and relaxed arms. All figures stand on the ground with two naturally connected legs, two shoes and contact shadows. Keep cute compact RPG proportions of approximately four-and-a-half head heights, expressive simple faces and the same identity as reference. Warm afternoon trees and a familiar school building surround them. This is an imagined moment of social confidence and friendship.\nMedium: hand-crafted enlarged low-resolution 16-bit pixel art, broad uniform square pixel clusters, crisp intentional stair-step edges, dark navy outlines, simple flat base/light/shadow regions. Teal/green and amber palette with cool navy accents. Full 16:9, one scene, no collage. Bottom dark navy RPG panel with decorative pixel corners and very large clean white Chinese lettering, exact caption: \"是的，我不是一个弱小的学生，我本也可以意气风发，\". No other text. Caption is a static preview excerpt, leave full original prose outside the generated artwork.",
+      "caption_note": "图片生成器拒绝了含原句全文的绘图请求；采用原句前半段的字幕示意，全文保持在原文记录与正式旁白中。",
+      "source": "/workspace/generated_images/exec-001882bf-4c4f-4a41-ab74-c3bcdbffed59.png",
+      "original_sentences": [
+        {
+          "id": 17,
+          "text": "是的，我不是一个弱小的学生，我本也可以意气风发，学着男同学去和女同学调笑，享受她们的娇嫩欲滴。",
+          "audio_file": "017.wav",
+          "start_seconds": 105.3,
+          "end_seconds": 115.12
+        }
+      ]
+    },
+    {
+      "n": 14,
+      "title": "优雅骑士与学校的君主",
+      "file": "14-knight-and-school-king.png",
+      "ids": [
+        18
+      ],
+      "kind": "new_drawing",
+      "refs": [
+        "/workspace/pixel-video/rpg-film/reboot-shots/pixel-strength/04-after-opening-stronger-pixel.png"
+      ],
+      "scene": "NEW original handheld-RPG fantasy castle-school interior, not a classroom crop. Original brown-haired hero recognized by same spiky hair and face, wearing elegant simple silver-blue armor OVER teal tunic, red scarf echoing tie, short teal cape, NO face-covering helmet. Full figure center-left, one knee gently kneels on stone floor in a coherent kneeling pose, rear knee grounded, front foot planted, two arms offer a rolled letter. Distant school monarch in understated academic robe and small crown sits on a throne on ONE raised dais at upper right, symbolically echoing classroom podium; large green inset behind throne recalls blackboard, stone arch windows reflect familiar school rectangular geometry. A small tray with a few gold coins and a modest single flower beside dais suggests reward and affection. No fighting, monsters or weapons. Clear charming RPG shapes, bright daylight patches, strong square pixels. Keep hero anatomy simple and correct.",
+      "info": "为骑士联想绘制全新幻想场景，用高台和绿色墙面呼应现实教室。",
+      "caption": "或者当一个美丽优雅的骑士，去为学校的君主做事，讨来货币和爱情。",
+      "prompt": "Use case: illustration-story.\nAsset: static prose storyboard keyframe 14, 优雅骑士与学校的君主.\nInput images: reference for original identity and pixel style only, not a composition to crop.\nStyle: match the provided stronger-pixel classroom style reference. Beautiful original cute handheld 16-bit RPG pixel art, noticeably large uniform square pixel clusters, intentional stair-step contours, dark navy pixel outlines, broad clean three-tone color regions, restrained shared palette, warm amber wood versus teal clothing and cool blue shadows. Visual character of a native 320x180 logical image enlarged with nearest-neighbor pixels. No smooth painterly texture, fine hair strands, blur, bloom, gradients or photographic rendering. Faces readable and charming. Full 16:9 single image, no collage, no split panels, no title or numbering. Bottom opaque dark navy RPG caption panel with tiny light blue pixel corners, large crisp white Chinese caption. Typography may remain high resolution for readability. Use 2-3 caption lines as needed without covering characters.\nCharacter identity: original teenage high-school boy, short spiky warm brown hair, dark eyes, teal-green vest over white long-sleeved collared shirt, small red tie, navy trousers, brown shoes. Keep him recognizable, not a franchise character. Deskmate has short navy hair and the same school uniform. Classmates have varied navy/brown hairstyles and the same uniform. Ordinary modest school clothing. Correct bodies, exactly two arms/two legs per visible person, no disembodied limbs or duplicated shoes.\nClassroom continuity: front wall blackboard and teacher desk on ONE raised platform step; opposite rear wall has bookcases and cabinets. Physical left wall (when seated facing front) is a horizontal bank of straight rectangular SLIDING windows with level sill and horizontal tracks, normal solid wall below. No hinged, outward swinging, diagonal or bent panes. Three lanes of paired desks, each pair TWO adjoining single wooden desks and TWO separate chairs BEHIND them. Hero stays in the LAST row, window-side half of his pair. His navy-haired deskmate has the interior-side half, together in one pair, never a different row. Desk in front of torso, chair back behind back, hip on seat, thighs extend UNDER desk, knees bent, two feet on floor. Pair seam between their desk tops, never through a body. Enough classmates; everyone supported by chair or floor. Keep projected window-side consistent with the camera direction.\nScene request: NEW original handheld-RPG fantasy castle-school interior, not a classroom crop. Original brown-haired hero recognized by same spiky hair and face, wearing elegant simple silver-blue armor OVER teal tunic, red scarf echoing tie, short teal cape, NO face-covering helmet. Full figure center-left, one knee gently kneels on stone floor in a coherent kneeling pose, rear knee grounded, front foot planted, two arms offer a rolled letter. Distant school monarch in understated academic robe and small crown sits on a throne on ONE raised dais at upper right, symbolically echoing classroom podium; large green inset behind throne recalls blackboard, stone arch windows reflect familiar school rectangular geometry. A small tray with a few gold coins and a modest single flower beside dais suggests reward and affection. No fighting, monsters or weapons. Clear charming RPG shapes, bright daylight patches, strong square pixels. Keep hero anatomy simple and correct.\nExact Chinese caption (verbatim; wrap for display without deleting or rewriting any character): \"或者当一个美丽优雅的骑士，去为学校的君主做事，讨来货币和爱情。\"\nKeep caption band about 20-24% of image height, generous line spacing, comfortably large white type.\nNo other visible words, labels or logos. Preserve bodily supports and architecture with deliberate perspective. This is still illustration, no animation or audio.",
+      "source": "/workspace/generated_images/exec-ebbc3c86-8d9f-474c-9ed1-5dae838d28e4.png",
+      "original_sentences": [
+        {
+          "id": 18,
+          "text": "或者当一个美丽优雅的骑士，去为学校的君主做事，讨来货币和爱情。",
+          "audio_file": "018.wav",
+          "start_seconds": 115.37,
+          "end_seconds": 121.95
+        }
+      ]
+    },
+    {
+      "n": 15,
+      "title": "回到原位，仍跑不出去",
+      "file": "15-return-to-classroom.png",
+      "ids": [
+        19,
+        20
+      ],
+      "kind": "new_drawing",
+      "refs": [
+        "/workspace/pixel-video/rpg-film/reboot-shots/pixel-strength/04-after-opening-stronger-pixel.png"
+      ],
+      "scene": "NEW front-interior three-quarter medium shot toward REAR window seat, windows SCREEN RIGHT. Return to REAL classroom at blue-gray dusk. Original brown-haired boy again in teal school vest/white shirt/red tie sits in own last-row window-side chair behind his own paired desk, feet grounded, closes a small illustrated book gently with both hands, shoulders low, face quiet and uncertain. Small fading reflection of the fantasy castle can appear only on right glass, almost gone, not real armor left on boy. His interior-side deskmate's adjacent chair at SCREEN LEFT is empty with bag and notebooks, same pair. Desk seam remains away from boy's torso. Other paired rows and a few classmates remain in background, rear cabinets on back wall. Horizontal window stays slightly OPEN from earlier scene; narrow air gap and thin blue courtyard glow remain. Rail and fixed frame straight. Draw fresh angle, new hands/action and dusk color; do not crop any old scene.",
+      "info": "通过合上想象中的书、恢复校服和原座位、暮色变暗表现保持现状与受困。",
+      "caption": "但是我不会去做的，我只是想保持现状，因为我根本不知道怎么才能办得到啊。我还是跑不出那间教室啊，那阵风成了我的症候。",
+      "prompt": "Use case: illustration-story.\nAsset: static prose storyboard keyframe 15, 回到原位，仍跑不出去.\nInput images: reference for original identity and pixel style only, not a composition to crop.\nStyle: match the provided stronger-pixel classroom style reference. Beautiful original cute handheld 16-bit RPG pixel art, noticeably large uniform square pixel clusters, intentional stair-step contours, dark navy pixel outlines, broad clean three-tone color regions, restrained shared palette, warm amber wood versus teal clothing and cool blue shadows. Visual character of a native 320x180 logical image enlarged with nearest-neighbor pixels. No smooth painterly texture, fine hair strands, blur, bloom, gradients or photographic rendering. Faces readable and charming. Full 16:9 single image, no collage, no split panels, no title or numbering. Bottom opaque dark navy RPG caption panel with tiny light blue pixel corners, large crisp white Chinese caption. Typography may remain high resolution for readability. Use 2-3 caption lines as needed without covering characters.\nCharacter identity: original teenage high-school boy, short spiky warm brown hair, dark eyes, teal-green vest over white long-sleeved collared shirt, small red tie, navy trousers, brown shoes. Keep him recognizable, not a franchise character. Deskmate has short navy hair and the same school uniform. Classmates have varied navy/brown hairstyles and the same uniform. Ordinary modest school clothing. Correct bodies, exactly two arms/two legs per visible person, no disembodied limbs or duplicated shoes.\nClassroom continuity: front wall blackboard and teacher desk on ONE raised platform step; opposite rear wall has bookcases and cabinets. Physical left wall (when seated facing front) is a horizontal bank of straight rectangular SLIDING windows with level sill and horizontal tracks, normal solid wall below. No hinged, outward swinging, diagonal or bent panes. Three lanes of paired desks, each pair TWO adjoining single wooden desks and TWO separate chairs BEHIND them. Hero stays in the LAST row, window-side half of his pair. His navy-haired deskmate has the interior-side half, together in one pair, never a different row. Desk in front of torso, chair back behind back, hip on seat, thighs extend UNDER desk, knees bent, two feet on floor. Pair seam between their desk tops, never through a body. Enough classmates; everyone supported by chair or floor. Keep projected window-side consistent with the camera direction.\nScene request: NEW front-interior three-quarter medium shot toward REAR window seat, windows SCREEN RIGHT. Return to REAL classroom at blue-gray dusk. Original brown-haired boy again in teal school vest/white shirt/red tie sits in own last-row window-side chair behind his own paired desk, feet grounded, closes a small illustrated book gently with both hands, shoulders low, face quiet and uncertain. Small fading reflection of the fantasy castle can appear only on right glass, almost gone, not real armor left on boy. His interior-side deskmate's adjacent chair at SCREEN LEFT is empty with bag and notebooks, same pair. Desk seam remains away from boy's torso. Other paired rows and a few classmates remain in background, rear cabinets on back wall. Horizontal window stays slightly OPEN from earlier scene; narrow air gap and thin blue courtyard glow remain. Rail and fixed frame straight. Draw fresh angle, new hands/action and dusk color; do not crop any old scene.\nExact Chinese caption (verbatim; wrap for display without deleting or rewriting any character): \"但是我不会去做的，我只是想保持现状，因为我根本不知道怎么才能办得到啊。我还是跑不出那间教室啊，那阵风成了我的症候。\"\nUse a generous bottom caption band about 25-28% of image height for three fully legible large text lines; preserve all punctuation.\nNo other visible words, labels or logos. Preserve bodily supports and architecture with deliberate perspective. This is still illustration, no animation or audio.",
+      "source": "/workspace/generated_images/exec-3e75a2c8-9ef3-4964-899c-9e5fce827b68.png",
+      "original_sentences": [
+        {
+          "id": 19,
+          "text": "但是我不会去做的，我只是想保持现状，因为我根本不知道怎么才能办得到啊。",
+          "audio_file": "019.wav",
+          "start_seconds": 122.2,
+          "end_seconds": 129.46
+        },
+        {
+          "id": 20,
+          "text": "我还是跑不出那间教室啊，那阵风成了我的症候。",
+          "audio_file": "020.wav",
+          "start_seconds": 129.71,
+          "end_seconds": 134.27
+        }
+      ]
+    },
+    {
+      "n": 16,
+      "title": "夜色里的全部光明",
+      "file": "16-final-window-light.png",
+      "ids": [
+        21
+      ],
+      "kind": "new_drawing",
+      "refs": [
+        "/workspace/pixel-video/rpg-film/reboot-shots/pixel-strength/04-after-opening-stronger-pixel.png"
+      ],
+      "scene": "NEW final intimate night composition, camera at hero's tabletop level from interior FRONT SIDE looking back across his own window-side desk. Windows on SCREEN RIGHT, rear cabinets fade into dark background, actual school courtyard outdoors indigo at night. Brown-haired boy remains naturally seated behind desk, only upper body and chair-supported hips need be seen, with own chair back behind him. Head in gentle three-quarter profile toward right window, eyes OPEN quietly watching a narrow cool window glow; no tears required. Interior-side empty deskmate chair to left in same pair. Foreground blank pale notebook and resting hand receive a small rectangle of blue window light. Window still horizontal sliding, small open gap, fixed frame clear. Most scene is quiet deep navy masses, a few broad teal midtones, face and page edged in pale cool blue, tiny warm brown hair accents. No desk lamp or magic beam source; window-night light is his only light. Rain sparse, one leaf at sill. Distinct new close composition and nighttime pose, no crop from approved rear view, no artificial zoom. Emotional final image with large dark negative space.",
+      "info": "让窗光成为脸和纸页上唯一清楚的亮色，用新的夜间近景收住全文。",
+      "caption": "夜色撇下一抹沉沉的亮，竟成了我的全部光明。",
+      "prompt": "Use case: illustration-story.\nAsset: static prose storyboard keyframe 16, 夜色里的全部光明.\nInput images: reference for original identity and pixel style only, not a composition to crop.\nStyle: match the provided stronger-pixel classroom style reference. Beautiful original cute handheld 16-bit RPG pixel art, noticeably large uniform square pixel clusters, intentional stair-step contours, dark navy pixel outlines, broad clean three-tone color regions, restrained shared palette, warm amber wood versus teal clothing and cool blue shadows. Visual character of a native 320x180 logical image enlarged with nearest-neighbor pixels. No smooth painterly texture, fine hair strands, blur, bloom, gradients or photographic rendering. Faces readable and charming. Full 16:9 single image, no collage, no split panels, no title or numbering. Bottom opaque dark navy RPG caption panel with tiny light blue pixel corners, large crisp white Chinese caption. Typography may remain high resolution for readability. Use 2-3 caption lines as needed without covering characters.\nCharacter identity: original teenage high-school boy, short spiky warm brown hair, dark eyes, teal-green vest over white long-sleeved collared shirt, small red tie, navy trousers, brown shoes. Keep him recognizable, not a franchise character. Deskmate has short navy hair and the same school uniform. Classmates have varied navy/brown hairstyles and the same uniform. Ordinary modest school clothing. Correct bodies, exactly two arms/two legs per visible person, no disembodied limbs or duplicated shoes.\nClassroom continuity: front wall blackboard and teacher desk on ONE raised platform step; opposite rear wall has bookcases and cabinets. Physical left wall (when seated facing front) is a horizontal bank of straight rectangular SLIDING windows with level sill and horizontal tracks, normal solid wall below. No hinged, outward swinging, diagonal or bent panes. Three lanes of paired desks, each pair TWO adjoining single wooden desks and TWO separate chairs BEHIND them. Hero stays in the LAST row, window-side half of his pair. His navy-haired deskmate has the interior-side half, together in one pair, never a different row. Desk in front of torso, chair back behind back, hip on seat, thighs extend UNDER desk, knees bent, two feet on floor. Pair seam between their desk tops, never through a body. Enough classmates; everyone supported by chair or floor. Keep projected window-side consistent with the camera direction.\nScene request: NEW final intimate night composition, camera at hero's tabletop level from interior FRONT SIDE looking back across his own window-side desk. Windows on SCREEN RIGHT, rear cabinets fade into dark background, actual school courtyard outdoors indigo at night. Brown-haired boy remains naturally seated behind desk, only upper body and chair-supported hips need be seen, with own chair back behind him. Head in gentle three-quarter profile toward right window, eyes OPEN quietly watching a narrow cool window glow; no tears required. Interior-side empty deskmate chair to left in same pair. Foreground blank pale notebook and resting hand receive a small rectangle of blue window light. Window still horizontal sliding, small open gap, fixed frame clear. Most scene is quiet deep navy masses, a few broad teal midtones, face and page edged in pale cool blue, tiny warm brown hair accents. No desk lamp or magic beam source; window-night light is his only light. Rain sparse, one leaf at sill. Distinct new close composition and nighttime pose, no crop from approved rear view, no artificial zoom. Emotional final image with large dark negative space.\nExact Chinese caption (verbatim; wrap for display without deleting or rewriting any character): \"夜色撇下一抹沉沉的亮，竟成了我的全部光明。\"\nKeep caption band about 20-24% of image height, generous line spacing, comfortably large white type.\nNo other visible words, labels or logos. Preserve bodily supports and architecture with deliberate perspective. This is still illustration, no animation or audio.",
+      "source": "/workspace/generated_images/exec-800bfcd6-74d5-46a8-8c9f-38b85a240947.png",
+      "original_sentences": [
+        {
+          "id": 21,
+          "text": "夜色撇下一抹沉沉的亮，竟成了我的全部光明。",
+          "audio_file": "021.wav",
+          "start_seconds": 134.52,
+          "end_seconds": 139
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "scope": "16 static keyframes covering all 21 original sentences; not a rendered film",
+  "camera_policy_for_future_animation": "单镜头固定相机，用剪辑、人物动作和光色变化推进",
+  "narration_policy": "全文原句、原有顺序与曼波朗读保留；当前PNG没有音频",
+  "original_source": "../narration/original.txt",
+  "narration_timing_source": "../narration/mambo/timings.json",
+  "image_caption_exception": {
+    "shot": 13,
+    "sentence_id": 17,
+    "note": "图上只示意原句前半段。图像工具拦截了包含该句全文的初稿请求；未改写、删去或替换分镜记录及正式旁白的原文。"
+  },
+  "shots": [
+    {
+      "number": 1,
+      "title": "教室的拥挤",
+      "image": "01-cramped-classroom.png",
+      "source_sentence_ids": [
+        1,
+        2
+      ],
+      "original_sentences": [
+        {
+          "id": 1,
+          "text": "不知道大家的中学生活是怎么样的？",
+          "audio_file": "001.wav",
+          "start_seconds": 0,
+          "end_seconds": 2.86
+        },
+        {
+          "id": 2,
+          "text": "主播高中的教室是狭窄逼仄的。",
+          "audio_file": "002.wav",
+          "start_seconds": 3.11,
+          "end_seconds": 6.01
+        }
+      ],
+      "caption_in_image": "不知道大家的中学生活是怎么样的？主播高中的教室是狭窄逼仄的。",
+      "caption_note": "对应原句全文的大字幕示意；正式视频需单独按时间轴渲染。",
+      "narrative_information": "建立教室空间与主人公位置，保留已确认核心构图。",
+      "asset_kind": "core_style_edit",
+      "status": "static_keyframe_for_review"
+    },
+    {
+      "number": 2,
+      "title": "桌列与高台",
+      "image": "02-desks-and-platform.png",
+      "source_sentence_ids": [
+        3
+      ],
+      "original_sentences": [
+        {
+          "id": 3,
+          "text": "教室的布局说来也简单，几路层层格格的铁轨规矩地张满地板，前头努力抵住前面的山坳，毕竟那上面还有座高高的庙。",
+          "audio_file": "003.wav",
+          "start_seconds": 6.26,
+          "end_seconds": 16.58
+        }
+      ],
+      "caption_in_image": "教室的布局说来也简单，几路层层格格的铁轨规矩地张满地板，前头努力抵住前面的山坳，毕竟那上面还有座高高的庙。",
+      "caption_note": "对应原句全文的大字幕示意；正式视频需单独按时间轴渲染。",
+      "narrative_information": "用桌腿与地砖引线、清晰的一层高台和台上讲桌表现原文比喻。",
+      "asset_kind": "new_drawing",
+      "status": "static_keyframe_for_review"
+    },
+    {
+      "number": 3,
+      "title": "后排的呼吸",
+      "image": "03-rear-breathing-space.png",
+      "source_sentence_ids": [
+        4
+      ],
+      "original_sentences": [
+        {
+          "id": 4,
+          "text": "后面留了些空，以供我们偶尔快活地呼吸，不至于终日只做个夹层里的石子，任人布置、碾轧。",
+          "audio_file": "004.wav",
+          "start_seconds": 16.83,
+          "end_seconds": 26.25
+        }
+      ],
+      "caption_in_image": "后面留了些空，以供我们偶尔快活地呼吸，不至于终日只做个夹层里的石子，任人布置、碾轧。",
+      "caption_note": "对应原句全文的大字幕示意；正式视频需单独按时间轴渲染。",
+      "narrative_information": "展示真实后排通道与站立交流，把拥挤中的空隙画出来。",
+      "asset_kind": "new_drawing",
+      "status": "static_keyframe_for_review"
+    },
+    {
+      "number": 4,
+      "title": "找不到河流的边界",
+      "image": "04-river-boundaries.png",
+      "source_sentence_ids": [
+        5
+      ],
+      "original_sentences": [
+        {
+          "id": 5,
+          "text": "我其实一直不懂，同学们分明与我在同一条河流里面翻来覆去，却轻而易举地找到了水的边界。",
+          "audio_file": "005.wav",
+          "start_seconds": 26.5,
+          "end_seconds": 35.12
+        }
+      ],
+      "caption_in_image": "我其实一直不懂，同学们分明与我在同一条河流里面翻来覆去，却轻而易举地找到了水的边界。",
+      "caption_note": "对应原句全文的大字幕示意；正式视频需单独按时间轴渲染。",
+      "narrative_information": "以主角停在河中踏石、同学已走上河岸表现同在河流却找不到边界。",
+      "asset_kind": "new_drawing",
+      "status": "static_keyframe_for_review"
+    },
+    {
+      "number": 5,
+      "title": "同学的小世界",
+      "image": "05-little-worlds.png",
+      "source_sentence_ids": [
+        6,
+        7
+      ],
+      "original_sentences": [
+        {
+          "id": 6,
+          "text": "仔细想来，他们开学不久就已经能各自取乐了。",
+          "audio_file": "006.wav",
+          "start_seconds": 35.37,
+          "end_seconds": 39.65
+        },
+        {
+          "id": 7,
+          "text": "他们围成了一个个小小世界，讲述着我听不懂的历史。",
+          "audio_file": "007.wav",
+          "start_seconds": 39.9,
+          "end_seconds": 44.46
+        }
+      ],
+      "caption_in_image": "仔细想来，他们开学不久就已经能各自取乐了。他们围成了一个个小小世界，讲述着我听不懂的历史。",
+      "caption_note": "对应原句全文的大字幕示意；正式视频需单独按时间轴渲染。",
+      "narrative_information": "保留已确认群像，用具体阅读交流与主角的距离表现各自取乐。",
+      "asset_kind": "core_style_edit",
+      "status": "static_keyframe_for_review"
+    },
+    {
+      "number": 6,
+      "title": "靠窗与欢笑的挤压",
+      "image": "06-window-seat.png",
+      "source_sentence_ids": [
+        8,
+        9
+      ],
+      "original_sentences": [
+        {
+          "id": 8,
+          "text": "我经常被安排到最左边靠窗的位置。",
+          "audio_file": "008.wav",
+          "start_seconds": 44.71,
+          "end_seconds": 47.73
+        },
+        {
+          "id": 9,
+          "text": "欢笑的空间实在挤压了我的生存，我真想拨开窗啊！",
+          "audio_file": "009.wav",
+          "start_seconds": 47.98,
+          "end_seconds": 52.82
+        }
+      ],
+      "caption_in_image": "我经常被安排到最左边靠窗的位置。欢笑的空间实在挤压了我的生存，我真想拨开窗啊！",
+      "caption_note": "对应原句全文的大字幕示意；正式视频需单独按时间轴渲染。",
+      "narrative_information": "用正常窗边座位、未完成的作业和旁边的交流表现想开窗的动机。",
+      "asset_kind": "new_drawing",
+      "status": "static_keyframe_for_review"
+    },
+    {
+      "number": 7,
+      "title": "方格里的梦想",
+      "image": "07-dream-in-window.png",
+      "source_sentence_ids": [
+        10
+      ],
+      "original_sentences": [
+        {
+          "id": 10,
+          "text": "那四四方方的格子里，或许住着一个梦想也说不定。",
+          "audio_file": "010.wav",
+          "start_seconds": 53.07,
+          "end_seconds": 57.63
+        }
+      ],
+      "caption_in_image": "那四四方方的格子里，或许住着一个梦想也说不定。",
+      "caption_note": "对应原句全文的大字幕示意；正式视频需单独按时间轴渲染。",
+      "narrative_information": "独立窗格细节把梦想放在玻璃外，主角倒影留在室内。",
+      "asset_kind": "new_drawing",
+      "status": "static_keyframe_for_review"
+    },
+    {
+      "number": 8,
+      "title": "目光与沉默",
+      "image": "08-gaze-and-silence.png",
+      "source_sentence_ids": [
+        11,
+        12
+      ],
+      "original_sentences": [
+        {
+          "id": 11,
+          "text": "只是我能经受灼热目光的冒险吗？",
+          "audio_file": "011.wav",
+          "start_seconds": 57.88,
+          "end_seconds": 60.86
+        },
+        {
+          "id": 12,
+          "text": "我本就不知道怎么办了，我孤冷又沉默，淫秽却无聊......",
+          "audio_file": "012.wav",
+          "start_seconds": 61.11,
+          "end_seconds": 66.69
+        }
+      ],
+      "caption_in_image": "只是我能经受灼热目光的冒险吗？我本就不知道怎么办了，我孤冷又沉默，淫秽却无聊......",
+      "caption_note": "对应原句全文的大字幕示意；正式视频需单独按时间轴渲染。",
+      "narrative_information": "用收肩、低头、攥笔和同学的短暂视线表现犹豫与沉默。",
+      "asset_kind": "new_drawing",
+      "status": "static_keyframe_for_review"
+    },
+    {
+      "number": 9,
+      "title": "同桌离席，伸向窗扣",
+      "image": "09-deskmate-leaves.png",
+      "source_sentence_ids": [
+        13
+      ],
+      "original_sentences": [
+        {
+          "id": 13,
+          "text": "但是，说不清道不明，趁着同桌不在，挟着自怜和愿望，我总是开了。",
+          "audio_file": "013.wav",
+          "start_seconds": 66.94,
+          "end_seconds": 74.8
+        }
+      ],
+      "caption_in_image": "但是，说不清道不明，趁着同桌不在，挟着自怜和愿望，我总是开了。",
+      "caption_note": "对应原句全文的大字幕示意；正式视频需单独按时间轴渲染。",
+      "narrative_information": "让同桌真实离开原座位，空椅与物品留下，主角才伸手触窗。",
+      "asset_kind": "new_drawing",
+      "status": "static_keyframe_for_review"
+    },
+    {
+      "number": 10,
+      "title": "第一人称横向推窗",
+      "image": "10-first-person-window.png",
+      "source_sentence_ids": [
+        14
+      ],
+      "original_sentences": [
+        {
+          "id": 14,
+          "text": "意识蹒跚着爬上窗扣，肢体却得到了勇气的奖赏，我缓缓支走那两片玻璃，天地之间唤起一片清澈的凉，教室里面映满了雨水和露水的影子，终是把我们都接成一片了。",
+          "audio_file": "014.wav",
+          "start_seconds": 75.05,
+          "end_seconds": 90.69
+        }
+      ],
+      "caption_in_image": "意识蹒跚着爬上窗扣，肢体却得到了勇气的奖赏，我缓缓支走那两片玻璃，天地之间唤起一片清澈的凉，教室里面映满了雨水和露水的影子，终是把我们都接成一片了。",
+      "caption_note": "对应原句全文的大字幕示意；正式视频需单独按时间轴渲染。",
+      "narrative_information": "保留已确认第一人称构图，统一像素颗粒与窗户的水平轨道。",
+      "asset_kind": "core_style_edit",
+      "status": "static_keyframe_for_review"
+    },
+    {
+      "number": 11,
+      "title": "风进入教室",
+      "image": "11-after-opening.png",
+      "source_sentence_ids": [
+        15
+      ],
+      "original_sentences": [
+        {
+          "id": 15,
+          "text": "我享受这份拥抱，因为它赞许了我们的自由。",
+          "audio_file": "015.wav",
+          "start_seconds": 90.94,
+          "end_seconds": 95.1
+        }
+      ],
+      "caption_in_image": "我享受这份拥抱，因为它赞许了我们的自由。",
+      "caption_note": "对应原句全文的大字幕示意；正式视频需单独按时间轴渲染。",
+      "narrative_information": "保留强像素核心图，表现开窗后的纸页、发梢、光色与主角状态。",
+      "asset_kind": "accepted_core_reuse",
+      "status": "static_keyframe_for_review"
+    },
+    {
+      "number": 12,
+      "title": "风与流向夜色的河",
+      "image": "12-wind-and-night-river.png",
+      "source_sentence_ids": [
+        16
+      ],
+      "original_sentences": [
+        {
+          "id": 16,
+          "text": "或者它才是自由本身，这缕亭亭玉立的风，这条潺潺流往夜色的河，它们融进了我的血，它们才是我！",
+          "audio_file": "016.wav",
+          "start_seconds": 95.35,
+          "end_seconds": 105.05
+        }
+      ],
+      "caption_in_image": "或者它才是自由本身，这缕亭亭玉立的风，这条潺潺流往夜色的河，它们融进了我的血，它们才是我！",
+      "caption_note": "对应原句全文的大字幕示意；正式视频需单独按时间轴渲染。",
+      "narrative_information": "把风、河流与主角连成同一运动方向，并让河流延伸入夜色。",
+      "asset_kind": "new_drawing",
+      "status": "static_keyframe_for_review"
+    },
+    {
+      "number": 13,
+      "title": "意气风发的想象",
+      "image": "13-social-confidence.png",
+      "source_sentence_ids": [
+        17
+      ],
+      "original_sentences": [
+        {
+          "id": 17,
+          "text": "是的，我不是一个弱小的学生，我本也可以意气风发，学着男同学去和女同学调笑，享受她们的娇嫩欲滴。",
+          "audio_file": "017.wav",
+          "start_seconds": 105.3,
+          "end_seconds": 115.12
+        }
+      ],
+      "caption_in_image": "是的，我不是一个弱小的学生，我本也可以意气风发，",
+      "caption_note": "图片生成器拒绝了含原句全文的绘图请求；采用原句前半段的字幕示意，全文保持在原文记录与正式旁白中。",
+      "narrative_information": "画出主角幻想中的主动交流与自信，人物保持自然、完整的校服形象。",
+      "asset_kind": "new_drawing",
+      "status": "static_keyframe_for_review"
+    },
+    {
+      "number": 14,
+      "title": "优雅骑士与学校的君主",
+      "image": "14-knight-and-school-king.png",
+      "source_sentence_ids": [
+        18
+      ],
+      "original_sentences": [
+        {
+          "id": 18,
+          "text": "或者当一个美丽优雅的骑士，去为学校的君主做事，讨来货币和爱情。",
+          "audio_file": "018.wav",
+          "start_seconds": 115.37,
+          "end_seconds": 121.95
+        }
+      ],
+      "caption_in_image": "或者当一个美丽优雅的骑士，去为学校的君主做事，讨来货币和爱情。",
+      "caption_note": "对应原句全文的大字幕示意；正式视频需单独按时间轴渲染。",
+      "narrative_information": "为骑士联想绘制全新幻想场景，用高台和绿色墙面呼应现实教室。",
+      "asset_kind": "new_drawing",
+      "status": "static_keyframe_for_review"
+    },
+    {
+      "number": 15,
+      "title": "回到原位，仍跑不出去",
+      "image": "15-return-to-classroom.png",
+      "source_sentence_ids": [
+        19,
+        20
+      ],
+      "original_sentences": [
+        {
+          "id": 19,
+          "text": "但是我不会去做的，我只是想保持现状，因为我根本不知道怎么才能办得到啊。",
+          "audio_file": "019.wav",
+          "start_seconds": 122.2,
+          "end_seconds": 129.46
+        },
+        {
+          "id": 20,
+          "text": "我还是跑不出那间教室啊，那阵风成了我的症候。",
+          "audio_file": "020.wav",
+          "start_seconds": 129.71,
+          "end_seconds": 134.27
+        }
+      ],
+      "caption_in_image": "但是我不会去做的，我只是想保持现状，因为我根本不知道怎么才能办得到啊。我还是跑不出那间教室啊，那阵风成了我的症候。",
+      "caption_note": "对应原句全文的大字幕示意；正式视频需单独按时间轴渲染。",
+      "narrative_information": "通过合上想象中的书、恢复校服和原座位、暮色变暗表现保持现状与受困。",
+      "asset_kind": "new_drawing",
+      "status": "static_keyframe_for_review"
+    },
+    {
+      "number": 16,
+      "title": "夜色里的全部光明",
+      "image": "16-final-window-light.png",
+      "source_sentence_ids": [
+        21
+      ],
+      "original_sentences": [
+        {
+          "id": 21,
+          "text": "夜色撇下一抹沉沉的亮，竟成了我的全部光明。",
+          "audio_file": "021.wav",
+          "start_seconds": 134.52,
+          "end_seconds": 139
+        }
+      ],
+      "caption_in_image": "夜色撇下一抹沉沉的亮，竟成了我的全部光明。",
+      "caption_note": "对应原句全文的大字幕示意；正式视频需单独按时间轴渲染。",
+      "narrative_information": "让窗光成为脸和纸页上唯一清楚的亮色，用新的夜间近景收住全文。",
+      "asset_kind": "new_drawing",
+      "status": "static_keyframe_for_review"
+    }
+  ]
+}

@@ -2,9 +2,13 @@
 
 根据一篇关于高中教室、窗边孤独与短暂自由的文章制作像素动画。
 
-当前按原文重新设计分镜，已绘制四张静态检查图：教室的拥挤、同学的小世界、第一人称推窗、开窗后的清凉。沿用掌机 RPG A 强像素风和原文大字幕，供检查画面；正式视频继续保留全文曼波朗读。
+当前已补齐《窗》的完整静态分镜：16 张关键图对应原文全部 21 句，新增 12 个画面，保留四张核心构图并统一更强的像素视觉。包含讲台与后排空间、窗边犹豫与同桌离席、第一人称推窗、河流与骑士的联想、回到暮色教室及夜色结尾。正式视频继续保留全文曼波朗读；本轮交付为静态图。
 
-**[查看四张新镜头](rpg-film/reboot-shots/README.md)** · **[下载原图包](https://raw.githubusercontent.com/2469781075-sys/pixel-video/main/rpg-film/reboot-shots/reboot-static-keyframes.zip)**
+**[查看完整 16 图画廊](rpg-film/complete-storyboard/README.md)** · **[下载完整原图与离线画廊](https://raw.githubusercontent.com/2469781075-sys/pixel-video/main/rpg-film/complete-storyboard/window-complete-storyboard.zip)**
+
+第 13 张图上只示意原句前半段，完整原文仍在分镜和正式旁白文案中，具体说明见画廊。新增图供用户检查。
+
+此前 **[四张核心图](rpg-film/reboot-shots/README.md)** · **[四图原包](https://raw.githubusercontent.com/2469781075-sys/pixel-video/main/rpg-film/reboot-shots/reboot-static-keyframes.zip)** 继续保留。
 
 第二版保留供对照：用户指出旧图裁切过多，以及主角、课桌和椅子关系不合理。第二版的技术导出已完成，但不代表画面验收通过。[侧面坐姿结构图及重制依据](rpg-film/rebuild-review/README.md)继续保留；静态检查图均不等于重制动画已完成。
 

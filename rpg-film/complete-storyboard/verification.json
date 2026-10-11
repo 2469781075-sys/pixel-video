@@ -1,0 +1,142 @@
+{
+  "scope": "static storyboard files and original prose mapping; not an animation",
+  "total_images": 16,
+  "original_sentence_count": 21,
+  "original_sentence_order_and_coverage": "passed: each of 21 sentences mapped exactly once, in original order",
+  "original_text_and_narration_timing_copies": "byte-identical",
+  "caption_metadata": "15 full corresponding-caption groups; image 13 contains an unchanged prefix of sentence 17, with full text retained in manifest and gallery",
+  "visual_review": "Manual inspection, corrected podium and rear space; new artwork awaits user review. Numerical integrity does not certify all anatomy or future frame continuity.",
+  "sentence_12_punctuation": "Six final dot-shaped white components observed in read-only image inspection, matching the six original full stops.",
+  "core_four": "Original core assets preserved; three style variants generated, after-opening stronger-pixel asset reused byte-for-byte",
+  "gallery_asset_references": "all sixteen PNG names present and files readable",
+  "images": [
+    {
+      "number": 1,
+      "file": "01-cramped-classroom.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2322748,
+      "sha256": "7edd4409a0cb9535ca7e1cf3b4d6a545b9e60f1e70a55bf48e4bf86a6c2e5194"
+    },
+    {
+      "number": 2,
+      "file": "02-desks-and-platform.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2066081,
+      "sha256": "2b714dead95a34dfed224b18aef26e9ff0e5235483dd063434ae428b7e053172"
+    },
+    {
+      "number": 3,
+      "file": "03-rear-breathing-space.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2261499,
+      "sha256": "e179ce052e962d870bbcbfd4470d0f39554c5462158a73577c5daa5ed0d2a2fe"
+    },
+    {
+      "number": 4,
+      "file": "04-river-boundaries.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2410018,
+      "sha256": "dcc176a3f623c444db6e9dd2704cde3799c4c32f6e055f74ccdd1463edffbb41"
+    },
+    {
+      "number": 5,
+      "file": "05-little-worlds.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2081589,
+      "sha256": "6ff881e28e8f8b113c29a8101e800ef485a2c1b69c4abb4e6359e18cc02919c7"
+    },
+    {
+      "number": 6,
+      "file": "06-window-seat.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 1992412,
+      "sha256": "17d9118b5540543ec38ed3dcc9bbce89881a32ba3d4dbeea19d2681f1c4d0a1a"
+    },
+    {
+      "number": 7,
+      "file": "07-dream-in-window.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2161159,
+      "sha256": "5889e45e02d9bb07378a3e35662b0976c18ac03f7531bbdfd9f1b7f199de993c"
+    },
+    {
+      "number": 8,
+      "file": "08-gaze-and-silence.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 1945380,
+      "sha256": "6c9379da47e176442b01811c42d6d57aa5379d0a8951700d4ab639df9d05ae4d"
+    },
+    {
+      "number": 9,
+      "file": "09-deskmate-leaves.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 1946220,
+      "sha256": "7a03460a23cdb5572f5b907ba0bfb35cc3ca05551530fd9bfea06c3e34f2be0e"
+    },
+    {
+      "number": 10,
+      "file": "10-first-person-window.png",
+      "width": 1671,
+      "height": 941,
+      "bytes": 2203664,
+      "sha256": "af7e88430e700545678a16466366f392678fc8342bfe608b47a0fea2d2db18bb"
+    },
+    {
+      "number": 11,
+      "file": "11-after-opening.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 1932558,
+      "sha256": "12d5b3b3bc22115bf2703f557f1cd2f09ef1bbfd226474238a6377cd6fb249c9"
+    },
+    {
+      "number": 12,
+      "file": "12-wind-and-night-river.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2084861,
+      "sha256": "788d694dd52c1849302410c2b11fab4268e82d7241ac1a8c69c22b2eaf795212"
+    },
+    {
+      "number": 13,
+      "file": "13-social-confidence.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2126793,
+      "sha256": "67c08f4ca4ec60075dfe90f0221fb2c42d5cfd56a1aa3d90a9f14099f8c9adcc"
+    },
+    {
+      "number": 14,
+      "file": "14-knight-and-school-king.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2056764,
+      "sha256": "ead9606ae6bc8389402eb671fb912112df79bdfd82379ac3b3c6300846367fbc"
+    },
+    {
+      "number": 15,
+      "file": "15-return-to-classroom.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 1907705,
+      "sha256": "fd7bc250f42b2f3bb2fdc1fbb642e1b5b82a57d3d89cf7d35aaa8fc0ce345792"
+    },
+    {
+      "number": 16,
+      "file": "16-final-window-light.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 1737534,
+      "sha256": "d02526d666685beac0ce92314f04a27db5be4a6fb5da8f41356eecd751f691bf"
+    }
+  ]
+}
