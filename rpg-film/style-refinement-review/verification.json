@@ -1,0 +1,108 @@
+{
+  "scope": "Two static style variants for review, original sixteen frames preserved byte-for-byte",
+  "png_integrity": "passed",
+  "caption_metadata": "passed",
+  "eye_repair_review": "Manual inspection of selected final classroom image; user review pending. Pixel changes are not proof of anatomical correctness.",
+  "images": [
+    {
+      "file": "01-classroom-rpg-refined.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2146394,
+      "sha256": "e308474e20527edf13dc33ff9eaea85cb81b98625ac5068b2b8f89accc8d44e1",
+      "source_shot": 1,
+      "caption_prompt_matches_original": true
+    },
+    {
+      "file": "02-river-rpg-refined.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2129319,
+      "sha256": "01a556639fcd433bc8d5939aa3970192f6194a5832c9f5f2b0fb6f2896552214",
+      "source_shot": 4,
+      "caption_prompt_matches_original": true
+    }
+  ],
+  "original_sixteen_frames": [
+    {
+      "file": "01-cramped-classroom.png",
+      "unchanged": true,
+      "sha256": "7edd4409a0cb9535ca7e1cf3b4d6a545b9e60f1e70a55bf48e4bf86a6c2e5194"
+    },
+    {
+      "file": "02-desks-and-platform.png",
+      "unchanged": true,
+      "sha256": "2b714dead95a34dfed224b18aef26e9ff0e5235483dd063434ae428b7e053172"
+    },
+    {
+      "file": "03-rear-breathing-space.png",
+      "unchanged": true,
+      "sha256": "e179ce052e962d870bbcbfd4470d0f39554c5462158a73577c5daa5ed0d2a2fe"
+    },
+    {
+      "file": "04-river-boundaries.png",
+      "unchanged": true,
+      "sha256": "dcc176a3f623c444db6e9dd2704cde3799c4c32f6e055f74ccdd1463edffbb41"
+    },
+    {
+      "file": "05-little-worlds.png",
+      "unchanged": true,
+      "sha256": "6ff881e28e8f8b113c29a8101e800ef485a2c1b69c4abb4e6359e18cc02919c7"
+    },
+    {
+      "file": "06-window-seat.png",
+      "unchanged": true,
+      "sha256": "17d9118b5540543ec38ed3dcc9bbce89881a32ba3d4dbeea19d2681f1c4d0a1a"
+    },
+    {
+      "file": "07-dream-in-window.png",
+      "unchanged": true,
+      "sha256": "5889e45e02d9bb07378a3e35662b0976c18ac03f7531bbdfd9f1b7f199de993c"
+    },
+    {
+      "file": "08-gaze-and-silence.png",
+      "unchanged": true,
+      "sha256": "6c9379da47e176442b01811c42d6d57aa5379d0a8951700d4ab639df9d05ae4d"
+    },
+    {
+      "file": "09-deskmate-leaves.png",
+      "unchanged": true,
+      "sha256": "7a03460a23cdb5572f5b907ba0bfb35cc3ca05551530fd9bfea06c3e34f2be0e"
+    },
+    {
+      "file": "10-first-person-window.png",
+      "unchanged": true,
+      "sha256": "af7e88430e700545678a16466366f392678fc8342bfe608b47a0fea2d2db18bb"
+    },
+    {
+      "file": "11-after-opening.png",
+      "unchanged": true,
+      "sha256": "12d5b3b3bc22115bf2703f557f1cd2f09ef1bbfd226474238a6377cd6fb249c9"
+    },
+    {
+      "file": "12-wind-and-night-river.png",
+      "unchanged": true,
+      "sha256": "788d694dd52c1849302410c2b11fab4268e82d7241ac1a8c69c22b2eaf795212"
+    },
+    {
+      "file": "13-social-confidence.png",
+      "unchanged": true,
+      "sha256": "67c08f4ca4ec60075dfe90f0221fb2c42d5cfd56a1aa3d90a9f14099f8c9adcc"
+    },
+    {
+      "file": "14-knight-and-school-king.png",
+      "unchanged": true,
+      "sha256": "ead9606ae6bc8389402eb671fb912112df79bdfd82379ac3b3c6300846367fbc"
+    },
+    {
+      "file": "15-return-to-classroom.png",
+      "unchanged": true,
+      "sha256": "fd7bc250f42b2f3bb2fdc1fbb642e1b5b82a57d3d89cf7d35aaa8fc0ce345792"
+    },
+    {
+      "file": "16-final-window-light.png",
+      "unchanged": true,
+      "sha256": "d02526d666685beac0ce92314f04a27db5be4a6fb5da8f41356eecd751f691bf"
+    }
+  ]
+}
